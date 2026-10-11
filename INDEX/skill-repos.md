@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-11（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part76
+- 编制日期：2026-10-12（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part77
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2085 个独立仓库（另注明更名别名）
+- 收录条数：2090 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -787,6 +787,7 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [hanzhcn/laohan-skills](https://github.com/hanzhcn/laohan-skills) | 11 | Chinese content-creation Agent Skills pack (选题→成片→多平台) for Claude Code/Codex/OpenClaw. | MIT | 23 | indexed-only |
 | [ssheleg/sshlg-skills](https://github.com/ssheleg/sshlg-skills) | 10 | Multi-pack Agent Skills family installer for Claude Code / coding agents (MIT). | MIT | 多 | indexed-only |
 | [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | 1 | YYLO canonical cross-agent skills for Ledger task, wiki, workflow, artifact, project understanding, planning, benchmarking, and Ralph execution loops. | MIT | 8 / 采编 2 | curated |
+| [pjt222/agent-almanac](https://github.com/pjt222/agent-almanac) | 37 | MIT library of executable skills, specialist agents, teams, and guides with validation, visualization, and cross-client Agent Skills support. | MIT | 373 canonical | indexed-only |
 
 ## 3. Vertical
 
@@ -1799,6 +1800,9 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [Adilmunawar/ZD-claude-plugin](https://github.com/Adilmunawar/ZD-claude-plugin) | 8 | Agricultural geospatial Claude plugin with satellite, PostGIS, Earth Engine, field workflow, and mobile/web delivery skills. | MIT | 81 | indexed-only |
 | [aianime0012-coder/vitruvius-skills](https://github.com/aianime0012-coder/vitruvius-skills) | 0 | AEC skills for IFC/DXF/BIM interoperability, building-code and life-safety review, MEP coordination, specifications, and sustainable design. | MIT | 8 | indexed-only |
 | [Alim430/bioresearch-agent](https://github.com/Alim430/bioresearch-agent) | 2 | Reproducible biomedical research skills for biomarker discovery, causal inference, differential expression, GWAS, MR, and standardized analysis outputs. | MIT | 14 | indexed-only |
+| [Community-Access/accessibility-agents](https://github.com/Community-Access/accessibility-agents) | 424 | MIT accessibility Agent Skills package with WCAG 2.2 AA specialists, routing, document checks, regression detection, and cross-client installation. | MIT | 108 | indexed-only |
+| [mgifford/accessibility-skills](https://github.com/mgifford/accessibility-skills) | 51 | AGPL accessibility skills distilled from canonical best-practice examples for alt text, forms, contrast, keyboard, media, plain language, and testing. | AGPL-3.0 | 33 | indexed-only |
+| [PangenomeAI/academic-skills-food-nutrition](https://github.com/PangenomeAI/academic-skills-food-nutrition) | 35 | MIT academic research skills for agriculture, food, and nutrition: source-validated research, pipelines, papers, reviews, presentations, and journal-ready finalization. | MIT | 41 | indexed-only |
 
 ## 4. Infra
 
@@ -1979,6 +1983,7 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [SylphAI-Inc/atskills](https://github.com/SylphAI-Inc/atskills) | 86 | Path-addressed on-demand skill protocol and tooling using SKILL.md, with ten example skills and optional persistence. | MIT | 10 examples | indexed-only |
 | [rhiza-research/weather-skills-core](https://github.com/rhiza-research/weather-skills-core) | 1 | Developer infrastructure for composable weather skills, shared Zarr contracts, provenance, linting, and a skill-authoring guide. | MIT | 1 | indexed-only |
 | [lawrence3699/agent-skills-corpus](https://github.com/lawrence3699/agent-skills-corpus) | 3 | Reproducible CC0 metadata corpus of public Agent Skills across GitHub, GitLab, and Gitee for deduplication, classification, and license research; not an installable skill pack. | CC0-1.0 (metadata); MIT (scripts); upstream licenses retained | 55,698 dataset records | indexed-only |
+| [codejunkie99/agentic-stack](https://github.com/codejunkie99/agentic-stack) | 2,295 | Apache portable .agent layer with 16 skills for memory, data, debugging, deployment, and agent loops across Claude, Codex, Cursor, Windsurf, OpenCode, and OpenClaw. | Apache-2.0 | 16 | indexed-only |
 
 ## 5. Other
 
