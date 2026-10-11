@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <picture><source media="(max-width: 600px)" srcset="assets/brand/stats-mobile.svg" /><img src="assets/brand/stats.svg" alt="1111 skills · 11 volumes · 6789 relation edges · 2085 indexed repositories" width="1200" /></picture>
+  <picture><source media="(max-width: 600px)" srcset="assets/brand/stats-mobile.svg" /><img src="assets/brand/stats.svg" alt="1111 skills · 11 volumes · 6789 relation edges · 2090 indexed repositories" width="1200" /></picture>
 </p>
 <!-- END GENERATED:brand -->
 
@@ -75,7 +75,7 @@
 <!-- BEGIN GENERATED:skill-repos -->
 ## 技能仓库目录
 
-目前索引 **2085** 个 GitHub 技能库/市场/精选列表。只根据 README 摘要，不收录对方源码、不复制 SKILL.md。
+目前索引 **2090** 个 GitHub 技能库/市场/精选列表。只根据 README 摘要，不收录对方源码、不复制 SKILL.md。
 
 完整分表（含 stars / summary / license）由 `data/skill-repos.jsonl`（及 part 分片）生成，见 **[INDEX/skill-repos.md](INDEX/skill-repos.md)**。本页为归类链接目录。
 
@@ -349,7 +349,7 @@
 </details>
 
 <details>
-<summary>2. 精选列表 / 大集合（collections）（477）</summary>
+<summary>2. 精选列表 / 大集合（collections）（478）</summary>
 
 - [`Shubhamsaboo/awesome-llm-apps`](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ 个 AI Agent、技能及 RAG 项目；主 agent_skills 目录提供 7 个可安装技能，涵盖稿件阅读与变更范围审查等工作流。
 - [`ComposioHQ/awesome-claude-skills`](https://github.com/ComposioHQ/awesome-claude-skills) — Claude Skills 最大社区精选之一，README 收录 1000+ 技能条目。
@@ -703,6 +703,7 @@
 - [`OpenLinkSoftware/ai-agent-skills`](https://github.com/OpenLinkSoftware/ai-agent-skills) — OpenLink OPAL 标准 SKILL.md 技能包与 ZIP 分发集合
 - [`Agents365-ai/365-skills`](https://github.com/Agents365-ai/365-skills) — Agents365生产级技能/插件市场；npx skills add + Claude marketplace。
 - [`glincker/claude-code-marketplace`](https://github.com/glincker/claude-code-marketplace) — 社区 Claude Code 市场：SDLC 代理与技能；插件市场安装。
+- [`pjt222/agent-almanac`](https://github.com/pjt222/agent-almanac) — MIT 可执行技能、专家 Agent、团队与指南库，提供校验、可视化及跨客户端 Agent Skills 支持。
 - [`agentskillexchange/skills`](https://github.com/agentskillexchange/skills) — Agent Skill Exchange 技能库。
 - [`tenequm/skills`](https://github.com/tenequm/skills) — 构建、发布与增长软件产品的 Agent Skills
 - [`transcendr/slopware-skills`](https://github.com/transcendr/slopware-skills) — Slopware 便携 Agent Skills/插件（MSW Kernel / Minimum Sufficient Work）
@@ -832,7 +833,7 @@
 </details>
 
 <details>
-<summary>3. 垂直领域技能包（vertical）（1007）</summary>
+<summary>3. 垂直领域技能包（vertical）（1010）</summary>
 
 - [`obra/superpowers`](https://github.com/obra/superpowers) — 方法论技能包：TDD、头脑风暴、子代理驱动开发等可组合工程纪律。
 - [`affaan-m/ECC`](https://github.com/affaan-m/ECC) — Everything Claude Code 后继：技能/代理/命令/钩子插件市场。原名 everything-claude-code。
@@ -1120,6 +1121,7 @@
 - [`gcpdev/llm-council-skill`](https://github.com/gcpdev/llm-council-skill) — 多 LLM 理事会头脑风暴 Skill。
 - [`rollingSirius/equity-research-skill`](https://github.com/rollingSirius/equity-research-skill) — 深度个股/财报研究与可复现估值 Skill（美/港/A）。
 - [`palkan/layered-rails-skills`](https://github.com/palkan/layered-rails-skills) — Layered Rails 架构实践 Agent Skills。
+- [`Community-Access/accessibility-agents`](https://github.com/Community-Access/accessibility-agents) — MIT 无障碍 Agent Skills 套件，覆盖 WCAG 2.2 AA 专家、任务路由、文档检查、回归检测及跨客户端安装。
 - [`appautomaton/latex-arxiv-SKILL`](https://github.com/appautomaton/latex-arxiv-SKILL) — 面向 arXiv 就绪论文的 LaTeX/科研 Skill。
 - [`obra/superpowers-lab`](https://github.com/obra/superpowers-lab) — Superpowers 实验技能 4 条：语义重复检测、mcp-cli、tmux 交互、windows-vm。
 - [`twostraws/Swift-Testing-Agent-Skill`](https://github.com/twostraws/Swift-Testing-Agent-Skill) — Swift Testing Agent Skill（Claude/Codex 等）。
@@ -1513,6 +1515,7 @@
 - [`rhiever/evident-charts`](https://github.com/rhiever/evident-charts) — 教 Agent 做清晰诚实图表并检查成图；Claude 插件 / npx skills add。
 - [`k7cfo/remove-your-data`](https://github.com/k7cfo/remove-your-data) — 从数据经纪商删除个人数据的 Agent-first Skill
 - [`lbiz-partners/hometax-doum`](https://github.com/lbiz-partners/hometax-doum) — 韩国 HomeTax 税务助手技能 6 种：增值税/综合所得税/电子发票等，面向小商户口语化引导。
+- [`mgifford/accessibility-skills`](https://github.com/mgifford/accessibility-skills) — AGPL 无障碍技能集合，源自规范示例，覆盖替代文本、表单、对比度、键盘、媒体、简明语言与测试。
 - [`moonlight-lupin/agent-skills`](https://github.com/moonlight-lupin/agent-skills) — Hermes Agent Skills（研究/创意/生产力/DevOps）。
 - [`Rtur2003/Claude-Code-Promts-Skills`](https://github.com/Rtur2003/Claude-Code-Promts-Skills) — 面向 Claude 编程 Agent 的生产级提示词/Skills 库。
 - [`socai-io/jev-social`](https://github.com/socai-io/jev-social) — Jev×socai 社媒研究技能：Instagram/TikTok/LinkedIn，浏览器取证与带引用报告；npx skills add。
@@ -1575,6 +1578,7 @@
 - [`Servosity/msp-skills`](https://github.com/Servosity/msp-skills) — MSP 工具（PSA/RMM/M365）本地优先 MCP + Skills
 - [`yha9806/academic-writing-toolkit`](https://github.com/yha9806/academic-writing-toolkit) — 证据可控的学术写作 Agent Skills（修订边界与发布治理）
 - [`AugustusW/audio-tldr-skill`](https://github.com/AugustusW/audio-tldr-skill) — 音视频/播客本地转写摘要 Claude Skill。
+- [`PangenomeAI/academic-skills-food-nutrition`](https://github.com/PangenomeAI/academic-skills-food-nutrition) — MIT 农业、食品与营养学术科研技能，覆盖来源核验研究、流水线、论文、综述、演示与期刊投稿定稿。
 - [`cedrickchee/text-to-cad`](https://github.com/cedrickchee/text-to-cad) — 开源文本转 CAD 工具链，提供可移植的 CAD、URDF 与机器人运动技能，支持经过校验的 build123d 和 STEP 工作流。
 - [`cfh-7598/cnki-codex-skills`](https://github.com/cfh-7598/cnki-codex-skills) — Codex-native CNKI skills with Playwright/CDP automation and Zotero exp…
 - [`cth9191/motion-design`](https://github.com/cth9191/motion-design) — 经 Higgsfield 改编运动设计成片的 Codex/Claude Skill
@@ -1845,7 +1849,7 @@
 </details>
 
 <details>
-<summary>4. 安装器 / 注册表 / 基础设施（infra）（175）</summary>
+<summary>4. 安装器 / 注册表 / 基础设施（infra）（176）</summary>
 
 - [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) — claude-mem：跨会话持久上下文记忆（捕获 agent 全程活动）。
 - [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) — 规格驱动开发 OpenSpec（含 agent skills）。
@@ -1868,6 +1872,7 @@
 - [`runkids/skillshare`](https://github.com/runkids/skillshare) — 一条命令跨 60+ AI CLI 同步/分享 Skills（含审计）。
 - [`yaojingang/yao-meta-skill`](https://github.com/yaojingang/yao-meta-skill) — YAO元技能：工程化/评测/治理/可移植的技能工作流。
 - [`rebelytics/one-skill-to-rule-them-all`](https://github.com/rebelytics/one-skill-to-rule-them-all) — 自改进元技能：构建并改进你的全部skills（含自身）。
+- [`codejunkie99/agentic-stack`](https://github.com/codejunkie99/agentic-stack) — Apache 可移植 .agent 层，含 16 条记忆、数据、调试、部署和 Agent 循环技能，兼容 Claude、Codex、Cursor、Windsurf、OpenCode 与 OpenClaw。
 - [`DenisSergeevitch/agents-best-practices`](https://github.com/DenisSergeevitch/agents-best-practices) — 跨厂商Agent Skill最佳实践（Codex/Claude/harness）。`npx skills add DenisSergeevitch/agents-best-practices`。
 - [`Astro-Han/karpathy-llm-wiki`](https://github.com/Astro-Han/karpathy-llm-wiki) — Karpathy风格LLM Wiki，兼容Claude/Cursor/Codex Agent Skills。
 - [`a5c-ai/babysitter`](https://github.com/a5c-ai/babysitter) — Agent 劳动力服从性与确定性自编排 harness。

@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-12 (Asia/Shanghai)",
+  "baseline_count": 2085,
+  "checked_candidate_count": 5,
+  "added_count": 5,
+  "deferred_or_excluded_count": 5,
+  "final_count": 2090,
+  "scope": "repository index only; no candidate installation, execution, cloning, or skill-body curation",
+  "collection_notes": [
+    "Local main and zh were compared case-insensitively by full_name before admission; no accepted candidate was already indexed.",
+    "GitHub public metadata supplied repository IDs and Stars snapshots; fixed commit trees and raw files supplied README, license, representative SKILL.md, and hash evidence without running candidate code.",
+    "Skill counts distinguish canonical public SKILL.md entries from translations, examples, archives, compatibility copies, agents, teams, guides, CLI files, and generated paths.",
+    "PangenomeAI adds the agriculture/science family; accessibility candidates add a previously uncovered accessibility collection family.",
+    "Forks, mirrors, no-license candidates, unresolved canonical URLs, documentation-only repositories, fixture-only repositories, and candidates with unresolved nested-license boundaries were excluded."
+  ],
+  "accepted": [
+    {
+      "full_name": "Community-Access/accessibility-agents",
+      "repository_id": 1163001600,
+      "checked_at": "2026-10-12",
+      "metadata_source": "github_public_api_and_commit_archive",
+      "stars": 424,
+      "fork": false,
+      "archived": false,
+      "source_tree_sha": "decf6bac7f086c19afb242797b4974671ceff597",
+      "readme_url": "https://github.com/Community-Access/accessibility-agents/blob/decf6bac7f086c19afb242797b4974671ceff597/README.md",
+      "license_url": "https://github.com/Community-Access/accessibility-agents/blob/decf6bac7f086c19afb242797b4974671ceff597/LICENSE",
+      "representative_skill_url": "https://github.com/Community-Access/accessibility-agents/blob/decf6bac7f086c19afb242797b4974671ceff597/skills/accessibility-lead/SKILL.md",
+      "readme_sha256": "540177008614c8be1c0b8a96c64cbfd8abec4e74fb44c08af22dc9bbaf9197da",
+      "license_sha256": "63ec85a190f22782f1f4ad17eafbec08ac508cd20a28029725ae5e73712d2183",
+      "representative_skill_sha256": "2b357dababfee25a37d46971d18eb2fb66f631ee13973c9201c99b75780115cf",
+      "license": "MIT",
+      "skill_count": "108",
+      "skill_count_basis": "108 skills/*/SKILL.md entries at the fixed tree; no per-client copies counted",
+      "install_or_distribution_evidence": "README documents a public install, plugin, CLI, or cross-agent consumption path; no candidate installation performed"
+    },
+    {
+      "full_name": "mgifford/accessibility-skills",
+      "repository_id": 1194841047,
+      "checked_at": "2026-10-12",
+      "metadata_source": "github_public_api_and_commit_archive",
+      "stars": 51,
+      "fork": false,
+      "archived": false,
+      "source_tree_sha": "ada839399f053c55e1a776a98c02f8904d70dd32",
+      "readme_url": "https://github.com/mgifford/accessibility-skills/blob/ada839399f053c55e1a776a98c02f8904d70dd32/README.md",
+      "license_url": "https://github.com/mgifford/accessibility-skills/blob/ada839399f053c55e1a776a98c02f8904d70dd32/LICENSE",
+      "representative_skill_url": "https://github.com/mgifford/accessibility-skills/blob/ada839399f053c55e1a776a98c02f8904d70dd32/skills/ACCESSIBILITY-general/SKILL.md",
+      "readme_sha256": "c12b3f87ea7d0a752cd3b739891af45db2b016aa7dab7ee7809ba83cd5c2e0e9",
+      "license_sha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef",
+      "representative_skill_sha256": "653bfaf330de368e16a9a9a3f32a597d847caa0f328897be8588939f6bd1c511",
+      "license": "AGPL-3.0",
+      "skill_count": "33",
+      "skill_count_basis": "33 canonical SKILL.md entries; examples are source guidance and .skill archives are distribution formats, not extra skills",
+      "install_or_distribution_evidence": "README documents a public install, plugin, CLI, or cross-agent consumption path; no candidate installation performed"
+    },
+    {
+      "full_name": "pjt222/agent-almanac",
+      "repository_id": 997411605,
+      "checked_at": "2026-10-12",
+      "metadata_source": "github_public_api_and_commit_archive",
+      "stars": 37,
+      "fork": false,
+      "archived": false,
+      "source_tree_sha": "6cf8915b43fa5745e600cecf8c996e5162a76eda",
+      "readme_url": "https://github.com/pjt222/agent-almanac/blob/6cf8915b43fa5745e600cecf8c996e5162a76eda/README.md",
+      "license_url": "https://github.com/pjt222/agent-almanac/blob/6cf8915b43fa5745e600cecf8c996e5162a76eda/LICENSE",
+      "representative_skill_url": "https://github.com/pjt222/agent-almanac/blob/6cf8915b43fa5745e600cecf8c996e5162a76eda/skills/translate-content/SKILL.md",
+      "readme_sha256": "c564b5fcdc217c08c8a7e357bda5cb0a2755b9b3b67f7701d6433d245612ff07",
+      "license_sha256": "7dd87c12a1f01f17cdb288f58bee125f9e214e6a36d327c7e241ff481d93587",
+      "representative_skill_sha256": "28d84d4915dc3b0ce0979c06203254a5da436f8f7afe696dcfd970d7581d1436",
+      "license": "MIT",
+      "skill_count": "373 canonical",
+      "skill_count_basis": "README states 373 canonical skills across 67 domains; 3,966 tree paths include i18n translations and generated/compatibility copies excluded",
+      "install_or_distribution_evidence": "README documents a public install, plugin, CLI, or cross-agent consumption path; no candidate installation performed"
+    },
+    {
+      "full_name": "PangenomeAI/academic-skills-food-nutrition",
+      "repository_id": 1297924742,
+      "checked_at": "2026-10-12",
+      "metadata_source": "github_public_api_and_commit_archive",
+      "stars": 35,
+      "fork": false,
+      "archived": false,
+      "source_tree_sha": "01b2158a48408a8d0e56238c04075080c793d53c",
+      "readme_url": "https://github.com/PangenomeAI/academic-skills-food-nutrition/blob/01b2158a48408a8d0e56238c04075080c793d53c/README.md",
+      "license_url": "https://github.com/PangenomeAI/academic-skills-food-nutrition/blob/01b2158a48408a8d0e56238c04075080c793d53c/LICENSE",
+      "representative_skill_url": "https://github.com/PangenomeAI/academic-skills-food-nutrition/blob/01b2158a48408a8d0e56238c04075080c793d53c/agri-deep-research/SKILL.md",
+      "readme_sha256": "61e21e1ee5e571fd06c162f1a63d0a0293173ac14180a01d104003f56a75e786",
+      "license_sha256": "65a69edf061ae31ada2955a126de4652a70dba3cfaf400f55b68863ed5ba1cc9",
+      "representative_skill_sha256": "c7ff086497c9e73b78495310a105e1071ac72f92e0270644976fb3b8930559bf",
+      "license": "MIT",
+      "skill_count": "41",
+      "skill_count_basis": "41 distributed SKILL.md entries at the fixed tree; test and fixture paths excluded",
+      "install_or_distribution_evidence": "README documents a public install, plugin, CLI, or cross-agent consumption path; no candidate installation performed"
+    },
+    {
+      "full_name": "codejunkie99/agentic-stack",
+      "repository_id": 1211537500,
+      "checked_at": "2026-10-12",
+      "metadata_source": "github_public_api_and_commit_archive",
+      "stars": 2295,
+      "fork": false,
+      "archived": false,
+      "source_tree_sha": "3848f275f5d227f355984d6c9ba67072202f94f9",
+      "readme_url": "https://github.com/codejunkie99/agentic-stack/blob/3848f275f5d227f355984d6c9ba67072202f94f9/README.md",
+      "license_url": "https://github.com/codejunkie99/agentic-stack/blob/3848f275f5d227f355984d6c9ba67072202f94f9/LICENSE",
+      "representative_skill_url": "https://github.com/codejunkie99/agentic-stack/blob/3848f275f5d227f355984d6c9ba67072202f94f9/.agent/skills/brain/SKILL.md",
+      "readme_sha256": "bff16c7373d289dd3ded42d15f589d2ea5a6fb0f69be387e2a6a96d582a32e92",
+      "license_sha256": "4c8f0a99af91f93ff3a5322747bf8da44cde24eeba43760d6b52fc75b3cbca2c",
+      "representative_skill_sha256": "afd4fcc246363330183420118d9369c5fea942f1a2ad01baf012886b2c2b6f4c",
+      "license": "Apache-2.0",
+      "skill_count": "16",
+      "skill_count_basis": "16 .agent/skills/*/SKILL.md entries; CLI, memory layer, examples, and generated files excluded",
+      "install_or_distribution_evidence": "README documents a public install, plugin, CLI, or cross-agent consumption path; no candidate installation performed"
+    }
+  ],
+  "excluded": [
+    {
+      "full_name": "aipoch/medical-research-skills",
+      "reason": "previously deferred in part75: nested/upstream license scope remains unresolved despite a root MIT file; keep separate until per-skill provenance is closed"
+    },
+    {
+      "full_name": "google/adk-docs",
+      "reason": "documentation repository demonstrates a SkillToolset but does not expose a distributable skill collection or installable skill entry"
+    },
+    {
+      "full_name": "xueyang-dev/localize-anything",
+      "reason": "GitHub canonical URL returned 404; installation source and current repository identity could not be verified"
+    },
+    {
+      "full_name": "lelouvincx/agent-skills",
+      "reason": "README/SKILL evidence exists but repository license metadata and license file are absent"
+    },
+    {
+      "full_name": "hashgraph-online/skill-publish",
+      "reason": "tree contains only test fixture SKILL.md files; no public distributable skill package"
+    }
+  ]
+}
