@@ -1839,6 +1839,7 @@
 - [`tmux-session-management`](../10-platform/tmux-session-management/SKILL.md) — tmux 会话与终端多路复用
 - [`vexor-vector-cli-setup`](../10-platform/vexor-vector-cli-setup/SKILL.md) — Vexor 向量 CLI：语义文件搜索工具配置
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 - [`x-twitter-scraper-toolkit`](../10-platform/x-twitter-scraper-toolkit/SKILL.md) — X/Twitter 抓取工具：搜索、导出、发推与 DM
 
 ### `cli-wrapper`
@@ -11433,6 +11434,7 @@
 - [`rag-implementation-workflow`](../04-ai/rag-implementation-workflow/SKILL.md) — RAG 检索增强实现
 - [`snakemake-workflow-engine`](../09-verticals/snakemake-workflow-engine/SKILL.md) — Snakemake 可复现生信流程引擎
 - [`temporal-golang-workflows`](../02-engineering/temporal-golang-workflows/SKILL.md) — Temporal Go 工作流：确定性编排与 mTLS
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 
 ### `workflow-builder`
 - [`slack-bolt-bot-builder`](../10-platform/slack-bolt-bot-builder/SKILL.md) — Slack Bolt 机器人开发
@@ -11581,6 +11583,7 @@
 ### `yylo`
 - [`ledger-tasks-yylo`](../04-ai/ledger-tasks-yylo/SKILL.md) — YYLO Ledger 任务看板与依赖管理
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 
 ### `zafiro`
 - [`avalonia-zafiro-desktop`](../02-engineering/avalonia-zafiro-desktop/SKILL.md) — Avalonia 跨平台桌面应用（Zafiro/MVVM）
@@ -13862,6 +13865,7 @@
 - [`jira-expert`](../07-productivity/jira-expert/SKILL.md) — Jira 项目与工作流专家
 - [`n8n-workflow-patterns`](../10-platform/n8n-workflow-patterns/SKILL.md) — n8n 工作流架构模式
 - [`odoo-purchase-workflow`](../09-verticals/odoo-purchase-workflow/SKILL.md) — Odoo 采购工作流
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 
 ### `工作流编排`
 - [`agent-workflow-pattern-designer`](../04-ai/agent-workflow-pattern-designer/SKILL.md) — 智能体工作流模式设计
@@ -15353,6 +15357,7 @@
 
 ### `校验`
 - [`citation-management`](../01-documents/citation-management/SKILL.md) — 研究写作引文系统化管理
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 
 ### `核心更新`
 - [`seo-traffic-drop-forensics`](../05-business/seo-traffic-drop-forensics/SKILL.md) — SEO 流量骤降取证排查
@@ -15748,6 +15753,7 @@
 ### `版本控制`
 - [`git-advanced-workflows`](../02-engineering/git-advanced-workflows/SKILL.md) — Git 高级工作流
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 
 ### `版本管理`
 - [`mise-toolchain-configurator`](../02-engineering/mise-toolchain-configurator/SKILL.md) — mise 工具链配置
@@ -16480,6 +16486,7 @@
 ### `编码智能体`
 - [`ledger-tasks-yylo`](../04-ai/ledger-tasks-yylo/SKILL.md) — YYLO Ledger 任务看板与依赖管理
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 
 ### `编译工具链`
 - [`dwarf-debug-format-expert`](../02-engineering/dwarf-debug-format-expert/SKILL.md) — DWARF 调试格式专家
@@ -16644,6 +16651,7 @@
 - [`n8n-workflow-patterns`](../10-platform/n8n-workflow-patterns/SKILL.md) — n8n 工作流架构模式
 - [`skill-seekers-doc-to-skill`](../04-ai/skill-seekers-doc-to-skill/SKILL.md) — 文档转技能：从网站/仓库/PDF 快速生成 AI 技能
 - [`stitch-iterative-build-loop`](../06-creative/stitch-iterative-build-loop/SKILL.md) — Stitch 迭代构建循环：自主接力式网站搭建
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 - [`zapier-make-automation`](../07-productivity/zapier-make-automation/SKILL.md) — Zapier 与 Make 无代码自动化
 
 ### `自动化循环`

@@ -20929,6 +20929,36 @@
     "path": "07-productivity/wiki-yylo/SKILL.md"
   },
   {
+    "name": "workflow-yylo",
+    "title": "YYLO Ledger 工作流定义库（workflow Record）",
+    "vol": "07-productivity",
+    "domain": "协作/automation",
+    "level": "进阶",
+    "status": "stable",
+    "tags": [
+      "工作流",
+      "workflow",
+      "校验",
+      "版本控制",
+      "编码智能体",
+      "yylo",
+      "cli",
+      "自动化"
+    ],
+    "triggers": [
+      "已验证工作流定义沉淀",
+      "workflow Record 创建与修订",
+      "validated 只读校验读取",
+      "schema_version v1 步骤定义",
+      "存储执行证据三边界分离",
+      "compare-and-replace 安全修订",
+      "yy ledger workflow 命令",
+      "运行证据走 Artifact Record"
+    ],
+    "description": "当编码智能体需要沉淀或维护已验证的工作流定义（workflow Record）时使用；驱动 yy ledger 完成检索、校验读取、安全创建与修订，保持存储、执行与运行证据三边界分离，产出不可变 Record ID 与回执；不适用于执行工作流或保存运行日志证据；触发词：workflow、工作流定义、validated、Record、yy ledger",
+    "path": "07-productivity/workflow-yylo/SKILL.md"
+  },
+  {
     "name": "zapier-make-automation",
     "title": "Zapier 与 Make 无代码自动化",
     "vol": "07-productivity",

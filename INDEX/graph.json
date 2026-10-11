@@ -4481,6 +4481,13 @@
       "status": "stable"
     },
     {
+      "id": "workflow-yylo",
+      "title": "YYLO Ledger 工作流定义库（workflow Record）",
+      "domain": "协作/automation",
+      "level": "进阶",
+      "status": "stable"
+    },
+    {
       "id": "zapier-make-automation",
       "title": "Zapier 与 Make 无代码自动化",
       "domain": "协作/automation",
@@ -26845,6 +26852,31 @@
     {
       "from": "wiki-yylo",
       "to": "codebase-onboarding-doc",
+      "type": "combines_with"
+    },
+    {
+      "from": "workflow-yylo",
+      "to": "ledger-tasks-yylo",
+      "type": "related"
+    },
+    {
+      "from": "workflow-yylo",
+      "to": "wiki-yylo",
+      "type": "related"
+    },
+    {
+      "from": "workflow-yylo",
+      "to": "agent-workflow-builder",
+      "type": "related"
+    },
+    {
+      "from": "workflow-yylo",
+      "to": "spec-driven-workflow",
+      "type": "combines_with"
+    },
+    {
+      "from": "workflow-yylo",
+      "to": "n8n-workflow-patterns",
       "type": "combines_with"
     },
     {
