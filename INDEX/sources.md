@@ -1076,6 +1076,7 @@
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) ← yylo-dev/yylo-skills　`MIT`
 - [`wireshark-traffic-analysis`](../08-security/wireshark-traffic-analysis/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`
 - [`worker-classification-analyzer`](../09-verticals/worker-classification-analyzer/SKILL.md) ← anthropics/claude-for-legal　`Apache-2.0`
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) ← yylo-dev/yylo-skills　`MIT`
 - [`workplace-internal-investigation`](../09-verticals/workplace-internal-investigation/SKILL.md) ← anthropics/claude-for-legal　`Apache-2.0`
 - [`x-post-to-json-fetcher`](../10-platform/x-post-to-json-fetcher/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`
 - [`x-twitter-automation`](../10-platform/x-twitter-automation/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`
