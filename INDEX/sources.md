@@ -1073,8 +1073,10 @@
 - [`weekly-external-call-brief`](../05-business/weekly-external-call-brief/SKILL.md) ← anthropics/knowledge-work-plugins　`Apache-2.0`
 - [`whatsapp-cloud-api`](../10-platform/whatsapp-cloud-api/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`
 - [`wiki-to-vitepress-site`](../01-documents/wiki-to-vitepress-site/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`
+- [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) ← yylo-dev/yylo-skills　`MIT`
 - [`wireshark-traffic-analysis`](../08-security/wireshark-traffic-analysis/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`
 - [`worker-classification-analyzer`](../09-verticals/worker-classification-analyzer/SKILL.md) ← anthropics/claude-for-legal　`Apache-2.0`
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) ← yylo-dev/yylo-skills　`MIT`
 - [`workplace-internal-investigation`](../09-verticals/workplace-internal-investigation/SKILL.md) ← anthropics/claude-for-legal　`Apache-2.0`
 - [`x-post-to-json-fetcher`](../10-platform/x-post-to-json-fetcher/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`
 - [`x-twitter-automation`](../10-platform/x-twitter-automation/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`

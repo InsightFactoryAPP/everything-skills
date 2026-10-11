@@ -2,7 +2,7 @@
 
 > 本文件由 scripts/build-index.mjs 自动生成，请勿手改。
 
-共 1109 条技能。
+共 1111 条技能。
 
 ## 卷〇 · 通用
 
@@ -620,6 +620,7 @@
 - [`personal-tool-builder`](../07-productivity/personal-tool-builder/SKILL.md) — 自用工具构建方法论　`协作/automation` · 进阶
 - [`salesforce-automation`](../07-productivity/salesforce-automation/SKILL.md) — Salesforce 自动化　`协作/automation` · 进阶
 - [`technical-change-tracker`](../07-productivity/technical-change-tracker/SKILL.md) — 技术变更记录与会话交接追踪 ~~(deprecated)~~　`协作/automation` · 进阶
+- [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）　`协作/automation` · 进阶
 - [`zapier-make-automation`](../07-productivity/zapier-make-automation/SKILL.md) — Zapier 与 Make 无代码自动化　`协作/automation` · 进阶
 - [`activity-digest-generator`](../07-productivity/activity-digest-generator/SKILL.md) — 活动动态摘要生成　`协作/knowledge` · 入门
 - [`adr-writer`](../07-productivity/adr-writer/SKILL.md) — 架构决策记录（ADR）撰写　`协作/knowledge` · 进阶
@@ -643,6 +644,7 @@
 - [`status-report-generator`](../07-productivity/status-report-generator/SKILL.md) — 项目状态报告生成　`协作/knowledge` · 进阶
 - [`support-kb-article-writer`](../07-productivity/support-kb-article-writer/SKILL.md) — 支持知识库文章撰写　`协作/knowledge` · 入门
 - [`vendor-evaluation`](../07-productivity/vendor-evaluation/SKILL.md) — 供应商评估决策　`协作/knowledge` · 进阶
+- [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）　`协作/knowledge` · 进阶
 - [`agile-product-owner`](../07-productivity/agile-product-owner/SKILL.md) — 敏捷产品负责人与待办管理　`协作/pm` · 进阶
 - [`board-prep-orchestrator`](../07-productivity/board-prep-orchestrator/SKILL.md) — 董事会会前筹备编排　`协作/pm` · 进阶
 - [`change-management-request`](../07-productivity/change-management-request/SKILL.md) — 变更管理请求（影响分析+回滚计划）　`协作/pm` · 进阶

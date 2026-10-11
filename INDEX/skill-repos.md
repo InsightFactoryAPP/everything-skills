@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-09（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part75
+- 编制日期：2026-10-11（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part76
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2069 个独立仓库（另注明更名别名）
+- 收录条数：2085 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -786,6 +786,7 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [Flagrare/agent-skills](https://github.com/Flagrare/agent-skills) | 11 | 37 个 Claude Code 生命周期 Agent Skills，覆盖 plan→build→review。 | Unknown | 37 | 仅索引 |
 | [hanzhcn/laohan-skills](https://github.com/hanzhcn/laohan-skills) | 11 | 中文内容创作 Agent 技能包（选题→成片→多平台），适配 Claude Code/Codex/OpenClaw。 | MIT | 23 | 仅索引 |
 | [ssheleg/sshlg-skills](https://github.com/ssheleg/sshlg-skills) | 10 | 多包系 Agent Skills 安装集合，面向 Claude Code / 编码代理（MIT）。 | MIT | 多 | 仅索引 |
+| [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | 1 | YYLO 跨代理技能源：Ledger 任务、Wiki、工作流、工件记录、项目理解、规划、基准研究与 Ralph 执行循环。 | MIT | 8 / 采编 2 | 已采编 |
 
 ## 3. 垂直领域技能包
 
@@ -1784,6 +1785,20 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [msimchowitz/writing-skills](https://github.com/msimchowitz/writing-skills) | 56 | 研究实验室写作技能，区分 Agent 技能、人类指南与 LaTeX 起始材料，附安装器。 | MIT | 16 | 仅索引 |
 | [Zyzhan417/OpenFOAM_expert_SKILL](https://github.com/Zyzhan417/OpenFOAM_expert_SKILL) | 17 | 基于源码的 OpenFOAM 专家技能：实现定位、字典错误、边界条件与自定义库分析。 | MIT | 1 | 仅索引 |
 | [HiAPIAI/hiapi-product-video-skills](https://github.com/HiAPIAI/hiapi-product-video-skills) | 0 | 预览阶段产品视频技能单仓库：食品广告、时尚图册、代言与 UGC 广告；四个技能目录各有 MIT 许可。 | MIT (four skill directories); runner unverified | 4 | 仅索引 |
+| [michpro/kicad-tools](https://github.com/michpro/kicad-tools) | 3 | KiCad EDA 技能：通过 kct CLI 进行原理图与 PCB 分析、DRC/ERC 校验、修复、自动布线、BOM 生成和制造导出。 | MIT | 1 | 仅索引 |
+| [Toadoum/ai-research-skill](https://github.com/Toadoum/ai-research-skill) | 13 | 可自我改进的 AI/ML 科研技能，覆盖假设构建、文献综述、基线复现、泄漏审计、多随机种子分析与论文写作。 | MIT | 1 | 仅索引 |
+| [cedrickchee/text-to-cad](https://github.com/cedrickchee/text-to-cad) | 34 | 开源文本转 CAD 工具链，提供可移植的 CAD、URDF 与机器人运动技能，支持经过校验的 build123d 和 STEP 工作流。 | MIT | 3 | 仅索引 |
+| [jdilla1277/agentcad-skill](https://github.com/jdilla1277/agentcad-skill) | 10 | 面向 agentcad 的可移植 CAD 技能清单；该 CLI 为 AI Agent 生成、渲染、导出并测量 build123d 模型。 | Apache-2.0 | 1 | 仅索引 |
+| [znlgis/opengis-skills](https://github.com/znlgis/opengis-skills) | 63 | 面向 AI 助手的开放 GIS 技能集合，覆盖 GIS、CAD、C#、AI、IoT、3D、GDAL、QGIS、PostGIS、GeoServer、FreeCAD 等工具。 | MIT | 75 | 仅索引 |
+| [buildsense-ai/cad-reader-skill](https://github.com/buildsense-ai/cad-reader-skill) | 1 | 便携 CAD 图纸证据技能，面向 DWG、DXF 与图纸 PDF，提供结构化元数据、测量、预览和远程 BricsCAD 集成。 | Apache-2.0 | 1 | 仅索引 |
+| [baibai2013/build123d-cad](https://github.com/baibai2013/build123d-cad) | 2 | 硬件设计超级技能包，含 25 条 CAD、PCB、机器人、仿真、固件与制造子技能，支持跨代理工作流。 | Apache-2.0 | 25 | 仅索引 |
+| [dekart-xyz/geosql](https://github.com/dekart-xyz/geosql) | 675 | GeoSQL 地理空间 SQL 技能与安装器，面向 PostGIS、BigQuery、Snowflake 和 Wherobots 的成本安全查询与交互地图。 | MIT | 1 | 仅索引 |
+| [cablate/mcp-google-map](https://github.com/cablate/mcp-google-map) | 470 | Google Maps MCP 与聚焦型 Agent Skills，覆盖地点、路线、旅行规划、本地 SEO、天气和空气质量工作流。 | MIT | 3 | 仅索引 |
+| [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) | 221 | ROS 2 与具身 Agent 工具包，提供面向 MuJoCo、Gazebo、Isaac、MCP 和 VLA 工作流的仿真、ROS 与具身技能。 | MIT | 3 | 仅索引 |
+| [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) | 260 | 英伟达研究型机器人技能集合，覆盖技能发现、仿真、抓取、运动规划、调试及 LIBERO/robosuite 训练循环。 | Apache-2.0 | 19 | 仅索引 |
+| [Adilmunawar/ZD-claude-plugin](https://github.com/Adilmunawar/ZD-claude-plugin) | 8 | 农业地理工程 Claude 插件，覆盖卫星影像、PostGIS、Earth Engine、田间工作流及移动端/网页交付技能。 | MIT | 81 | 仅索引 |
+| [aianime0012-coder/vitruvius-skills](https://github.com/aianime0012-coder/vitruvius-skills) | 0 | AEC 技能包，覆盖 IFC/DXF/BIM 互操作、建筑规范与生命安全审查、机电协调、技术规格和可持续设计。 | MIT | 8 | 仅索引 |
+| [Alim430/bioresearch-agent](https://github.com/Alim430/bioresearch-agent) | 2 | 可复现的生物医学科研技能，覆盖生物标志物发现、因果推断、差异表达、GWAS、孟德尔随机化和标准化分析输出。 | MIT | 14 | 仅索引 |
 
 ## 4. 安装器 / 注册表 / 基础设施
 
@@ -1963,6 +1978,7 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [srini047/skills-i8n](https://github.com/srini047/skills-i8n) | 0 | 技能国际化 CLI，保留代码块与伴随文件；三个示例用于演示，不是生产技能包。 | Apache-2.0 | 3 examples | 仅索引 |
 | [SylphAI-Inc/atskills](https://github.com/SylphAI-Inc/atskills) | 86 | 以路径寻址、按需读取 SKILL.md 的协议与工具，附十个示例技能及可选持久化。 | MIT | 10 examples | 仅索引 |
 | [rhiza-research/weather-skills-core](https://github.com/rhiza-research/weather-skills-core) | 1 | 可组合天气技能开发基础设施：共享 Zarr 契约、来源记录、检查工具与技能编写指南。 | MIT | 1 | 仅索引 |
+| [lawrence3699/agent-skills-corpus](https://github.com/lawrence3699/agent-skills-corpus) | 3 | 可复现的 Agent Skills 生态语料库：汇集 GitHub、GitLab 与 Gitee 的 CC0 元数据，用于去重、分类和许可研究；不是可安装技能包。 | CC0-1.0 (metadata); MIT (scripts); upstream licenses retained | 55,698 dataset records | 仅索引 |
 
 ## 5. 其他值得索引的技能库
 
