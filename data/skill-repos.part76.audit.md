@@ -6,7 +6,7 @@
 
 ## 合格新增
 
-| 仓库 | Stars | 许可 | 技能计数 | 领域 | 代表入口 |
+| 仓库 | Stars | 许可 | 技能计数 | 证据范围 | 代表入口 |
 | --- | ---: | --- | ---: | --- | --- |
 | [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | 1 | MIT | 8 / 采编 2 | 8 skills/* entries | [SKILL.md](https://github.com/yylo-dev/yylo-skills/blob/d0f7c91fb5681d027bbf40d2dde574bb6c4f6de7/skills/wiki-yylo/SKILL.md) |
 | [michpro/kicad-tools](https://github.com/michpro/kicad-tools) | 3 | MIT | 1 | 1 root SKILL.md | [SKILL.md](https://github.com/michpro/kicad-tools/blob/d66fb7d46d0edf23c7d23be531d4c91646247187/SKILL.md) |
@@ -20,9 +20,9 @@
 | [dekart-xyz/geosql](https://github.com/dekart-xyz/geosql) | 675 | MIT | 1 | 1 skills/geosql/SKILL.md | [SKILL.md](https://github.com/dekart-xyz/geosql/blob/1d322e8d984e1898f6e994165f927e9713be0b1c/skills/geosql/SKILL.md) |
 | [cablate/mcp-google-map](https://github.com/cablate/mcp-google-map) | 470 | MIT | 3 | 3 public skills/*/SKILL.md entries | [SKILL.md](https://github.com/cablate/mcp-google-map/blob/bc2c31f2b45d1680fc0406923b72ea67c908d7a9/skills/google-maps/SKILL.md) |
 | [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) | 221 | MIT | 3 | 3 distributed .agents/skills or package skill entries | [SKILL.md](https://github.com/ros-claw/rosclaw/blob/b4a9af159b0af479ebbc74a954d9f564f2f60b56/.agents/skills/rosclaw-simforge/SKILL.md) |
-| [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) | 260 | Apache-2.0 | 19 | 19 distributed SKILL.md files under real/.agents and sim/.claude | [skills](https://github.com/NVlabs/ASPIRE/tree/f4c8939aab0af9b97690c561bd80e282940f7886/aspire/real/.agents/skills) |
-| [Adilmunawar/ZD-claude-plugin](https://github.com/Adilmunawar/ZD-claude-plugin) | 8 | MIT | 81 | 81 plugin skill manifests | [plugins](https://github.com/Adilmunawar/ZD-claude-plugin/tree/60f343d7f5030f20495748d5dabfc640ca292275/plugins) |
-| [aianime0012-coder/vitruvius-skills](https://github.com/aianime0012-coder/vitruvius-skills) | 0 | MIT | 8 | 8 skills/*/SKILL.md entries | [skills](https://github.com/aianime0012-coder/vitruvius-skills/tree/1b9c41948ed844ca0972c0b7a6348f8c0da30c4e/skills) |
+| [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) | 260 | Apache-2.0 | 19 | 19 distributed SKILL.md files under real/.agents and sim/.claude | [SKILL.md](https://github.com/NVlabs/ASPIRE/blob/f4c8939aab0af9b97690c561bd80e282940f7886/aspire/real/.agents/skills/robot-debugging/SKILL.md) |
+| [Adilmunawar/ZD-claude-plugin](https://github.com/Adilmunawar/ZD-claude-plugin) | 8 | MIT | 81 | 81 plugin skill manifests | [SKILL.md](https://github.com/Adilmunawar/ZD-claude-plugin/blob/60f343d7f5030f20495748d5dabfc640ca292275/plugins/zaraat-dost/skills/doctor/SKILL.md) |
+| [aianime0012-coder/vitruvius-skills](https://github.com/aianime0012-coder/vitruvius-skills) | 0 | MIT | 8 | 8 skills/*/SKILL.md entries | [SKILL.md](https://github.com/aianime0012-coder/vitruvius-skills/blob/1b9c41948ed844ca0972c0b7a6348f8c0da30c4e/skills/ifc-model-analysis/SKILL.md) |
 | [Alim430/bioresearch-agent](https://github.com/Alim430/bioresearch-agent) | 2 | MIT | 14 | 14 skills/*/SKILL.md entries | [SKILL.md](https://github.com/Alim430/bioresearch-agent/blob/de20221f4d125341456ba031ba6a562f57344323/skills/biomedical/ancestry-aware-mr/SKILL.md) |
 
 ## 采编判定
