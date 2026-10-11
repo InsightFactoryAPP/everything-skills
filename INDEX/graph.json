@@ -2248,6 +2248,13 @@
       "status": "stable"
     },
     {
+      "id": "artifact-yylo",
+      "title": "YYLO Ledger 证据归档库",
+      "domain": "智能/agents",
+      "level": "进阶",
+      "status": "stable"
+    },
+    {
       "id": "autonomous-coding-agent-patterns",
       "title": "自主编码智能体设计模式",
       "domain": "智能/agents",
@@ -16412,6 +16419,36 @@
     {
       "from": "ai-model-knowledge-distill",
       "to": "rag-pipeline-builder",
+      "type": "combines_with"
+    },
+    {
+      "from": "artifact-yylo",
+      "to": "ledger-tasks-yylo",
+      "type": "related"
+    },
+    {
+      "from": "artifact-yylo",
+      "to": "wiki-yylo",
+      "type": "related"
+    },
+    {
+      "from": "artifact-yylo",
+      "to": "workflow-yylo",
+      "type": "related"
+    },
+    {
+      "from": "artifact-yylo",
+      "to": "agent-memory-systems",
+      "type": "related"
+    },
+    {
+      "from": "artifact-yylo",
+      "to": "postmortem-writer",
+      "type": "combines_with"
+    },
+    {
+      "from": "artifact-yylo",
+      "to": "error-log-detective",
       "type": "combines_with"
     },
     {

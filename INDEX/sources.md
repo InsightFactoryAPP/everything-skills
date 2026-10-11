@@ -85,6 +85,7 @@
 - [`arboreto-grn-inference`](../09-verticals/arboreto-grn-inference/SKILL.md) ← jaechang-hits/SciAgent-Skills　`CC-BY-4.0`
 - [`archs4-expression-database`](../09-verticals/archs4-expression-database/SKILL.md) ← jaechang-hits/SciAgent-Skills　`CC-BY-4.0`
 - [`arm-cortex-firmware-expert`](../09-verticals/arm-cortex-firmware-expert/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) ← yylo-dev/yylo-skills　`MIT`
 - [`astro-content-sites`](../02-engineering/astro-content-sites/SKILL.md) ← sickn33/agentic-awesome-skills　`MIT`
 - [`astronomy-data-toolkit`](../09-verticals/astronomy-data-toolkit/SKILL.md) ← K-Dense-AI/scientific-agent-skills　`MIT`
 - [`astropy-astronomy-toolkit`](../09-verticals/astropy-astronomy-toolkit/SKILL.md) ← K-Dense-AI/scientific-agent-skills　`MIT`
