@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-09（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part75
+- 编制日期：2026-10-11（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part76
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2069 个独立仓库（另注明更名别名）
+- 收录条数：2085 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -786,6 +786,7 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [Flagrare/agent-skills](https://github.com/Flagrare/agent-skills) | 11 | 37 Claude Code lifecycle Agent Skills covering plan→build→review workflows. | Unknown | 37 | indexed-only |
 | [hanzhcn/laohan-skills](https://github.com/hanzhcn/laohan-skills) | 11 | Chinese content-creation Agent Skills pack (选题→成片→多平台) for Claude Code/Codex/OpenClaw. | MIT | 23 | indexed-only |
 | [ssheleg/sshlg-skills](https://github.com/ssheleg/sshlg-skills) | 10 | Multi-pack Agent Skills family installer for Claude Code / coding agents (MIT). | MIT | 多 | indexed-only |
+| [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | 1 | YYLO canonical cross-agent skills for Ledger task, wiki, workflow, artifact, project understanding, planning, benchmarking, and Ralph execution loops. | MIT | 8 / 采编 2 | curated |
 
 ## 3. Vertical
 
@@ -1784,6 +1785,20 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [msimchowitz/writing-skills](https://github.com/msimchowitz/writing-skills) | 56 | Research-lab writing skills for agents, with separate human guides, LaTeX starter material, and an installer. | MIT | 16 | indexed-only |
 | [Zyzhan417/OpenFOAM_expert_SKILL](https://github.com/Zyzhan417/OpenFOAM_expert_SKILL) | 17 | Source-grounded OpenFOAM expert skill for implementation lookup, dictionary errors, boundary conditions, and custom libraries. | MIT | 1 | indexed-only |
 | [HiAPIAI/hiapi-product-video-skills](https://github.com/HiAPIAI/hiapi-product-video-skills) | 0 | Preview monorepo for product-video skills: food commercials, fashion lookbooks, spokesperson, and UGC ads; per-skill MIT licenses. | MIT (four skill directories); runner unverified | 4 | indexed-only |
+| [michpro/kicad-tools](https://github.com/michpro/kicad-tools) | 3 | KiCad EDA skill for schematic and PCB analysis, DRC/ERC validation, repair, autorouting, BOM generation, and manufacturing export through the kct CLI. | MIT | 1 | indexed-only |
+| [Toadoum/ai-research-skill](https://github.com/Toadoum/ai-research-skill) | 13 | Self-improving AI/ML research skill covering hypothesis framing, literature review, baseline reproduction, leakage audits, multi-seed analysis, and paper writing. | MIT | 1 | indexed-only |
+| [cedrickchee/text-to-cad](https://github.com/cedrickchee/text-to-cad) | 34 | Open-source text-to-CAD harness with portable CAD, URDF, and robot-motion skills for validated build123d and STEP workflows. | MIT | 3 | indexed-only |
+| [jdilla1277/agentcad-skill](https://github.com/jdilla1277/agentcad-skill) | 10 | Portable CAD skill manifest for agentcad, a CLI that generates, renders, exports, and measures build123d models for AI agents. | Apache-2.0 | 1 | indexed-only |
+| [znlgis/opengis-skills](https://github.com/znlgis/opengis-skills) | 63 | Open GIS skills collection for AI assistants covering GIS, CAD, C#, AI, IoT, 3D, GDAL, QGIS, PostGIS, GeoServer, FreeCAD, and related tools. | MIT | 75 | indexed-only |
+| [buildsense-ai/cad-reader-skill](https://github.com/buildsense-ai/cad-reader-skill) | 1 | Portable CAD drawing evidence skill for DWG, DXF, and drawing PDFs, with structured metadata, measurements, previews, and remote BricsCAD integration. | Apache-2.0 | 1 | indexed-only |
+| [baibai2013/build123d-cad](https://github.com/baibai2013/build123d-cad) | 2 | Hardware design super-skill with 25 CAD, PCB, robotics, simulation, firmware, and manufacturing sub-skills for cross-agent workflows. | Apache-2.0 | 25 | indexed-only |
+| [dekart-xyz/geosql](https://github.com/dekart-xyz/geosql) | 675 | GeoSQL skill and installer for cost-safe geospatial SQL with interactive maps across PostGIS, BigQuery, Snowflake, and Wherobots. | MIT | 1 | indexed-only |
+| [cablate/mcp-google-map](https://github.com/cablate/mcp-google-map) | 470 | Google Maps MCP and focused Agent Skills for places, routes, travel planning, local SEO, weather, and air-quality workflows. | MIT | 3 | indexed-only |
+| [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) | 221 | ROS 2 and embodied-agent toolkit with installable simulation, ROS, and embodied skills for MuJoCo, Gazebo, Isaac, MCP, and VLA workflows. | MIT | 3 | indexed-only |
+| [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) | 260 | NVIDIA research skills for robot skill discovery, simulation, grasping, motion planning, debugging, and LIBERO/robosuite training loops. | Apache-2.0 | 19 | indexed-only |
+| [Adilmunawar/ZD-claude-plugin](https://github.com/Adilmunawar/ZD-claude-plugin) | 8 | Agricultural geospatial Claude plugin with satellite, PostGIS, Earth Engine, field workflow, and mobile/web delivery skills. | MIT | 81 | indexed-only |
+| [aianime0012-coder/vitruvius-skills](https://github.com/aianime0012-coder/vitruvius-skills) | 0 | AEC skills for IFC/DXF/BIM interoperability, building-code and life-safety review, MEP coordination, specifications, and sustainable design. | MIT | 8 | indexed-only |
+| [Alim430/bioresearch-agent](https://github.com/Alim430/bioresearch-agent) | 2 | Reproducible biomedical research skills for biomarker discovery, causal inference, differential expression, GWAS, MR, and standardized analysis outputs. | MIT | 14 | indexed-only |
 
 ## 4. Infra
 
@@ -1963,6 +1978,7 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [srini047/skills-i8n](https://github.com/srini047/skills-i8n) | 0 | Skill localization CLI preserving code blocks and companion files; three example skills are fixtures, not a production skill pack. | Apache-2.0 | 3 examples | indexed-only |
 | [SylphAI-Inc/atskills](https://github.com/SylphAI-Inc/atskills) | 86 | Path-addressed on-demand skill protocol and tooling using SKILL.md, with ten example skills and optional persistence. | MIT | 10 examples | indexed-only |
 | [rhiza-research/weather-skills-core](https://github.com/rhiza-research/weather-skills-core) | 1 | Developer infrastructure for composable weather skills, shared Zarr contracts, provenance, linting, and a skill-authoring guide. | MIT | 1 | indexed-only |
+| [lawrence3699/agent-skills-corpus](https://github.com/lawrence3699/agent-skills-corpus) | 3 | Reproducible CC0 metadata corpus of public Agent Skills across GitHub, GitLab, and Gitee for deduplication, classification, and license research; not an installable skill pack. | CC0-1.0 (metadata); MIT (scripts); upstream licenses retained | 55,698 dataset records | indexed-only |
 
 ## 5. Other
 
