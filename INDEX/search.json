@@ -8124,6 +8124,36 @@
     "path": "02-engineering/typescript-advanced-types/SKILL.md"
   },
   {
+    "name": "understand-project-yylo",
+    "title": "YYLO 项目理解与变更前调研",
+    "vol": "02-engineering",
+    "domain": "研发/architecture",
+    "level": "进阶",
+    "status": "stable",
+    "tags": [
+      "项目理解",
+      "架构",
+      "调研",
+      "依赖分析",
+      "验证回路",
+      "编码智能体",
+      "yylo",
+      "cli"
+    ],
+    "triggers": [
+      "变更前项目调研",
+      "架构与依赖摸底",
+      "AGENTS.md/CLAUDE.md 事实源阅读",
+      "Ledger 任务与持久规格检索",
+      "有界依赖与运行路径追踪",
+      "最小验证回路识别",
+      "yy task start 任务工作树",
+      "运营规格 report Record 固化"
+    ],
+    "description": "当在规划或实现变更前需要摸清产品架构、依赖与验证回路时使用；读 AGENTS.md/源码/测试与 Ledger 任务及持久规格，有界追踪依赖，产出当前行为、事实源、风险与最小验证回路的调研报告；不适用于直接实现、任务状态或证据归档；触发词：项目理解、变更前调研、架构摸底、依赖追踪、validation loop、yy task start",
+    "path": "02-engineering/understand-project-yylo/SKILL.md"
+  },
+  {
     "name": "uv-python-package-manager",
     "title": "uv 高速 Python 包管理",
     "vol": "02-engineering",

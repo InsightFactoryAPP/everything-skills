@@ -1030,6 +1030,7 @@
 - [`ucsc-genome-browser`](../09-verticals/ucsc-genome-browser/SKILL.md) ← jaechang-hits/SciAgent-Skills　`CC-BY-4.0`
 - [`ui-design-system-builder`](../06-creative/ui-design-system-builder/SKILL.md) ← alirezarezvani/claude-skills　`MIT`
 - [`umap-dimensionality-reduction`](../03-data/umap-dimensionality-reduction/SKILL.md) ← K-Dense-AI/scientific-agent-skills　`MIT`
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) ← yylo-dev/yylo-skills　`MIT`
 - [`unichem-compound-crossref`](../09-verticals/unichem-compound-crossref/SKILL.md) ← jaechang-hits/SciAgent-Skills　`CC-BY-4.0`
 - [`uniprot-protein-database`](../09-verticals/uniprot-protein-database/SKILL.md) ← jaechang-hits/SciAgent-Skills　`CC-BY-4.0`
 - [`unit-economics-analyzer`](../09-verticals/unit-economics-analyzer/SKILL.md) ← anthropics/financial-services　`Apache-2.0`

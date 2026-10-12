@@ -97,7 +97,7 @@
     },
     {
       "name": "02-engineering",
-      "description": "卷二 · 研发 —— 193 个技能",
+      "description": "卷二 · 研发 —— 194 个技能",
       "source": "./",
       "strict": false,
       "skills": [
@@ -282,6 +282,7 @@
         "./02-engineering/turborepo-build-caching",
         "./02-engineering/turborepo-caching",
         "./02-engineering/typescript-advanced-types",
+        "./02-engineering/understand-project-yylo",
         "./02-engineering/uv-python-package-manager",
         "./02-engineering/vibe-code-production-cleanup",
         "./02-engineering/vp-engineering-advisor",
