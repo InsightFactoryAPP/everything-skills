@@ -10451,6 +10451,36 @@
     "path": "04-ai/ai-model-knowledge-distill/SKILL.md"
   },
   {
+    "name": "artifact-yylo",
+    "title": "YYLO Ledger 证据归档库",
+    "vol": "04-ai",
+    "domain": "智能/agents",
+    "level": "进阶",
+    "status": "stable",
+    "tags": [
+      "证据",
+      "artifact",
+      "归档",
+      "回执",
+      "不可变",
+      "编码智能体",
+      "yylo",
+      "cli"
+    ],
+    "triggers": [
+      "运行证据归档",
+      "artifact Record 创建与检索",
+      "report/receipt/model-output 证据分类",
+      "inline/local/external 载荷模式选择",
+      "digest 与溯源核验",
+      "保留策略 temporary/standard/permanent",
+      "不可变证据替代与归档",
+      "yy ledger artifact 命令"
+    ],
+    "description": "当编码智能体需要把测试报告、模型输出、操作回执等运行证据固化为可验证的不可变 artifact Record 时使用；驱动 yy ledger 完成证据画像与载荷模式分类、显式创建、溯源与保留选择，以及按摘要与历史回读的检索核验；不适用于任务状态、持久知识或工作流定义；触发词：artifact、证据、回执、receipt、digest、不可变、yy ledger",
+    "path": "04-ai/artifact-yylo/SKILL.md"
+  },
+  {
     "name": "autonomous-coding-agent-patterns",
     "title": "自主编码智能体设计模式",
     "vol": "04-ai",
