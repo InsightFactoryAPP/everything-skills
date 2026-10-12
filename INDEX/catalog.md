@@ -2,7 +2,7 @@
 
 > 本文件由 scripts/build-index.mjs 自动生成，请勿手改。
 
-共 1111 条技能。
+共 1112 条技能。
 
 ## 卷〇 · 通用
 
@@ -334,6 +334,7 @@
 - [`agent-tool-design-patterns`](../04-ai/agent-tool-design-patterns/SKILL.md) — 智能体工具设计：可被 Agent 高效调用的工具　`智能/agents` · 进阶
 - [`agent-workflow-pattern-designer`](../04-ai/agent-workflow-pattern-designer/SKILL.md) — 智能体工作流模式设计　`智能/agents` · 进阶
 - [`agents-md-maintainer`](../04-ai/agents-md-maintainer/SKILL.md) — AGENTS.md 代理文档创建与维护　`智能/agents` · 进阶
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库　`智能/agents` · 进阶
 - [`autonomous-coding-agent-patterns`](../04-ai/autonomous-coding-agent-patterns/SKILL.md) — 自主编码智能体设计模式　`智能/agents` · 进阶
 - [`autoresearch-optimization-agent`](../04-ai/autoresearch-optimization-agent/SKILL.md) — 自主实验优化智能体循环　`智能/agents` · 进阶
 - [`bdi-mental-states`](../04-ai/bdi-mental-states/SKILL.md) — BDI 智能体信念-愿望-意图建模　`智能/agents` · 精通

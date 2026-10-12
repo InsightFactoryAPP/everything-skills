@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <picture><source media="(max-width: 600px)" srcset="assets/brand/stats-mobile.svg" /><img src="assets/brand/stats.svg" alt="1111 skills · 11 volumes · 6789 relation edges · 2090 indexed repositories" width="1200" /></picture>
+  <picture><source media="(max-width: 600px)" srcset="assets/brand/stats-mobile.svg" /><img src="assets/brand/stats.svg" alt="1112 skills · 11 volumes · 6795 relation edges · 2090 indexed repositories" width="1200" /></picture>
 </p>
 <!-- END GENERATED:brand -->
 

@@ -673,6 +673,7 @@
 - [`polars-dataframe`](../03-data/polars-dataframe/SKILL.md) — Polars 高性能数据框
 
 ### `artifact`
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
 - [`theme-factory`](../06-creative/theme-factory/SKILL.md) — 主题工厂：为内容产物套用配色与字体主题
 - [`web-artifacts-builder`](../02-engineering/web-artifacts-builder/SKILL.md) — Web 制品构建器（React/Tailwind/shadcn 单文件产物）
 
@@ -1824,6 +1825,7 @@
 ### `cli`
 - [`ai-native-cli-design`](../10-platform/ai-native-cli-design/SKILL.md) — 面向 AI 智能体的 CLI 设计规范
 - [`apify-actor-development`](../10-platform/apify-actor-development/SKILL.md) — Apify Actor 开发
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
 - [`coding-agent-headtohead-eval`](../04-ai/coding-agent-headtohead-eval/SKILL.md) — 编码 Agent 对比评测（通过率/成本/耗时）
 - [`customer-health-scorer`](../05-business/customer-health-scorer/SKILL.md) — 客户健康度评分与扩展机会
 - [`defi-natural-language-agent`](../09-verticals/defi-natural-language-agent/SKILL.md) — 自然语言 DeFi 链上交易代理
@@ -11581,6 +11583,7 @@
 - [`youtube-transcript-ingest`](../10-platform/youtube-transcript-ingest/SKILL.md) — YouTube 字幕抓取入库
 
 ### `yylo`
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
 - [`ledger-tasks-yylo`](../04-ai/ledger-tasks-yylo/SKILL.md) — YYLO Ledger 任务看板与依赖管理
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）
 - [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
@@ -11684,6 +11687,9 @@
 
 ### `上线门禁`
 - [`pre-deploy-checklist`](../02-engineering/pre-deploy-checklist/SKILL.md) — 发布前核查清单
+
+### `不可变`
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
 
 ### `不可逆决策`
 - [`decision-cooldown-freeze`](../00-meta/decision-cooldown-freeze/SKILL.md) — 决策冷静期锁定
@@ -13281,6 +13287,9 @@
 - [`legacy-framework-modernizer`](../02-engineering/legacy-framework-modernizer/SKILL.md) — 遗留系统现代化重构（框架迁移）
 - [`llm-agent-benchmarking`](../04-ai/llm-agent-benchmarking/SKILL.md) — LLM 智能体测试与基准评测
 
+### `回执`
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
+
 ### `回撤`
 - [`octagon-historical-market-cap`](../09-verticals/octagon-historical-market-cap/SKILL.md) — 历史市值变动追踪
 
@@ -14144,6 +14153,7 @@
 - [`campaign-attribution-analytics`](../05-business/campaign-attribution-analytics/SKILL.md) — 营销活动归因分析
 
 ### `归档`
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
 - [`file-organizer`](../07-productivity/file-organizer/SKILL.md) — 本地文件智能整理
 
 ### `录制检索`
@@ -16484,6 +16494,7 @@
 - [`llm-coding-mistake-guardrails`](../02-engineering/llm-coding-mistake-guardrails/SKILL.md) — 减少 LLM 编码常见错误的准则
 
 ### `编码智能体`
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
 - [`ledger-tasks-yylo`](../04-ai/ledger-tasks-yylo/SKILL.md) — YYLO Ledger 任务看板与依赖管理
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）
 - [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
@@ -17037,6 +17048,9 @@
 
 ### `证券`
 - [`longbridge-securities-toolkit`](../09-verticals/longbridge-securities-toolkit/SKILL.md) — 长桥证券工具集：实时行情、组合与期权分析
+
+### `证据`
+- [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
 
 ### `证据引用`
 - [`doc-to-math-spec`](../01-documents/doc-to-math-spec/SKILL.md) — 文档转数学问题规范
