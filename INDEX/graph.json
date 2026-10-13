@@ -1765,6 +1765,13 @@
       "status": "stable"
     },
     {
+      "id": "understand-project-yylo",
+      "title": "YYLO 项目理解与变更前调研",
+      "domain": "研发/architecture",
+      "level": "进阶",
+      "status": "stable"
+    },
+    {
       "id": "uv-python-package-manager",
       "title": "uv 高速 Python 包管理",
       "domain": "研发/backend",
@@ -14224,6 +14231,31 @@
     {
       "from": "typescript-advanced-types",
       "to": "nestjs-expert",
+      "type": "combines_with"
+    },
+    {
+      "from": "understand-project-yylo",
+      "to": "ledger-tasks-yylo",
+      "type": "related"
+    },
+    {
+      "from": "understand-project-yylo",
+      "to": "artifact-yylo",
+      "type": "related"
+    },
+    {
+      "from": "understand-project-yylo",
+      "to": "legacy-codebase-modernizer",
+      "type": "related"
+    },
+    {
+      "from": "understand-project-yylo",
+      "to": "c4-architecture-docs",
+      "type": "combines_with"
+    },
+    {
+      "from": "understand-project-yylo",
+      "to": "codebase-onboarding-doc",
       "type": "combines_with"
     },
     {

@@ -1839,6 +1839,7 @@
 - [`personal-tool-builder`](../07-productivity/personal-tool-builder/SKILL.md) — 自用工具构建方法论
 - [`shadcn-ui-components`](../02-engineering/shadcn-ui-components/SKILL.md) — shadcn/ui 组件库实践
 - [`tmux-session-management`](../10-platform/tmux-session-management/SKILL.md) — tmux 会话与终端多路复用
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) — YYLO 项目理解与变更前调研
 - [`vexor-vector-cli-setup`](../10-platform/vexor-vector-cli-setup/SKILL.md) — Vexor 向量 CLI：语义文件搜索工具配置
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）
 - [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
@@ -11585,6 +11586,7 @@
 ### `yylo`
 - [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
 - [`ledger-tasks-yylo`](../04-ai/ledger-tasks-yylo/SKILL.md) — YYLO Ledger 任务看板与依赖管理
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) — YYLO 项目理解与变更前调研
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）
 - [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 
@@ -12153,6 +12155,9 @@
 ### `依赖倒置`
 - [`backend-architecture-patterns`](../02-engineering/backend-architecture-patterns/SKILL.md) — 后端架构模式（整洁/六边形/DDD）
 - [`hexagonal-architecture`](../02-engineering/hexagonal-architecture/SKILL.md) — 六边形架构（端口与适配器模式）
+
+### `依赖分析`
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) — YYLO 项目理解与变更前调研
 
 ### `依赖图`
 - [`codebase-structure-protocol`](../00-meta/codebase-structure-protocol/SKILL.md) — 代码库结构记忆协议
@@ -15312,6 +15317,7 @@
 - [`legacy-framework-modernizer`](../02-engineering/legacy-framework-modernizer/SKILL.md) — 遗留系统现代化重构（框架迁移）
 - [`spec-driven-workflow`](../02-engineering/spec-driven-workflow/SKILL.md) — 规约驱动开发工作流
 - [`tech-stack-evaluator`](../02-engineering/tech-stack-evaluator/SKILL.md) — 技术栈评估与 TCO 对比
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) — YYLO 项目理解与变更前调研
 - [`zero-downtime-migration-architect`](../02-engineering/zero-downtime-migration-architect/SKILL.md) — 零停机迁移与回滚架构
 
 ### `架构决策`
@@ -16496,6 +16502,7 @@
 ### `编码智能体`
 - [`artifact-yylo`](../04-ai/artifact-yylo/SKILL.md) — YYLO Ledger 证据归档库
 - [`ledger-tasks-yylo`](../04-ai/ledger-tasks-yylo/SKILL.md) — YYLO Ledger 任务看板与依赖管理
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) — YYLO 项目理解与变更前调研
 - [`wiki-yylo`](../07-productivity/wiki-yylo/SKILL.md) — YYLO Ledger 项目知识库（wiki Record）
 - [`workflow-yylo`](../07-productivity/workflow-yylo/SKILL.md) — YYLO Ledger 工作流定义库（workflow Record）
 
@@ -17149,6 +17156,7 @@
 ### `调研`
 - [`exa-semantic-search`](../10-platform/exa-semantic-search/SKILL.md) — Exa 语义搜索研究
 - [`tavily-web-research`](../10-platform/tavily-web-research/SKILL.md) — Tavily 网络检索：搜索、抓取与内容提取
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) — YYLO 项目理解与变更前调研
 
 ### `调试`
 - [`bug-hunter`](../02-engineering/bug-hunter/SKILL.md) — 症状到根因的缺陷追踪修复
@@ -17866,6 +17874,9 @@
 ### `音频转写`
 - [`audio-to-markdown-transcriber`](../01-documents/audio-to-markdown-transcriber/SKILL.md) — 音频转写为结构化 Markdown 文档
 
+### `项目理解`
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) — YYLO 项目理解与变更前调研
+
 ### `项目管理`
 - [`jira-expert`](../07-productivity/jira-expert/SKILL.md) — Jira 项目与工作流专家
 - [`scrum-master-analytics`](../07-productivity/scrum-master-analytics/SKILL.md) — Scrum 敏捷教练与冲刺数据分析
@@ -17981,6 +17992,9 @@
 - [`closed-loop-delivery`](../00-meta/closed-loop-delivery/SKILL.md) — 验收标准闭环交付
 - [`prd-spec-writer`](../07-productivity/prd-spec-writer/SKILL.md) — PRD 与功能规格撰写
 - [`spec-driven-workflow`](../02-engineering/spec-driven-workflow/SKILL.md) — 规约驱动开发工作流
+
+### `验证回路`
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) — YYLO 项目理解与变更前调研
 
 ### `高可用`
 - [`hospital-it-management`](../09-verticals/hospital-it-management/SKILL.md) — 医院 IT 管理顾问

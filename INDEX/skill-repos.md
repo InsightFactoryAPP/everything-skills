@@ -789,7 +789,7 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [Flagrare/agent-skills](https://github.com/Flagrare/agent-skills) | 11 | 37 个 Claude Code 生命周期 Agent Skills，覆盖 plan→build→review。 | Unknown | 37 | 仅索引 |
 | [hanzhcn/laohan-skills](https://github.com/hanzhcn/laohan-skills) | 11 | 中文内容创作 Agent 技能包（选题→成片→多平台），适配 Claude Code/Codex/OpenClaw。 | MIT | 23 | 仅索引 |
 | [ssheleg/sshlg-skills](https://github.com/ssheleg/sshlg-skills) | 10 | 多包系 Agent Skills 安装集合，面向 Claude Code / 编码代理（MIT）。 | MIT | 多 | 仅索引 |
-| [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | 1 | YYLO 跨代理技能源：Ledger 任务、Wiki、工作流、工件记录、项目理解、规划、基准研究与 Ralph 执行循环。 | MIT | 8 / 采编 2 | 已采编 |
+| [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | 1 | YYLO 跨代理技能源：Ledger 任务、Wiki、工作流、工件记录、项目理解、规划、基准研究与 Ralph 执行循环。 | MIT | 8 / 采编 5 | 已采编 |
 | [pjt222/agent-almanac](https://github.com/pjt222/agent-almanac) | 37 | MIT 可执行技能、专家 Agent、团队与指南库，提供校验、可视化及跨客户端 Agent Skills 支持。 | MIT | 373 canonical | 仅索引 |
 | [TuringWorks/civstack](https://github.com/TuringWorks/civstack) | 1 | CivStack 公共经济角色与工作流库，涵盖政务、公用事业、工业、环境及人员责任边界。 | CC-BY-4.0 | 433 core (+30 views) | 仅索引 |
 | [wentorai/research-plugins](https://github.com/wentorai/research-plugins) | 298 | 科研龙虾学术工作流库，含 433 条任务技能、40 条路由入口及单独计数的数据库工具集成。 | MIT | 433 tasks + 40 routers | 仅索引 |
