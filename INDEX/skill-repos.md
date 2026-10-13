@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-12（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part77
+- 编制日期：2026-10-13（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part78
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2090 个独立仓库（另注明更名别名）
+- 收录条数：2106 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -20,6 +20,8 @@
 检索覆盖：GitHub topic/org/code search、skills.sh、ClawHub、HN/Reddit/V2EX/即刻/小红书、awesome 外链、`npx skills add`、`.claude-plugin/marketplace.json`。
 
 part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策展/设计史、实验室科研、无障碍/翻译，以及产品内嵌技能、在线技能注册表、技能国际化与开发基础设施。公开分发、贡献者内部技能、模板、测试样例与客户端副本分别核验；不把原始 SKILL.md 文件数直接当作独立技能数。GitLab/Gitee/GitCode 线索单列在审核记录，不混入现有 GitHub 仓库数据。
+
+part78 扩展：公益筹款、城市开放数据、规划与公共采购、电网与工厂运营，并追踪产品原生桌面技能目录和活跃后继。将当前技能、历史版本、核心包/视图、任务技能/路由入口及内部维护流程分开计数；许可证保留内容分区与 MIT-0 等准确标签。
 
 ### 更名与后继
 
@@ -305,6 +307,7 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [D-Robotics/rdk-skills](https://github.com/D-Robotics/rdk-skills) | 3 | D-Robotics RDK skill hub: board diagnostics, BSP, model deployment, and OE toolchains; separate code/content licenses. | Apache-2.0 (code); CC-BY-4.0 (skills/docs) | 97 | indexed-only |
 | [ForgeCAD/forgecad-public-kit](https://github.com/ForgeCAD/forgecad-public-kit) | 941 | ForgeCAD public companion kit with installable parametric CAD workflows for model creation, inspection, reconstruction, and verification. | MIT | 10 | indexed-only |
 | [fastah/ip-geofeed-skills](https://github.com/fastah/ip-geofeed-skills) | 7 | Fastah geofeed authoring/review skill for public RFC 8805 CSV data, with optional place-search MCP integration. | Apache-2.0 | 1 | indexed-only |
+| [Amazon-Quick/Amazon-Quick-official-catalog](https://github.com/Amazon-Quick/Amazon-Quick-official-catalog) | 50 | Amazon Quick desktop skill catalog spanning business workflows, including 14 energy/utilities skills and supply-chain tasks. | MIT-0 | 102 | indexed-only |
 
 ## 2. Collections
 
@@ -788,6 +791,8 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [ssheleg/sshlg-skills](https://github.com/ssheleg/sshlg-skills) | 10 | Multi-pack Agent Skills family installer for Claude Code / coding agents (MIT). | MIT | 多 | indexed-only |
 | [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | 1 | YYLO canonical cross-agent skills for Ledger task, wiki, workflow, artifact, project understanding, planning, benchmarking, and Ralph execution loops. | MIT | 8 / 采编 2 | curated |
 | [pjt222/agent-almanac](https://github.com/pjt222/agent-almanac) | 37 | MIT library of executable skills, specialist agents, teams, and guides with validation, visualization, and cross-client Agent Skills support. | MIT | 373 canonical | indexed-only |
+| [TuringWorks/civstack](https://github.com/TuringWorks/civstack) | 1 | CivStack public-economy role and workflow library spanning governance, utilities, industry, environment, and human-accountability boundaries. | CC-BY-4.0 | 433 core (+30 views) | indexed-only |
+| [wentorai/research-plugins](https://github.com/wentorai/research-plugins) | 298 | Research-Claw academic workflow library with 433 task skills, 40 routing entries, and a separately counted database-tool integration. | MIT | 433 tasks + 40 routers | indexed-only |
 
 ## 3. Vertical
 
@@ -1803,6 +1808,19 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [Community-Access/accessibility-agents](https://github.com/Community-Access/accessibility-agents) | 424 | MIT accessibility Agent Skills package with WCAG 2.2 AA specialists, routing, document checks, regression detection, and cross-client installation. | MIT | 108 | indexed-only |
 | [mgifford/accessibility-skills](https://github.com/mgifford/accessibility-skills) | 51 | AGPL accessibility skills distilled from canonical best-practice examples for alt text, forms, contrast, keyboard, media, plain language, and testing. | AGPL-3.0 | 33 | indexed-only |
 | [PangenomeAI/academic-skills-food-nutrition](https://github.com/PangenomeAI/academic-skills-food-nutrition) | 35 | MIT academic research skills for agriculture, food, and nutrition: source-validated research, pipelines, papers, reviews, presentations, and journal-ready finalization. | MIT | 41 | indexed-only |
+| [manojsurapaneni/manufacturing-ops-skills](https://github.com/manojsurapaneni/manufacturing-ops-skills) | 2 | Manufacturing operations skill for Toyota-style A3 problem reports, root-cause investigation, and continuous-improvement drafts. | MIT | 1 | indexed-only |
+| [GeoGeekLab/nature-reviewer-skills](https://github.com/GeoGeekLab/nature-reviewer-skills) | 48 | Independent Nature-style manuscript-review skills for chemistry, engineering, materials, and Earth-system research; includes shared review tooling. | MIT | 8 | indexed-only |
+| [iamursky/carbon-skill](https://github.com/iamursky/carbon-skill) | 5 | IBM Carbon UI skill for React, web components, Sass, themes, grids, and icons, with separately licensed bundled reference documentation. | MIT (skill); Apache-2.0 (references) | 1 | indexed-only |
+| [SkillMedev/nonprofit-grants-toolkit](https://github.com/SkillMedev/nonprofit-grants-toolkit) | 0 | Small-nonprofit skills for grant prospecting, letters of inquiry, proposals, donor communication, impact reports, and board preparation. | MIT | 6 | indexed-only |
+| [sgarcese/Civic-Analytics-Agent-Workflow-Claude-Skill](https://github.com/sgarcese/Civic-Analytics-Agent-Workflow-Claude-Skill) | 40 | Civic policy-analysis workflow skill connecting problem framing, open city data, analysis, and evidence-based reporting. | MIT | 1 | indexed-only |
+| [scottconverse/civic-scanner](https://github.com/scottconverse/civic-scanner) | 0 | Portable civic-newsroom skill for local reporting, claim verification, and source-linked editorial drafts, with a cross-agent installer. | MIT | 1 | indexed-only |
+| [terravic/bid-protest-architect-skill](https://github.com/terravic/bid-protest-architect-skill) | 0 | Federal-procurement document audit and bid-protest drafting skill for agent harnesses; legal and filing claims not independently validated. | Apache-2.0 | 1 | indexed-only |
+| [Hugin-Z/tender-writer-v4](https://github.com/Hugin-Z/tender-writer-v4) | 12 | Windows-first government tender-response skill for document parsing, scoring matrices, structured drafts, attachment assembly, and delivery exports. | MIT | 1 | indexed-only |
+| [BrightCubes/power-grid-model-ai](https://github.com/BrightCubes/power-grid-model-ai) | 3 | Power Grid Model ecosystem skills for data ingestion, validation, grid studies, result explanation, and issue analysis. | MPL-2.0 | 2 | indexed-only |
+| [Nolpak14/getregdata](https://github.com/Nolpak14/getregdata) | 6 | Business-registry research skills for company verification, due diligence, public filings, and cross-border research; some workflows rely on external paid actors. | MIT | 44 | indexed-only |
+| [SeagullTwo/uk-planning-skills](https://github.com/SeagullTwo/uk-planning-skills) | 1 | UK planning-document skills for application triage, ecology, transport, heritage, flooding, policy assessment, reports, and committee preparation. | MIT | 15 | indexed-only |
+| [dungnotnull/historical-cadastral-map-restoration-agent-skill](https://github.com/dungnotnull/historical-cadastral-map-restoration-agent-skill) | 5 | Historical cadastral-map restoration and GIS digitization agent workflow with supporting research and reference material. | MIT | 1 | indexed-only |
+| [benjaminjackson/nonprofit-fundraising-skills](https://github.com/benjaminjackson/nonprofit-fundraising-skills) | 1 | Nonprofit donor-stewardship and donor-newsletter Claude plugin skills, using task-routed reference libraries. | MIT | 2 | indexed-only |
 
 ## 4. Infra
 

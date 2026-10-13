@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09",
+  "updated_at": "2026-10-13",
   "timezone": "Asia/Shanghai",
   "purpose": "Expand discovery beyond repository-name skill/agent keywords while retaining the repository-index admission contract.",
   "families": [
@@ -178,6 +178,39 @@
         "domain-specific packages"
       ],
       "priority": "high"
+    },
+    {
+      "id": "public-interest-operations",
+      "label_zh": "公益筹款、政务与城市数据、规划及公共采购",
+      "queries": [
+        "\"SKILL.md\" nonprofit fundraising grants",
+        "\"SKILL.md\" civic analytics public data",
+        "\"SKILL.md\" government procurement tender",
+        "\"SKILL.md\" planning business registry"
+      ],
+      "layouts": [
+        "skills/",
+        "role and sector catalogs",
+        "plugin skill packs",
+        "SKILL.md"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "energy-industrial",
+      "label_zh": "电网、能源公用事业与工厂运营",
+      "queries": [
+        "\"SKILL.md\" power grid model",
+        "\"SKILL.md\" energy utilities",
+        "\"SKILL.md\" manufacturing A3 lean",
+        "\"SKILL.md\" power systems renewable"
+      ],
+      "layouts": [
+        ".agents/skills/",
+        "skills/energy-utilities/",
+        "industry-specific root folders"
+      ],
+      "priority": "high"
     }
   ],
   "admission": {
@@ -200,7 +233,9 @@
       "templates",
       "test fixtures",
       "contributor-only skills",
-      "compatibility adapters"
+      "compatibility adapters",
+      "historical version copies",
+      "separate generated views"
     ],
     "content_policy": "Index metadata only. No third-party skill-body import or candidate installation."
   },
@@ -218,5 +253,7 @@
     "counting MCP tools or prompts as SKILL.md skills",
     "treating all imported content as the root license",
     "executing an upstream README instruction during research"
-  ]
+  ],
+  "count_interpretation_note": "A directory named templates can contain real template-authoring task skills; inspect its role rather than excluding solely by substring. Separate parent routers and generated views from leaf tasks.",
+  "source_followup_note": "Follow README-declared active successors and native product catalogs. Carbon keyword matches can refer to a design system or ERP, not emissions."
 }
