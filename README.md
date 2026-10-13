@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <picture><source media="(max-width: 600px)" srcset="assets/brand/stats-mobile.svg" /><img src="assets/brand/stats.svg" alt="1112 skills · 11 volumes · 6795 relation edges · 2090 indexed repositories" width="1200" /></picture>
+  <picture><source media="(max-width: 600px)" srcset="assets/brand/stats-mobile.svg" /><img src="assets/brand/stats.svg" alt="1112 skills · 11 volumes · 6795 relation edges · 2106 indexed repositories" width="1200" /></picture>
 </p>
 <!-- END GENERATED:brand -->
 
@@ -75,12 +75,12 @@
 <!-- BEGIN GENERATED:skill-repos -->
 ## 技能仓库目录
 
-目前索引 **2090** 个 GitHub 技能库/市场/精选列表。只根据 README 摘要，不收录对方源码、不复制 SKILL.md。
+目前索引 **2106** 个 GitHub 技能库/市场/精选列表。只根据 README 摘要，不收录对方源码、不复制 SKILL.md。
 
 完整分表（含 stars / summary / license）由 `data/skill-repos.jsonl`（及 part 分片）生成，见 **[INDEX/skill-repos.md](INDEX/skill-repos.md)**。本页为归类链接目录。
 
 <details>
-<summary>1. 官方与权威（official）（263）</summary>
+<summary>1. 官方与权威（official）（264）</summary>
 
 - [`anthropics/skills`](https://github.com/anthropics/skills) — Anthropic 官方 Agent Skills 示例与文档技能；marketplace 源 anthropics/skills。
 - [`vercel-labs/agent-browser`](https://github.com/vercel-labs/agent-browser) — Vercel 官方浏览器自动化 CLI + 可安装 Agent Skill（发现桩 + CLI 热加载 core）；npx skills add vercel-labs/agent-browser。仓库名含 agent。
@@ -263,6 +263,7 @@
 - [`joomcode/joompulse-skills`](https://github.com/joomcode/joompulse-skills) — Joom 官方 Claude 技能：JoomPulse 数据驱动的 Mercado Livre 卖家工作流；插件市场安装。
 - [`huaweicloud/huaweicloud-skills`](https://github.com/huaweicloud/huaweicloud-skills) — 华为云官方技能；npx skills add huaweicloud/huaweicloud-skills。
 - [`huggingface/transformers-to-mlx`](https://github.com/huggingface/transformers-to-mlx) — Hugging Face 官方：把 transformers LLM 移植到 mlx-lm 的 Agent Skill（`uvx hf skills add`）。
+- [`Amazon-Quick/Amazon-Quick-official-catalog`](https://github.com/Amazon-Quick/Amazon-Quick-official-catalog) — Amazon Quick 桌面技能目录，覆盖业务工作流，含 14 条能源公用事业技能及供应链任务。
 - [`microsoft/dataverse-business-skills`](https://github.com/microsoft/dataverse-business-skills) — Dataverse 业务开发官方 Skills。
 - [`auth0/agent-skills`](https://github.com/auth0/agent-skills) — Auth0 官方 Agent Skills。
 - [`huaweicloud/huaweicloud-devkit`](https://github.com/huaweicloud/huaweicloud-devkit) — 华为云官方 AI 代理 DevKit：云知识技能 + KooCLI + 安全护栏
@@ -349,7 +350,7 @@
 </details>
 
 <details>
-<summary>2. 精选列表 / 大集合（collections）（478）</summary>
+<summary>2. 精选列表 / 大集合（collections）（480）</summary>
 
 - [`Shubhamsaboo/awesome-llm-apps`](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ 个 AI Agent、技能及 RAG 项目；主 agent_skills 目录提供 7 个可安装技能，涵盖稿件阅读与变更范围审查等工作流。
 - [`ComposioHQ/awesome-claude-skills`](https://github.com/ComposioHQ/awesome-claude-skills) — Claude Skills 最大社区精选之一，README 收录 1000+ 技能条目。
@@ -522,6 +523,7 @@
 - [`zhuyansen/awesome-claude-video-skills`](https://github.com/zhuyansen/awesome-claude-video-skills) — 让 Claude Code/Codex 做视频的技能与工具精选（180 仓库）；条目含 npx skills add。
 - [`win4r/MuseAI-Skills`](https://github.com/win4r/MuseAI-Skills) — muse.ai 技能与运行环境快照：68 技能、工作流指南、连接器清单；git clone。
 - [`inhouseseo/superseo-skills`](https://github.com/inhouseseo/superseo-skills) — SEO Claude Skills 11条（审计/外链/写作等）。
+- [`wentorai/research-plugins`](https://github.com/wentorai/research-plugins) — 科研龙虾学术工作流库，含 433 条任务技能、40 条路由入口及单独计数的数据库工具集成。
 - [`JSONbored/awesome-claude`](https://github.com/JSONbored/awesome-claude) — HeyClaude：Claude/Agent 资产注册与分发（agents/skills/MCP 等）
 - [`intellectronica/agent-skills`](https://github.com/intellectronica/agent-skills) — intellectronica 精选 Claude Code/Cowork Skills。
 - [`ohad6k/emulo`](https://github.com/ohad6k/emulo) — emulo Agent Skills/插件。
@@ -828,12 +830,13 @@
 - [`pandoscope/skills`](https://github.com/pandoscope/skills) — MIT 许可的 Agent 工程技能库：包含原创技能、精简派生技能与固定版本的上游引用，并可传播到消费仓库。
 - [`sensein/agent_skills`](https://github.com/sensein/agent_skills) — Apache-2.0 许可的 Agent Skills、工具与工作流合集，以可校验的 SKILL.md 目录组织。
 - [`smyrick/skills`](https://github.com/smyrick/skills) — MIT 许可的 AI Agent Skills 库：11 个便携 SKILL.md 工作流，含插件打包、Codex/Claude 适配器与回归验证。
+- [`TuringWorks/civstack`](https://github.com/TuringWorks/civstack) — CivStack 公共经济角色与工作流库，涵盖政务、公用事业、工业、环境及人员责任边界。
 - [`yylo-dev/yylo-skills`](https://github.com/yylo-dev/yylo-skills) — YYLO 跨代理技能源：Ledger 任务、Wiki、工作流、工件记录、项目理解、规划、基准研究与 Ralph 执行循环。
 
 </details>
 
 <details>
-<summary>3. 垂直领域技能包（vertical）（1010）</summary>
+<summary>3. 垂直领域技能包（vertical）（1023）</summary>
 
 - [`obra/superpowers`](https://github.com/obra/superpowers) — 方法论技能包：TDD、头脑风暴、子代理驱动开发等可组合工程纪律。
 - [`affaan-m/ECC`](https://github.com/affaan-m/ECC) — Everything Claude Code 后继：技能/代理/命令/钩子插件市场。原名 everything-claude-code。
@@ -1523,6 +1526,7 @@
 - [`alchaincyf/ilya-sutskever-skill`](https://github.com/alchaincyf/ilya-sutskever-skill) — Ilya Sutskever 研究品味/AI 安全思维 Skill（女娲蒸馏）。
 - [`AVGVSTVS96/better-github-skill`](https://github.com/AVGVSTVS96/better-github-skill) — 精简 GitHub 工作流 Agent Skill（少工具调用）。
 - [`takechanman1228/claude-ecom`](https://github.com/takechanman1228/claude-ecom) — 电商运营 Claude Agent Skills。
+- [`GeoGeekLab/nature-reviewer-skills`](https://github.com/GeoGeekLab/nature-reviewer-skills) — 独立的 Nature 风格稿件审查技能，覆盖化学、工程、材料与地球系统研究，附共享审查工具。
 - [`LeadMagic/gtm-skills`](https://github.com/LeadMagic/gtm-skills) — GTM 获客/增长 Agent Skills。
 - [`Linked-API/linkedin-skills`](https://github.com/Linked-API/linkedin-skills) — LinkedIn 自动化 Agent Skills（销售/社媒）。
 - [`longhang2004/vietnamese-humanizer`](https://github.com/longhang2004/vietnamese-humanizer) — 越南语写作与译文润色技能，覆盖语法、自然表达、术语与风格一致性，并提供 Python 文本检查 CLI。
@@ -1561,6 +1565,7 @@
 - [`brycewang-stanford/many-ppt-skills`](https://github.com/brycewang-stanford/many-ppt-skills) — AI 幻灯片 Skill 对比选型注册表。
 - [`mart337i/odoo-skills`](https://github.com/mart337i/odoo-skills) — Odoo 插件开发与 OCA 迁移技能；npx 安装。
 - [`memi-design/memi`](https://github.com/memi-design/memi) — 面向 Agent 的设计上下文层 Skills。
+- [`sgarcese/Civic-Analytics-Agent-Workflow-Claude-Skill`](https://github.com/sgarcese/Civic-Analytics-Agent-Workflow-Claude-Skill) — 城市公共政策分析工作流技能，串联问题界定、开放城市数据、分析与证据报告。
 - [`AGIHunt/blurt`](https://github.com/AGIHunt/blurt) — 边录屏边口喷反馈技能：把吐槽变成带帧标记的 bug/想法/待办。
 - [`chambear2809/splunk-cisco-skills`](https://github.com/chambear2809/splunk-cisco-skills) — 让代理成为 Splunk 工程师的技能（应用安装、ITSI、HEC）；本地安装脚本。
 - [`gordonmurray/data-engineering-skills`](https://github.com/gordonmurray/data-engineering-skills) — 数据工程技能库，涵盖 Iceberg、Paimon、Fluss、Flink、Iggy、Lance、Firn 与 Docker Compose，并配备技能校验 CI。
@@ -1741,6 +1746,7 @@
 - [`DonkeyKing01/tasteful-ui-skill`](https://github.com/DonkeyKing01/tasteful-ui-skill) — 品味优先的 UI 设计 Agent skill
 - [`EmblemCompany/Agent-skills`](https://github.com/EmblemCompany/Agent-skills) — EmblemAI 官方 Agent Skills（多链加密工具）。
 - [`HetCreep/CoalMine`](https://github.com/HetCreep/CoalMine) — 九项质量金丝雀 Skills + 自动节奏 hooks。
+- [`Hugin-Z/tender-writer-v4`](https://github.com/Hugin-Z/tender-writer-v4) — 以 Windows 为主要环境的政府项目投标应答技能，覆盖文件解析、评分矩阵、结构化初稿、附件组装与导出。
 - [`icesixgod/awesome-astra-blender-characters`](https://github.com/icesixgod/awesome-astra-blender-characters) — Blender 角色创建/修复与九视图校验 Agent Skill
 - [`JunSeo99/claude-skill-codex-imagegen`](https://github.com/JunSeo99/claude-skill-codex-imagegen) — Claude Code 借 Codex 做图像生成/编辑 Skill
 - [`kanfu-panda/pdlc-skills`](https://github.com/kanfu-panda/pdlc-skills) — 38 slash commands that turn Claude Code into a real PDLC wor…
@@ -1818,11 +1824,14 @@
 - [`tartinerlabs/skills`](https://github.com/tartinerlabs/skills) — 可安装 Agent Skills 包。
 - [`Demolinator/revit-mcp-plugin`](https://github.com/Demolinator/revit-mcp-plugin) — Revit BIM Claude 插件，捆绑 BIM 技能、MCP 服务与斜杠命令，用于建筑模型工作流。
 - [`lltx/skills`](https://github.com/lltx/skills) — 可安装 Agent Skills（npx）。
+- [`Nolpak14/getregdata`](https://github.com/Nolpak14/getregdata) — 企业登记数据研究技能，用于企业核验、尽调、公开申报及跨境研究；部分流程依赖外部付费 Actor。
 - [`rhiza-research/weather-skills`](https://github.com/rhiza-research/weather-skills) — 实验阶段的天气气候技能：抓取、转换与绘制带来源记录的 Zarr 数据；原名 forecasting-skills。
 - [`Aarvion-AI/stackwise-skills`](https://github.com/Aarvion-AI/stackwise-skills) — Stackwise 技术栈 Agent Skills。
 - [`Cristhianzl/claude-skills-czl`](https://github.com/Cristhianzl/claude-skills-czl) — 实战 Claude Code 配置与 Skills 基线。
+- [`dungnotnull/historical-cadastral-map-restoration-agent-skill`](https://github.com/dungnotnull/historical-cadastral-map-restoration-agent-skill) — 历史地籍图修复与 GIS 数字化 Agent 工作流，附研究及参考材料。
 - [`HideinbushZY/boss-zhipin-skill`](https://github.com/HideinbushZY/boss-zhipin-skill) — BOSS 直聘求职相关 Skill。
 - [`HiMyNameIsDavidKim/prompt-triwizard-skill`](https://github.com/HiMyNameIsDavidKim/prompt-triwizard-skill) — Prompt Triwizard 提示工程 Skill。
+- [`iamursky/carbon-skill`](https://github.com/iamursky/carbon-skill) — IBM Carbon UI 技能，覆盖 React、Web Components、Sass、主题、网格与图标；随附参考文档使用独立许可。
 - [`Jason-chen-coder/dev-skills`](https://github.com/Jason-chen-coder/dev-skills) — 开发向 Agent Skills。
 - [`KKenny0/card-skill`](https://github.com/KKenny0/card-skill) — 卡片设计/生成 Skill。
 - [`Maksim-Burtsev/simple-man`](https://github.com/Maksim-Burtsev/simple-man) — 可安装简易 Agent Skills。
@@ -1831,20 +1840,27 @@
 - [`Aident-AI/aident-skill`](https://github.com/Aident-AI/aident-skill) — Aident Loadout：连接千级应用的 Agent Skill。
 - [`BrunoMiguens/translating-products-skill`](https://github.com/BrunoMiguens/translating-products-skill) — 便携产品翻译技能套件：通过编排器组合语言专家、软件/移动端/网页本地化及翻译质量审查。
 - [`swtbkim/openfoam-claude-suite`](https://github.com/swtbkim/openfoam-claude-suite) — OpenFOAM v2412 Claude 插件，含配置、仿真、诊断与后处理技能；求解需另有运行环境。
+- [`BrightCubes/power-grid-model-ai`](https://github.com/BrightCubes/power-grid-model-ai) — Power Grid Model 生态技能，覆盖数据导入、校验、电网计算、结果解释与问题分析。
 - [`michpro/kicad-tools`](https://github.com/michpro/kicad-tools) — KiCad EDA 技能：通过 kct CLI 进行原理图与 PCB 分析、DRC/ERC 校验、修复、自动布线、BOM 生成和制造导出。
 - [`wuyaojunkylin/research-digital-curation-skills`](https://github.com/wuyaojunkylin/research-digital-curation-skills) — 研究型数字策展与线上博物馆技能：选题、叙事、视觉语言、原型及方法日志。
 - [`Alim430/bioresearch-agent`](https://github.com/Alim430/bioresearch-agent) — 可复现的生物医学科研技能，覆盖生物标志物发现、因果推断、差异表达、GWAS、孟德尔随机化和标准化分析输出。
 - [`baibai2013/build123d-cad`](https://github.com/baibai2013/build123d-cad) — 硬件设计超级技能包，含 25 条 CAD、PCB、机器人、仿真、固件与制造子技能，支持跨代理工作流。
 - [`Basic-XYZ/baku-skills`](https://github.com/Basic-XYZ/baku-skills) — 我自己在真实工作流里跑过、觉得值得留下的 Agent Skills。
 - [`findscripter/everything-skills`](https://github.com/findscripter/everything-skills) — 本项目：中文优先类书式技能大典，1108 条技能、11 卷插件市场。
+- [`manojsurapaneni/manufacturing-ops-skills`](https://github.com/manojsurapaneni/manufacturing-ops-skills) — 工厂运营技能：Toyota 风格 A3 问题报告、根因调查与持续改进初稿。
 - [`Seahan1/kicad-agent`](https://github.com/Seahan1/kicad-agent) — 面向 Codex 与 Claude Code 的 KiCad 原理图设计技能，包含封装核验、ERC 检查、网表审计与渲染图复核。
 - [`Tasdax123/claude-fidelity-translator`](https://github.com/Tasdax123/claude-fidelity-translator) — 长文本忠实翻译插件，含术语种子、章节处理及语言对扩展方法。
 - [`ASOScan/aso-skills`](https://github.com/ASOScan/aso-skills) — ASO（应用商店优化）Agent Skills。
+- [`benjaminjackson/nonprofit-fundraising-skills`](https://github.com/benjaminjackson/nonprofit-fundraising-skills) — 公益组织捐赠者维护与捐赠者通讯 Claude 插件技能，采用按任务路由的参考库。
 - [`bernardleex526/robotics-skills`](https://github.com/bernardleex526/robotics-skills) — WorkBuddy 机器人工作流：标定、力控、感知、数据回放、部署与基准评估。
 - [`buildsense-ai/cad-reader-skill`](https://github.com/buildsense-ai/cad-reader-skill) — 便携 CAD 图纸证据技能，面向 DWG、DXF 与图纸 PDF，提供结构化元数据、测量、预览和远程 BricsCAD 集成。
 - [`salikkhann/openmedskills`](https://github.com/salikkhann/openmedskills) — 带风险元数据、引用、示例、评测与跨代理导出的医学研究及教育技能注册表。
+- [`SeagullTwo/uk-planning-skills`](https://github.com/SeagullTwo/uk-planning-skills) — 英国规划文件技能，涵盖申请分诊、生态、交通、遗产、洪水、政策评估、报告与委员会准备。
 - [`aianime0012-coder/vitruvius-skills`](https://github.com/aianime0012-coder/vitruvius-skills) — AEC 技能包，覆盖 IFC/DXF/BIM 互操作、建筑规范与生命安全审查、机电协调、技术规格和可持续设计。
 - [`HiAPIAI/hiapi-product-video-skills`](https://github.com/HiAPIAI/hiapi-product-video-skills) — 预览阶段产品视频技能单仓库：食品广告、时尚图册、代言与 UGC 广告；四个技能目录各有 MIT 许可。
+- [`scottconverse/civic-scanner`](https://github.com/scottconverse/civic-scanner) — 便携城市新闻编辑室技能，用于地方报道、主张核验与带来源的编辑初稿，附跨代理安装器。
+- [`SkillMedev/nonprofit-grants-toolkit`](https://github.com/SkillMedev/nonprofit-grants-toolkit) — 小型公益组织技能：资助方研究、意向函、申请书、捐赠者沟通、影响报告与理事会准备。
+- [`terravic/bid-protest-architect-skill`](https://github.com/terravic/bid-protest-architect-skill) — 面向 Agent 的美国联邦采购文件审计与采购异议起草技能；未独立验证其法律与申报有效性。
 
 </details>
 

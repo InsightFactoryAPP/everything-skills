@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-13",
+  "timezone": "Asia/Shanghai",
+  "notice": "Search results are leads only. Admission is based on fixed-commit repository evidence in part78.audit.json. Hugin-Z/tender-writer-v4 was followed from the deprecated v2 README.",
+  "batches": [
+    {
+      "batch": 1,
+      "queries": [
+        "github \"SKILL.md\" \"nonprofit\" OR \"government\" OR \"public policy\"",
+        "github \"SKILL.md\" \"energy\" \"skills\"",
+        "github \"SKILL.md\" \"climate\" \"sustainability\"",
+        "github \"SKILL.md\" \"manufacturing\" OR \"industrial\" \"skills\""
+      ],
+      "urls": [
+        "https://github.com/manojsurapaneni/manufacturing-ops-skills",
+        "https://github.com/getburo/buro-free",
+        "https://github.com/TuringWorks/civstack",
+        "https://github.com/truman-t3/industrial-design-portfolio-skill",
+        "https://github.com/lyndonkl/claude",
+        "https://github.com/mohitagw15856/pm-claude-skills",
+        "https://github.com/theneoai/awesome-skills",
+        "https://github.com/GeoGeekLab/nature-reviewer-skills",
+        "https://github.com/oldwinter/skills",
+        "https://github.com/HinVec/awesome-skills_lists"
+      ]
+    },
+    {
+      "batch": 2,
+      "queries": [
+        "github \"SKILL.md\" \"climate\" \"energy\"",
+        "github \"SKILL.md\" \"nonprofit\" skills",
+        "github \"SKILL.md\" \"civic\" skills",
+        "github \"SKILL.md\" \"carbon\" skills"
+      ],
+      "urls": [
+        "https://github.com/iamursky/carbon-skill",
+        "https://github.com/SkillMedev/nonprofit-grants-toolkit",
+        "https://github.com/crbnos/carbon",
+        "https://github.com/sgarcese/Civic-Analytics-Agent-Workflow-Claude-Skill",
+        "https://github.com/carbon-design-system/carbon-ai-chat",
+        "https://github.com/scottconverse/civic-scanner",
+        "https://github.com/infometa/workbuddyskills",
+        "https://github.com/HumboldtJoker/coalition-agent-skills",
+        "https://github.com/SkillMedev/skills"
+      ]
+    },
+    {
+      "batch": 3,
+      "queries": [
+        "github \"SKILL.md\" solar renewable energy grid",
+        "github \"SKILL.md\" \"nonprofit\" \"grant\"",
+        "github \"SKILL.md\" \"government\" \"procurement\"",
+        "github \"SKILL.md\" \"ecology\" OR \"biodiversity\" OR \"conservation\""
+      ],
+      "urls": [
+        "https://github.com/SkillMedev/nonprofit-grants-toolkit",
+        "https://github.com/Amazon-Quick/Amazon-Quick-official-catalog",
+        "https://github.com/terravic/bid-protest-architect-skill",
+        "https://github.com/Hugin-Z/tender-writer-v2",
+        "https://github.com/Hugin-Z/tender-writer-v2.git",
+        "https://github.com/BrightCubes/power-grid-model-ai",
+        "https://github.com/Nolpak14/getregdata",
+        "https://github.com/1102tools-dev/federal-contracting-skills",
+        "https://github.com/wentorai/research-plugins",
+        "https://github.com/SkillMedev/skills",
+        "https://github.com/SeagullTwo/uk-planning-skills",
+        "https://github.com/SylphAI-Inc/atskills",
+        "https://github.com/huaweicloud/huaweicloud-skills.git"
+      ]
+    },
+    {
+      "batch": 4,
+      "queries": [
+        "github \"SKILL.md\" \"power systems\" OR \"renewable\" OR \"OpenModelica\"",
+        "github \"SKILL.md\" \"conservation\" \"skill\"",
+        "github \"SKILL.md\" \"nonprofit\" \"fundraising\"",
+        "github \"SKILL.md\" \"civil engineering\" OR \"construction\" OR \"supply chain\""
+      ],
+      "urls": [
+        "https://github.com/SkillMedev/nonprofit-grants-toolkit",
+        "https://github.com/SkillMedev/skills",
+        "https://github.com/rebelytics/one-skill-to-rule-them-all",
+        "https://github.com/dungnotnull/historical-cadastral-map-restoration-agent-skill",
+        "https://github.com/plurigrid/asi",
+        "https://github.com/benjaminjackson/nonprofit-fundraising-skills"
+      ]
+    }
+  ]
+}

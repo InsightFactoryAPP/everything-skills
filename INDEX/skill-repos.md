@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-12（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part77
+- 编制日期：2026-10-13（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part78
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2090 个独立仓库（另注明更名别名）
+- 收录条数：2106 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -20,6 +20,8 @@
 检索覆盖：GitHub topic/org/code search、skills.sh、ClawHub、HN/Reddit/V2EX/即刻/小红书、awesome 外链、`npx skills add`、`.claude-plugin/marketplace.json`。
 
 part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策展/设计史、实验室科研、无障碍/翻译，以及产品内嵌技能、在线技能注册表、技能国际化与开发基础设施。公开分发、贡献者内部技能、模板、测试样例与客户端副本分别核验；不把原始 SKILL.md 文件数直接当作独立技能数。GitLab/Gitee/GitCode 线索单列在审核记录，不混入现有 GitHub 仓库数据。
+
+part78 扩展：公益筹款、城市开放数据、规划与公共采购、电网与工厂运营，并追踪产品原生桌面技能目录和活跃后继。将当前技能、历史版本、核心包/视图、任务技能/路由入口及内部维护流程分开计数；许可证保留内容分区与 MIT-0 等准确标签。
 
 ### 更名与后继
 
@@ -305,6 +307,7 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [D-Robotics/rdk-skills](https://github.com/D-Robotics/rdk-skills) | 3 | 地瓜机器人 RDK 官方技能枢纽：板卡诊断、BSP、模型部署与 OE 工具链；代码与技能文档分开授权。 | Apache-2.0 (code); CC-BY-4.0 (skills/docs) | 97 | 仅索引 |
 | [ForgeCAD/forgecad-public-kit](https://github.com/ForgeCAD/forgecad-public-kit) | 941 | ForgeCAD 官方公共配套包，含可安装参数化 CAD 技能：建模、检查、重建与验证。 | MIT | 10 | 仅索引 |
 | [fastah/ip-geofeed-skills](https://github.com/fastah/ip-geofeed-skills) | 7 | Fastah IP 地理馈送编写与审查技能，面向公开 RFC 8805 CSV，附可选地名检索 MCP。 | Apache-2.0 | 1 | 仅索引 |
+| [Amazon-Quick/Amazon-Quick-official-catalog](https://github.com/Amazon-Quick/Amazon-Quick-official-catalog) | 50 | Amazon Quick 桌面技能目录，覆盖业务工作流，含 14 条能源公用事业技能及供应链任务。 | MIT-0 | 102 | 仅索引 |
 
 ## 2. 精选列表 / 大集合
 
@@ -788,6 +791,8 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [ssheleg/sshlg-skills](https://github.com/ssheleg/sshlg-skills) | 10 | 多包系 Agent Skills 安装集合，面向 Claude Code / 编码代理（MIT）。 | MIT | 多 | 仅索引 |
 | [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | 1 | YYLO 跨代理技能源：Ledger 任务、Wiki、工作流、工件记录、项目理解、规划、基准研究与 Ralph 执行循环。 | MIT | 8 / 采编 2 | 已采编 |
 | [pjt222/agent-almanac](https://github.com/pjt222/agent-almanac) | 37 | MIT 可执行技能、专家 Agent、团队与指南库，提供校验、可视化及跨客户端 Agent Skills 支持。 | MIT | 373 canonical | 仅索引 |
+| [TuringWorks/civstack](https://github.com/TuringWorks/civstack) | 1 | CivStack 公共经济角色与工作流库，涵盖政务、公用事业、工业、环境及人员责任边界。 | CC-BY-4.0 | 433 core (+30 views) | 仅索引 |
+| [wentorai/research-plugins](https://github.com/wentorai/research-plugins) | 298 | 科研龙虾学术工作流库，含 433 条任务技能、40 条路由入口及单独计数的数据库工具集成。 | MIT | 433 tasks + 40 routers | 仅索引 |
 
 ## 3. 垂直领域技能包
 
@@ -1803,6 +1808,19 @@ part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策
 | [Community-Access/accessibility-agents](https://github.com/Community-Access/accessibility-agents) | 424 | MIT 无障碍 Agent Skills 套件，覆盖 WCAG 2.2 AA 专家、任务路由、文档检查、回归检测及跨客户端安装。 | MIT | 108 | 仅索引 |
 | [mgifford/accessibility-skills](https://github.com/mgifford/accessibility-skills) | 51 | AGPL 无障碍技能集合，源自规范示例，覆盖替代文本、表单、对比度、键盘、媒体、简明语言与测试。 | AGPL-3.0 | 33 | 仅索引 |
 | [PangenomeAI/academic-skills-food-nutrition](https://github.com/PangenomeAI/academic-skills-food-nutrition) | 35 | MIT 农业、食品与营养学术科研技能，覆盖来源核验研究、流水线、论文、综述、演示与期刊投稿定稿。 | MIT | 41 | 仅索引 |
+| [manojsurapaneni/manufacturing-ops-skills](https://github.com/manojsurapaneni/manufacturing-ops-skills) | 2 | 工厂运营技能：Toyota 风格 A3 问题报告、根因调查与持续改进初稿。 | MIT | 1 | 仅索引 |
+| [GeoGeekLab/nature-reviewer-skills](https://github.com/GeoGeekLab/nature-reviewer-skills) | 48 | 独立的 Nature 风格稿件审查技能，覆盖化学、工程、材料与地球系统研究，附共享审查工具。 | MIT | 8 | 仅索引 |
+| [iamursky/carbon-skill](https://github.com/iamursky/carbon-skill) | 5 | IBM Carbon UI 技能，覆盖 React、Web Components、Sass、主题、网格与图标；随附参考文档使用独立许可。 | MIT (skill); Apache-2.0 (references) | 1 | 仅索引 |
+| [SkillMedev/nonprofit-grants-toolkit](https://github.com/SkillMedev/nonprofit-grants-toolkit) | 0 | 小型公益组织技能：资助方研究、意向函、申请书、捐赠者沟通、影响报告与理事会准备。 | MIT | 6 | 仅索引 |
+| [sgarcese/Civic-Analytics-Agent-Workflow-Claude-Skill](https://github.com/sgarcese/Civic-Analytics-Agent-Workflow-Claude-Skill) | 40 | 城市公共政策分析工作流技能，串联问题界定、开放城市数据、分析与证据报告。 | MIT | 1 | 仅索引 |
+| [scottconverse/civic-scanner](https://github.com/scottconverse/civic-scanner) | 0 | 便携城市新闻编辑室技能，用于地方报道、主张核验与带来源的编辑初稿，附跨代理安装器。 | MIT | 1 | 仅索引 |
+| [terravic/bid-protest-architect-skill](https://github.com/terravic/bid-protest-architect-skill) | 0 | 面向 Agent 的美国联邦采购文件审计与采购异议起草技能；未独立验证其法律与申报有效性。 | Apache-2.0 | 1 | 仅索引 |
+| [Hugin-Z/tender-writer-v4](https://github.com/Hugin-Z/tender-writer-v4) | 12 | 以 Windows 为主要环境的政府项目投标应答技能，覆盖文件解析、评分矩阵、结构化初稿、附件组装与导出。 | MIT | 1 | 仅索引 |
+| [BrightCubes/power-grid-model-ai](https://github.com/BrightCubes/power-grid-model-ai) | 3 | Power Grid Model 生态技能，覆盖数据导入、校验、电网计算、结果解释与问题分析。 | MPL-2.0 | 2 | 仅索引 |
+| [Nolpak14/getregdata](https://github.com/Nolpak14/getregdata) | 6 | 企业登记数据研究技能，用于企业核验、尽调、公开申报及跨境研究；部分流程依赖外部付费 Actor。 | MIT | 44 | 仅索引 |
+| [SeagullTwo/uk-planning-skills](https://github.com/SeagullTwo/uk-planning-skills) | 1 | 英国规划文件技能，涵盖申请分诊、生态、交通、遗产、洪水、政策评估、报告与委员会准备。 | MIT | 15 | 仅索引 |
+| [dungnotnull/historical-cadastral-map-restoration-agent-skill](https://github.com/dungnotnull/historical-cadastral-map-restoration-agent-skill) | 5 | 历史地籍图修复与 GIS 数字化 Agent 工作流，附研究及参考材料。 | MIT | 1 | 仅索引 |
+| [benjaminjackson/nonprofit-fundraising-skills](https://github.com/benjaminjackson/nonprofit-fundraising-skills) | 1 | 公益组织捐赠者维护与捐赠者通讯 Claude 插件技能，采用按任务路由的参考库。 | MIT | 2 | 仅索引 |
 
 ## 4. 安装器 / 注册表 / 基础设施
 
