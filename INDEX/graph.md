@@ -2,7 +2,7 @@
 
 > 本文件由 scripts/build-index.mjs 自动生成，请勿手改。
 
-全库 **1112** 节点、**6795** 条互见边（含方向重复前的原始边）。
+全库 **1113** 节点、**6800** 条互见边（含方向重复前的原始边）。
 
 图例：`-->` 依赖(requires) · `-.-` 互见(related) · `===` 组合(combines_with)。
 
@@ -31,8 +31,8 @@ graph LR
   协作 ---|63| 商业
   数据 ---|58| 领域
   安全 ---|49| 研发
+  协作 ---|42| 研发
   协作 ---|41| 通用
-  协作 ---|41| 研发
   平台 ---|39| 智能
   智能 ---|35| 通用
   安全 ---|33| 领域
@@ -107,9 +107,9 @@ graph LR
 
 </details>
 
-<details><summary>卷二 · 研发（枢纽 10 / 边 10）（枢纽截断至 10）</summary>
+<details><summary>卷二 · 研发（枢纽 10 / 边 9）（枢纽截断至 10）</summary>
 
-**Hubs (by degree):** `error-handling-patterns`(24), `react-state-management`(24), `rest-api-endpoint-builder`(23), `typescript-advanced-types`(22), `ci-cd-pipeline-builder`(20), `microservices-patterns`(19), `code-reviewer`(18), `shadcn-ui-components`(18), `distributed-tracing`(17), `playwright-e2e-testing`(17)
+**Hubs (by degree):** `error-handling-patterns`(24), `react-state-management`(24), `rest-api-endpoint-builder`(23), `typescript-advanced-types`(22), `ci-cd-pipeline-builder`(20), `microservices-patterns`(19), `code-reviewer`(18), `shadcn-ui-components`(18), `distributed-tracing`(17), `legacy-codebase-modernizer`(17)
 
 | from | type | to |
 | --- | --- | --- |
@@ -121,7 +121,6 @@ graph LR
 | `shadcn-ui-components` | `-.-` | `react-state-management` |
 | `error-handling-patterns` | `===` | `distributed-tracing` |
 | `typescript-advanced-types` | `===` | `shadcn-ui-components` |
-| `playwright-e2e-testing` | `===` | `ci-cd-pipeline-builder` |
 | `distributed-tracing` | `===` | `microservices-patterns` |
 
 </details>

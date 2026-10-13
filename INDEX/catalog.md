@@ -2,7 +2,7 @@
 
 > 本文件由 scripts/build-index.mjs 自动生成，请勿手改。
 
-共 1112 条技能。
+共 1113 条技能。
 
 ## 卷〇 · 通用
 
@@ -107,6 +107,7 @@
 - [`spec-driven-workflow`](../02-engineering/spec-driven-workflow/SKILL.md) — 规约驱动开发工作流　`研发/architecture` · 进阶
 - [`tech-debt-prioritizer`](../02-engineering/tech-debt-prioritizer/SKILL.md) — 技术债识别与排序　`研发/architecture` · 进阶
 - [`tech-stack-evaluator`](../02-engineering/tech-stack-evaluator/SKILL.md) — 技术栈评估与 TCO 对比　`研发/architecture` · 进阶
+- [`understand-project-yylo`](../02-engineering/understand-project-yylo/SKILL.md) — YYLO 项目理解与变更前调研　`研发/architecture` · 进阶
 - [`vp-engineering-advisor`](../02-engineering/vp-engineering-advisor/SKILL.md) — 工程副总裁顾问（DORA 交付效能）　`研发/architecture` · 进阶
 - [`zero-downtime-migration-architect`](../02-engineering/zero-downtime-migration-architect/SKILL.md) — 零停机迁移与回滚架构　`研发/architecture` · 精通
 - [`algolia-search-integration`](../02-engineering/algolia-search-integration/SKILL.md) — Algolia 搜索集成与索引优化　`研发/backend` · 进阶
