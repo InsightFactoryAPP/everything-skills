@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-13（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part78
+- 编制日期：2026-10-14（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part79
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2106 个独立仓库（另注明更名别名）
+- 收录条数：2116 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part79 审核记录](../data/skill-repos.part79.audit.md)、[part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -308,6 +308,7 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [ForgeCAD/forgecad-public-kit](https://github.com/ForgeCAD/forgecad-public-kit) | 941 | ForgeCAD public companion kit with installable parametric CAD workflows for model creation, inspection, reconstruction, and verification. | MIT | 10 | indexed-only |
 | [fastah/ip-geofeed-skills](https://github.com/fastah/ip-geofeed-skills) | 7 | Fastah geofeed authoring/review skill for public RFC 8805 CSV data, with optional place-search MCP integration. | Apache-2.0 | 1 | indexed-only |
 | [Amazon-Quick/Amazon-Quick-official-catalog](https://github.com/Amazon-Quick/Amazon-Quick-official-catalog) | 50 | Amazon Quick desktop skill catalog spanning business workflows, including 14 energy/utilities skills and supply-chain tasks. | MIT-0 | 102 | indexed-only |
+| [lightpanda-io/agent-skill](https://github.com/lightpanda-io/agent-skill) | 102 | Apache Lightpanda browser skills for MCP, CLI fetch, CDP automation, and deterministic PandaScript replay across coding agents. | Apache-2.0 | 2 | indexed-only |
 
 ## 2. Collections
 
@@ -1821,6 +1822,15 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [SeagullTwo/uk-planning-skills](https://github.com/SeagullTwo/uk-planning-skills) | 1 | UK planning-document skills for application triage, ecology, transport, heritage, flooding, policy assessment, reports, and committee preparation. | MIT | 15 | indexed-only |
 | [dungnotnull/historical-cadastral-map-restoration-agent-skill](https://github.com/dungnotnull/historical-cadastral-map-restoration-agent-skill) | 5 | Historical cadastral-map restoration and GIS digitization agent workflow with supporting research and reference material. | MIT | 1 | indexed-only |
 | [benjaminjackson/nonprofit-fundraising-skills](https://github.com/benjaminjackson/nonprofit-fundraising-skills) | 1 | Nonprofit donor-stewardship and donor-newsletter Claude plugin skills, using task-routed reference libraries. | MIT | 2 | indexed-only |
+| [arunbalajiraju-proc/procurement-ai-assistant](https://github.com/arunbalajiraju-proc/procurement-ai-assistant) | 15 | MIT model-agnostic procurement workflow library with a parent skill and nine child skills for intake, market research, RFPs, pricing, contracts, negotiation, suppliers, and spend. | MIT | 10 | indexed-only |
+| [meodai/skill.color-expert](https://github.com/meodai/skill.color-expert) | 609 | CC-BY color expertise skill covering naming, color spaces, perceptual matching, APCA/WCAG contrast, and accessible palette decisions with references and evals. | CC-BY-4.0 | 1 | indexed-only |
+| [ArchSightLabs/archsight-aios](https://github.com/ArchSightLabs/archsight-aios) | 23 | Apache BIM/IFC architecture knowledge-governance skills for evidence chains, GraphRAG, model health, and runtime governance across coding agents. | Apache-2.0 | 33 | indexed-only |
+| [zstary/DDC_Skills_for_AI_Agents_in_Construction](https://github.com/zstary/DDC_Skills_for_AI_Agents_in_Construction) | 3 | MIT construction automation collection with 221 BIM, IFC, CAD conversion, clash detection, quantity takeoff, and project-delivery skills. | MIT | 221 | indexed-only |
+| [dannybauman/groundstation](https://github.com/dannybauman/groundstation) | 0 | MIT geospatial Earth-observation skills for STAC, TiTiler, Sentinel-2 NDVI, NASA VEDA, and Planetary Computer workflows. | MIT | 4 | indexed-only |
+| [carbonstop/skills](https://github.com/carbonstop/skills) | 3 | MIT carbon-accounting skill for CCDB emission-factor lookup, product carbon footprints, enterprise inventories, and LCA workflows with compliance boundaries. | MIT | 1 | indexed-only |
+| [Gonzih/skills-nonprofit](https://github.com/Gonzih/skills-nonprofit) | 2 | MIT nonprofit skills for donor reporting, grant proposals, impact stories, and volunteer briefs with an npm/npx installer. | MIT | 4 | indexed-only |
+| [heliopaivajr/civil-skills](https://github.com/heliopaivajr/civil-skills) | 10 | MIT civil-construction skills for schedules, technical memorials, and budgets using SINAPI, TCPO, BIM, and ABNT workflows. | MIT | 3 | indexed-only |
+| [jinjinisjinjin/interdisciplinary-phd-os](https://github.com/jinjinisjinjin/interdisciplinary-phd-os) | 0 | MIT local-first doctoral application workflow with five Agent Skills for program discovery, research fit, application drafting, profiles, and pipeline management. | MIT | 5 | indexed-only |
 
 ## 4. Infra
 
