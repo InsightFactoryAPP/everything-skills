@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-13（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part78
+- 编制日期：2026-10-14（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part79
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2106 个独立仓库（另注明更名别名）
+- 收录条数：2116 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part79 审核记录](../data/skill-repos.part79.audit.md)、[part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -308,6 +308,7 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [ForgeCAD/forgecad-public-kit](https://github.com/ForgeCAD/forgecad-public-kit) | 941 | ForgeCAD 官方公共配套包，含可安装参数化 CAD 技能：建模、检查、重建与验证。 | MIT | 10 | 仅索引 |
 | [fastah/ip-geofeed-skills](https://github.com/fastah/ip-geofeed-skills) | 7 | Fastah IP 地理馈送编写与审查技能，面向公开 RFC 8805 CSV，附可选地名检索 MCP。 | Apache-2.0 | 1 | 仅索引 |
 | [Amazon-Quick/Amazon-Quick-official-catalog](https://github.com/Amazon-Quick/Amazon-Quick-official-catalog) | 50 | Amazon Quick 桌面技能目录，覆盖业务工作流，含 14 条能源公用事业技能及供应链任务。 | MIT-0 | 102 | 仅索引 |
+| [lightpanda-io/agent-skill](https://github.com/lightpanda-io/agent-skill) | 102 | Apache Lightpanda 浏览器技能，覆盖 MCP、CLI 抓取、CDP 自动化及跨编码 Agent 的确定性 PandaScript 回放。 | Apache-2.0 | 2 | 仅索引 |
 
 ## 2. 精选列表 / 大集合
 
@@ -1821,6 +1822,15 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [SeagullTwo/uk-planning-skills](https://github.com/SeagullTwo/uk-planning-skills) | 1 | 英国规划文件技能，涵盖申请分诊、生态、交通、遗产、洪水、政策评估、报告与委员会准备。 | MIT | 15 | 仅索引 |
 | [dungnotnull/historical-cadastral-map-restoration-agent-skill](https://github.com/dungnotnull/historical-cadastral-map-restoration-agent-skill) | 5 | 历史地籍图修复与 GIS 数字化 Agent 工作流，附研究及参考材料。 | MIT | 1 | 仅索引 |
 | [benjaminjackson/nonprofit-fundraising-skills](https://github.com/benjaminjackson/nonprofit-fundraising-skills) | 1 | 公益组织捐赠者维护与捐赠者通讯 Claude 插件技能，采用按任务路由的参考库。 | MIT | 2 | 仅索引 |
+| [arunbalajiraju-proc/procurement-ai-assistant](https://github.com/arunbalajiraju-proc/procurement-ai-assistant) | 15 | MIT 面向多模型的采购工作流技能库，以父技能和九条子技能覆盖采购 intake、市场研究、RFP、定价、合同、谈判、供应商与支出分析。 | MIT | 10 | 仅索引 |
+| [meodai/skill.color-expert](https://github.com/meodai/skill.color-expert) | 609 | CC-BY 色彩专家技能，覆盖色彩命名、色彩空间、感知匹配、APCA/WCAG 对比度和无障碍配色决策，并附参考资料与评测。 | CC-BY-4.0 | 1 | 仅索引 |
+| [ArchSightLabs/archsight-aios](https://github.com/ArchSightLabs/archsight-aios) | 23 | Apache BIM/IFC 建筑知识治理技能，覆盖工程证据链、GraphRAG、模型健康与 Runtime 治理，支持多种编码 Agent。 | Apache-2.0 | 33 | 仅索引 |
+| [zstary/DDC_Skills_for_AI_Agents_in_Construction](https://github.com/zstary/DDC_Skills_for_AI_Agents_in_Construction) | 3 | MIT 施工自动化技能集合，含 221 条 BIM、IFC、CAD 转换、碰撞检测、工程量提取和项目交付技能。 | MIT | 221 | 仅索引 |
+| [dannybauman/groundstation](https://github.com/dannybauman/groundstation) | 0 | MIT 地理空间与地球观测技能，覆盖 STAC、TiTiler、Sentinel-2 NDVI、NASA VEDA 与 Planetary Computer 工作流。 | MIT | 4 | 仅索引 |
+| [carbonstop/skills](https://github.com/carbonstop/skills) | 3 | MIT 碳核算技能，使用 CCDB 查询排放因子，支持产品碳足迹、企业盘查和 LCA 工作流，并明确合规边界。 | MIT | 1 | 仅索引 |
+| [Gonzih/skills-nonprofit](https://github.com/Gonzih/skills-nonprofit) | 2 | MIT 非营利组织技能，覆盖捐赠者报告、资助申请、影响故事与志愿者简报，并提供 npm/npx 安装器。 | MIT | 4 | 仅索引 |
+| [heliopaivajr/civil-skills](https://github.com/heliopaivajr/civil-skills) | 10 | MIT 土木施工技能，使用 SINAPI、TCPO、BIM 和 ABNT 工作流处理进度、技术说明与工程预算。 | MIT | 3 | 仅索引 |
+| [jinjinisjinjin/interdisciplinary-phd-os](https://github.com/jinjinisjinjin/interdisciplinary-phd-os) | 0 | MIT 本地优先的跨学科博士申请工作流，含项目发现、研究匹配、申请材料、申请人画像和流程管理五条 Agent Skills。 | MIT | 5 | 仅索引 |
 
 ## 4. 安装器 / 注册表 / 基础设施
 
