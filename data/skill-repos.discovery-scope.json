@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13",
+  "updated_at": "2026-10-15",
   "timezone": "Asia/Shanghai",
   "purpose": "Expand discovery beyond repository-name skill/agent keywords while retaining the repository-index admission contract.",
   "families": [
@@ -211,6 +211,52 @@
         "industry-specific root folders"
       ],
       "priority": "high"
+    },
+    {
+      "id": "education-learning",
+      "label_zh": "教学、课程设计与学习诊断",
+      "queries": [
+        "\"SKILL.md\" teaching assessment",
+        "\"SKILL.md\" course readiness syllabus",
+        "\"SKILL.md\" lesson differentiation"
+      ],
+      "layouts": [
+        "skills/",
+        "course-specific root folders",
+        "SKILL.md"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "scientific-compute-hpc",
+      "label_zh": "科学计算、计算化学与 HPC 工作流",
+      "queries": [
+        "\"SKILL.md\" HPC Slurm",
+        "\"SKILL.md\" computational chemistry",
+        "\"SKILL.md\" FEniCS OpenMM GROMACS"
+      ],
+      "layouts": [
+        "plugins/hpc/skills/",
+        "skills/",
+        "scientific-method directories",
+        "SKILL.md"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "literature-reference-management",
+      "label_zh": "文献管理、本地文献库与引文工作流",
+      "queries": [
+        "\"SKILL.md\" Zotero library",
+        "\"SKILL.md\" BibTeX citation",
+        "\"SKILL.md\" manuscript audit"
+      ],
+      "layouts": [
+        "skills/",
+        "SKILL.md",
+        "native product integration directories"
+      ],
+      "priority": "medium"
     }
   ],
   "admission": {
@@ -255,5 +301,7 @@
     "executing an upstream README instruction during research"
   ],
   "count_interpretation_note": "A directory named templates can contain real template-authoring task skills; inspect its role rather than excluding solely by substring. Separate parent routers and generated views from leaf tasks.",
-  "source_followup_note": "Follow README-declared active successors and native product catalogs. Carbon keyword matches can refer to a design system or ERP, not emissions."
+  "source_followup_note": "Follow README-declared active successors and native product catalogs. Carbon keyword matches can refer to a design system or ERP, not emissions.",
+  "source_overlap_note": "Compare commit-pinned SKILL blob hashes as well as names, IDs and fork flags. Some unmarked copies have substantial overlap plus distinct files; preserve that distinction and never label the whole file count globally new.",
+  "license_scope_note": "Noncommercial content can only be explicitly indexed under the current metadata-only workflow; never silently classify it as unrestricted open source or import its instructions. Root and per-skill notices stay separate."
 }
