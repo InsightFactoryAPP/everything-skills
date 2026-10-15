@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-13（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part78
+- 编制日期：2026-10-15（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part80
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2106 个独立仓库（另注明更名别名）
+- 收录条数：2132 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part80 审核记录](../data/skill-repos.part80.audit.md)、[part79 审核记录](../data/skill-repos.part79.audit.md)、[part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -22,6 +22,8 @@
 part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策展/设计史、实验室科研、无障碍/翻译，以及产品内嵌技能、在线技能注册表、技能国际化与开发基础设施。公开分发、贡献者内部技能、模板、测试样例与客户端副本分别核验；不把原始 SKILL.md 文件数直接当作独立技能数。GitLab/Gitee/GitCode 线索单列在审核记录，不混入现有 GitHub 仓库数据。
 
 part78 扩展：公益筹款、城市开放数据、规划与公共采购、电网与工厂运营，并追踪产品原生桌面技能目录和活跃后继。将当前技能、历史版本、核心包/视图、任务技能/路由入口及内部维护流程分开计数；许可证保留内容分区与 MIT-0 等准确标签。
+
+part80 扩展：教学与课程诊断、科学计算与 HPC、计算化学、文献管理、公开档案视觉工作流及产品内嵌技能。补充固定提交技能 blob 的跨仓库重叠核验；带非商业限制的内容只明确索引元数据，不采编正文或称为无限制开源内容。
 
 ### 更名与后继
 
@@ -308,6 +310,10 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [ForgeCAD/forgecad-public-kit](https://github.com/ForgeCAD/forgecad-public-kit) | 941 | ForgeCAD public companion kit with installable parametric CAD workflows for model creation, inspection, reconstruction, and verification. | MIT | 10 | indexed-only |
 | [fastah/ip-geofeed-skills](https://github.com/fastah/ip-geofeed-skills) | 7 | Fastah geofeed authoring/review skill for public RFC 8805 CSV data, with optional place-search MCP integration. | Apache-2.0 | 1 | indexed-only |
 | [Amazon-Quick/Amazon-Quick-official-catalog](https://github.com/Amazon-Quick/Amazon-Quick-official-catalog) | 50 | Amazon Quick desktop skill catalog spanning business workflows, including 14 energy/utilities skills and supply-chain tasks. | MIT-0 | 102 | indexed-only |
+| [lightpanda-io/agent-skill](https://github.com/lightpanda-io/agent-skill) | 102 | Apache Lightpanda browser skills for MCP, CLI fetch, CDP automation, and deterministic PandaScript replay across coding agents. | Apache-2.0 | 2 | indexed-only |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,707 | OpenDataLoader PDF product with a public agent skill for structured extraction, format selection, and runtime CLI discovery; enterprise PDF/UA services are separate. | Apache-2.0 | 1 | indexed-only |
+| [learning-commons-org/agent-skills](https://github.com/learning-commons-org/agent-skills) | 38 | Learning Commons teaching skills for checking understanding, differentiated lessons, lesson creation, and preparation, with optional education MCP integration. | Apache-2.0 | 4 | indexed-only |
+| [Genentech/openfe_skill](https://github.com/Genentech/openfe_skill) | 28 | Genentech OpenFE skill for relative binding-free-energy workflows on Slurm HPC with site-specific configuration kept separately. | MIT | 1 | indexed-only |
 
 ## 2. Collections
 
@@ -793,6 +799,7 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [pjt222/agent-almanac](https://github.com/pjt222/agent-almanac) | 37 | MIT library of executable skills, specialist agents, teams, and guides with validation, visualization, and cross-client Agent Skills support. | MIT | 373 canonical | indexed-only |
 | [TuringWorks/civstack](https://github.com/TuringWorks/civstack) | 1 | CivStack public-economy role and workflow library spanning governance, utilities, industry, environment, and human-accountability boundaries. | CC-BY-4.0 | 433 core (+30 views) | indexed-only |
 | [wentorai/research-plugins](https://github.com/wentorai/research-plugins) | 298 | Research-Claw academic workflow library with 433 task skills, 40 routing entries, and a separately counted database-tool integration. | MIT | 433 tasks + 40 routers | indexed-only |
+| [Axect/skills](https://github.com/Axect/skills) | 3 | Researcher-oriented skill collection for literature, paper review, academic opportunities, scientific figures, writing, and research operations. | MIT | 30 | indexed-only |
 
 ## 3. Vertical
 
@@ -1821,6 +1828,26 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [SeagullTwo/uk-planning-skills](https://github.com/SeagullTwo/uk-planning-skills) | 1 | UK planning-document skills for application triage, ecology, transport, heritage, flooding, policy assessment, reports, and committee preparation. | MIT | 15 | indexed-only |
 | [dungnotnull/historical-cadastral-map-restoration-agent-skill](https://github.com/dungnotnull/historical-cadastral-map-restoration-agent-skill) | 5 | Historical cadastral-map restoration and GIS digitization agent workflow with supporting research and reference material. | MIT | 1 | indexed-only |
 | [benjaminjackson/nonprofit-fundraising-skills](https://github.com/benjaminjackson/nonprofit-fundraising-skills) | 1 | Nonprofit donor-stewardship and donor-newsletter Claude plugin skills, using task-routed reference libraries. | MIT | 2 | indexed-only |
+| [arunbalajiraju-proc/procurement-ai-assistant](https://github.com/arunbalajiraju-proc/procurement-ai-assistant) | 15 | MIT model-agnostic procurement workflow library with a parent skill and nine child skills for intake, market research, RFPs, pricing, contracts, negotiation, suppliers, and spend. | MIT | 10 | indexed-only |
+| [meodai/skill.color-expert](https://github.com/meodai/skill.color-expert) | 609 | CC-BY color expertise skill covering naming, color spaces, perceptual matching, APCA/WCAG contrast, and accessible palette decisions with references and evals. | CC-BY-4.0 | 1 | indexed-only |
+| [ArchSightLabs/archsight-aios](https://github.com/ArchSightLabs/archsight-aios) | 23 | Apache BIM/IFC architecture knowledge-governance skills for evidence chains, GraphRAG, model health, and runtime governance across coding agents. | Apache-2.0 | 33 | indexed-only |
+| [zstary/DDC_Skills_for_AI_Agents_in_Construction](https://github.com/zstary/DDC_Skills_for_AI_Agents_in_Construction) | 3 | Construction automation collection for BIM, IFC, CAD, clash detection, quantity takeoff, and delivery; reviewed skill files substantially overlap the indexed DDC collection. | MIT | 221 files (192 shared; 29 unmatched) | indexed-only |
+| [dannybauman/groundstation](https://github.com/dannybauman/groundstation) | 0 | MIT geospatial Earth-observation skills for STAC, TiTiler, Sentinel-2 NDVI, NASA VEDA, and Planetary Computer workflows. | MIT | 4 | indexed-only |
+| [carbonstop/skills](https://github.com/carbonstop/skills) | 3 | MIT carbon-accounting skill for CCDB emission-factor lookup, product carbon footprints, enterprise inventories, and LCA workflows with compliance boundaries. | MIT | 1 | indexed-only |
+| [Gonzih/skills-nonprofit](https://github.com/Gonzih/skills-nonprofit) | 2 | MIT nonprofit skills for donor reporting, grant proposals, impact stories, and volunteer briefs with an npm/npx installer. | MIT | 4 | indexed-only |
+| [heliopaivajr/civil-skills](https://github.com/heliopaivajr/civil-skills) | 10 | MIT civil-construction skills for schedules, technical memorials, and budgets using SINAPI, TCPO, BIM, and ABNT workflows. | MIT | 3 | indexed-only |
+| [jinjinisjinjin/interdisciplinary-phd-os](https://github.com/jinjinisjinjin/interdisciplinary-phd-os) | 0 | MIT local-first doctoral application workflow with five Agent Skills for program discovery, research fit, application drafting, profiles, and pipeline management. | MIT | 5 | indexed-only |
+| [scayver/marketing-skills](https://github.com/scayver/marketing-skills) | 8 | Marketing Skills OS public library covering strategy, content, SEO, campaigns, accessible design, scorecards, and execution workflows. | MIT | 76 | indexed-only |
+| [dtunai/agent-skills-for-compute](https://github.com/dtunai/agent-skills-for-compute) | 2 | Compute skills for GPU/TPU/QPU programming, scientific simulation, Slurm/MPI, quantum tooling, and model training/inference workflows. | MIT | 21 | indexed-only |
+| [BTHawake/Teacher_skill](https://github.com/BTHawake/Teacher_skill) | 2 | Chinese teacher skill with a teaching router, guided questioning, learning diagnosis, and task-specific reference material. | MIT | 1 | indexed-only |
+| [tizzy916/scholar-wendao-skill](https://github.com/tizzy916/scholar-wendao-skill) | 20 | Scholar-perspective questioning and dialogue skill with a noncommercial content license; repository metadata indexed without importing its instructions. | CC-BY-NC-4.0 (noncommercial; indexed only) | 1 | indexed-only |
+| [mprokopov/teaching-skills](https://github.com/mprokopov/teaching-skills) | 0 | Course-design skills that map prerequisite skill graphs and build readiness diagnostics from a syllabus. | MIT | 2 | indexed-only |
+| [polgarp/collage-design](https://github.com/polgarp/collage-design) | 2 | Collage-design skill using archival photography and printed material, source/attribution logging, and portable SVG/PNG composition. | Apache-2.0 | 1 | indexed-only |
+| [SciMate-AI/HPC-Skills](https://github.com/SciMate-AI/HPC-Skills) | 95 | Portable HPC skills for CFD, FEM, molecular simulation, quantum chemistry, MPI, GPU stacks, Spack, visualization, and cluster orchestration. | MIT | 22 | indexed-only |
+| [yale-som-hpc/claude-code-marketplace](https://github.com/yale-som-hpc/claude-code-marketplace) | 5 | Yale SOM research-computing marketplace with cluster-specific HPC, Python/R/Stata, Slurm, storage, GPU, and reproducibility skills. | Unlicense | 23 | indexed-only |
+| [WenyuChiou/zotero-skills](https://github.com/WenyuChiou/zotero-skills) | 58 | Zotero skill for library operations and research workflows, with public installation through the author-maintained research marketplace. | MIT | 1 | indexed-only |
+| [AkaLiu/zotero-skill](https://github.com/AkaLiu/zotero-skill) | 5 | Bilingual local Zotero literature skill for paper/note retrieval, PDF reading, and context-grounded research assistance. | MIT | 1 | indexed-only |
+| [jinzhezenggroup/computational-chemistry-agent-skills](https://github.com/jinzhezenggroup/computational-chemistry-agent-skills) | 151 | Computational-chemistry workflows for quantum chemistry, atomistic simulation, molecular dynamics, data preparation, phonons, and ML potentials, with per-skill license notices. | LGPL-3.0 (root); per-skill MIT / LGPL-3.0-or-later | 67 public files (incl. routers) | indexed-only |
 
 ## 4. Infra
 
@@ -2177,3 +2204,4 @@ Names are often methodologies, products, or memes. Inclusion is based on README:
 | [toby/flashback](https://github.com/toby/flashback) | 7 | Design-history skill retrieving year-specific typography, palettes, and visual references from a published historical archive. | MIT | 1 | indexed-only |
 | [fcon-tech/portolan](https://github.com/fcon-tech/portolan) | 1 | Codebase-survey product bundling an installable Portolan skill, MCP wiring, and source-anchored architecture charts. | MIT | 1 | indexed-only |
 | [leap-laboratories/discovery-engine](https://github.com/leap-laboratories/discovery-engine) | 7 | Leap Laboratories tabular-pattern discovery service with an agent skill and MCP/SDK guidance; hosted execution is a separate service. | MIT | 1 | indexed-only |
+| [nraford7/art-direct](https://github.com/nraford7/art-direct) | 9 | Art-direction skill turning documents and other content into visual directions, image prompts, and production briefs. | MIT | 1 | indexed-only |
