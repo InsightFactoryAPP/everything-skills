@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-14（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part79
+- 编制日期：2026-10-15（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part80
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2116 个独立仓库（另注明更名别名）
+- 收录条数：2132 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part79 审核记录](../data/skill-repos.part79.audit.md)、[part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part80 审核记录](../data/skill-repos.part80.audit.md)、[part79 审核记录](../data/skill-repos.part79.audit.md)、[part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -22,6 +22,8 @@
 part75 扩展：GIS/天气气候、机器人/嵌入式、CAE/CAD/BIM、数字策展/设计史、实验室科研、无障碍/翻译，以及产品内嵌技能、在线技能注册表、技能国际化与开发基础设施。公开分发、贡献者内部技能、模板、测试样例与客户端副本分别核验；不把原始 SKILL.md 文件数直接当作独立技能数。GitLab/Gitee/GitCode 线索单列在审核记录，不混入现有 GitHub 仓库数据。
 
 part78 扩展：公益筹款、城市开放数据、规划与公共采购、电网与工厂运营，并追踪产品原生桌面技能目录和活跃后继。将当前技能、历史版本、核心包/视图、任务技能/路由入口及内部维护流程分开计数；许可证保留内容分区与 MIT-0 等准确标签。
+
+part80 扩展：教学与课程诊断、科学计算与 HPC、计算化学、文献管理、公开档案视觉工作流及产品内嵌技能。补充固定提交技能 blob 的跨仓库重叠核验；带非商业限制的内容只明确索引元数据，不采编正文或称为无限制开源内容。
 
 ### 更名与后继
 
@@ -309,6 +311,9 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [fastah/ip-geofeed-skills](https://github.com/fastah/ip-geofeed-skills) | 7 | Fastah IP 地理馈送编写与审查技能，面向公开 RFC 8805 CSV，附可选地名检索 MCP。 | Apache-2.0 | 1 | 仅索引 |
 | [Amazon-Quick/Amazon-Quick-official-catalog](https://github.com/Amazon-Quick/Amazon-Quick-official-catalog) | 50 | Amazon Quick 桌面技能目录，覆盖业务工作流，含 14 条能源公用事业技能及供应链任务。 | MIT-0 | 102 | 仅索引 |
 | [lightpanda-io/agent-skill](https://github.com/lightpanda-io/agent-skill) | 102 | Apache Lightpanda 浏览器技能，覆盖 MCP、CLI 抓取、CDP 自动化及跨编码 Agent 的确定性 PandaScript 回放。 | Apache-2.0 | 2 | 仅索引 |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,707 | OpenDataLoader PDF 产品附公开 Agent Skill，用于结构化提取、格式选择与运行时 CLI 发现；企业版 PDF/UA 服务另计。 | Apache-2.0 | 1 | 仅索引 |
+| [learning-commons-org/agent-skills](https://github.com/learning-commons-org/agent-skills) | 38 | Learning Commons 教学技能，覆盖理解检查、差异化教学、教案创建与备课，附可选教育 MCP 集成。 | Apache-2.0 | 4 | 仅索引 |
+| [Genentech/openfe_skill](https://github.com/Genentech/openfe_skill) | 28 | Genentech OpenFE 技能，用于 Slurm HPC 上的相对结合自由能工作流，站点配置单独保存。 | MIT | 1 | 仅索引 |
 
 ## 2. 精选列表 / 大集合
 
@@ -794,6 +799,7 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [pjt222/agent-almanac](https://github.com/pjt222/agent-almanac) | 37 | MIT 可执行技能、专家 Agent、团队与指南库，提供校验、可视化及跨客户端 Agent Skills 支持。 | MIT | 373 canonical | 仅索引 |
 | [TuringWorks/civstack](https://github.com/TuringWorks/civstack) | 1 | CivStack 公共经济角色与工作流库，涵盖政务、公用事业、工业、环境及人员责任边界。 | CC-BY-4.0 | 433 core (+30 views) | 仅索引 |
 | [wentorai/research-plugins](https://github.com/wentorai/research-plugins) | 298 | 科研龙虾学术工作流库，含 433 条任务技能、40 条路由入口及单独计数的数据库工具集成。 | MIT | 433 tasks + 40 routers | 仅索引 |
+| [Axect/skills](https://github.com/Axect/skills) | 3 | 面向研究者的技能集合，覆盖文献、论文审查、学术机会、科研图表、写作与研究运营。 | MIT | 30 | 仅索引 |
 
 ## 3. 垂直领域技能包
 
@@ -1825,12 +1831,23 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [arunbalajiraju-proc/procurement-ai-assistant](https://github.com/arunbalajiraju-proc/procurement-ai-assistant) | 15 | MIT 面向多模型的采购工作流技能库，以父技能和九条子技能覆盖采购 intake、市场研究、RFP、定价、合同、谈判、供应商与支出分析。 | MIT | 10 | 仅索引 |
 | [meodai/skill.color-expert](https://github.com/meodai/skill.color-expert) | 609 | CC-BY 色彩专家技能，覆盖色彩命名、色彩空间、感知匹配、APCA/WCAG 对比度和无障碍配色决策，并附参考资料与评测。 | CC-BY-4.0 | 1 | 仅索引 |
 | [ArchSightLabs/archsight-aios](https://github.com/ArchSightLabs/archsight-aios) | 23 | Apache BIM/IFC 建筑知识治理技能，覆盖工程证据链、GraphRAG、模型健康与 Runtime 治理，支持多种编码 Agent。 | Apache-2.0 | 33 | 仅索引 |
-| [zstary/DDC_Skills_for_AI_Agents_in_Construction](https://github.com/zstary/DDC_Skills_for_AI_Agents_in_Construction) | 3 | MIT 施工自动化技能集合，含 221 条 BIM、IFC、CAD 转换、碰撞检测、工程量提取和项目交付技能。 | MIT | 221 | 仅索引 |
+| [zstary/DDC_Skills_for_AI_Agents_in_Construction](https://github.com/zstary/DDC_Skills_for_AI_Agents_in_Construction) | 3 | BIM、IFC、CAD、碰撞检测、工程量与交付技能集合；已核验技能文件与现有 DDC 来源有大量重叠。 | MIT | 221 files (192 shared; 29 unmatched) | 仅索引 |
 | [dannybauman/groundstation](https://github.com/dannybauman/groundstation) | 0 | MIT 地理空间与地球观测技能，覆盖 STAC、TiTiler、Sentinel-2 NDVI、NASA VEDA 与 Planetary Computer 工作流。 | MIT | 4 | 仅索引 |
 | [carbonstop/skills](https://github.com/carbonstop/skills) | 3 | MIT 碳核算技能，使用 CCDB 查询排放因子，支持产品碳足迹、企业盘查和 LCA 工作流，并明确合规边界。 | MIT | 1 | 仅索引 |
 | [Gonzih/skills-nonprofit](https://github.com/Gonzih/skills-nonprofit) | 2 | MIT 非营利组织技能，覆盖捐赠者报告、资助申请、影响故事与志愿者简报，并提供 npm/npx 安装器。 | MIT | 4 | 仅索引 |
 | [heliopaivajr/civil-skills](https://github.com/heliopaivajr/civil-skills) | 10 | MIT 土木施工技能，使用 SINAPI、TCPO、BIM 和 ABNT 工作流处理进度、技术说明与工程预算。 | MIT | 3 | 仅索引 |
 | [jinjinisjinjin/interdisciplinary-phd-os](https://github.com/jinjinisjinjin/interdisciplinary-phd-os) | 0 | MIT 本地优先的跨学科博士申请工作流，含项目发现、研究匹配、申请材料、申请人画像和流程管理五条 Agent Skills。 | MIT | 5 | 仅索引 |
+| [scayver/marketing-skills](https://github.com/scayver/marketing-skills) | 8 | Marketing Skills OS 公开技能库，覆盖策略、内容、SEO、营销活动、无障碍设计、评分卡与执行工作流。 | MIT | 76 | 仅索引 |
+| [dtunai/agent-skills-for-compute](https://github.com/dtunai/agent-skills-for-compute) | 2 | 计算技能包，覆盖 GPU/TPU/QPU 编程、科学仿真、Slurm/MPI、量子工具及模型训练推理。 | MIT | 21 | 仅索引 |
+| [BTHawake/Teacher_skill](https://github.com/BTHawake/Teacher_skill) | 2 | 中文教师技能，包含教学路由、引导提问、学习诊断与按任务读取的参考材料。 | MIT | 1 | 仅索引 |
+| [tizzy916/scholar-wendao-skill](https://github.com/tizzy916/scholar-wendao-skill) | 20 | 学者视角提问与对话技能，内容许可带非商业限制；仅索引仓库元数据，不采编其指令正文。 | CC-BY-NC-4.0 (noncommercial; indexed only) | 1 | 仅索引 |
+| [mprokopov/teaching-skills](https://github.com/mprokopov/teaching-skills) | 0 | 课程设计技能：根据教学大纲映射前置能力图谱并构建入学准备度诊断。 | MIT | 2 | 仅索引 |
+| [polgarp/collage-design](https://github.com/polgarp/collage-design) | 2 | 拼贴设计技能，利用档案照片与印刷材料，记录来源和署名，并组织 SVG/PNG 图像合成。 | Apache-2.0 | 1 | 仅索引 |
+| [SciMate-AI/HPC-Skills](https://github.com/SciMate-AI/HPC-Skills) | 95 | 可移植 HPC 技能，覆盖 CFD、FEM、分子模拟、量子化学、MPI、GPU、Spack、可视化及集群编排。 | MIT | 22 | 仅索引 |
+| [yale-som-hpc/claude-code-marketplace](https://github.com/yale-som-hpc/claude-code-marketplace) | 5 | Yale SOM 研究计算技能市场，覆盖特定集群的 HPC、Python/R/Stata、Slurm、存储、GPU 与可复现流程。 | Unlicense | 23 | 仅索引 |
+| [WenyuChiou/zotero-skills](https://github.com/WenyuChiou/zotero-skills) | 58 | Zotero 文献库操作与科研工作流技能，通过作者维护的研究技能市场公开分发。 | MIT | 1 | 仅索引 |
+| [AkaLiu/zotero-skill](https://github.com/AkaLiu/zotero-skill) | 5 | 双语本地 Zotero 文献技能，用于论文和笔记检索、PDF 阅读及有文献上下文的研究辅助。 | MIT | 1 | 仅索引 |
+| [jinzhezenggroup/computational-chemistry-agent-skills](https://github.com/jinzhezenggroup/computational-chemistry-agent-skills) | 151 | 计算化学工作流，覆盖量子化学、原子仿真、分子动力学、数据准备、声子与机器学习势；各技能保留自己的许可声明。 | LGPL-3.0 (root); per-skill MIT / LGPL-3.0-or-later | 67 public files (incl. routers) | 仅索引 |
 
 ## 4. 安装器 / 注册表 / 基础设施
 
@@ -2187,3 +2204,4 @@ part78 扩展：公益筹款、城市开放数据、规划与公共采购、电�
 | [toby/flashback](https://github.com/toby/flashback) | 7 | 设计史技能，从公开历史档案检索指定年份的字体、配色与视觉参考。 | MIT | 1 | 仅索引 |
 | [fcon-tech/portolan](https://github.com/fcon-tech/portolan) | 1 | 代码库测绘产品，捆绑可安装 Portolan 技能、MCP 接入及可追溯架构图。 | MIT | 1 | 仅索引 |
 | [leap-laboratories/discovery-engine](https://github.com/leap-laboratories/discovery-engine) | 7 | Leap Laboratories 表格模式发现服务，附 Agent Skill 与 MCP/SDK 指南；托管执行属于独立服务。 | MIT | 1 | 仅索引 |
+| [nraford7/art-direct](https://github.com/nraford7/art-direct) | 9 | 艺术指导技能，将文档等内容整理为视觉方向、图像提示词与制作简报。 | MIT | 1 | 仅索引 |

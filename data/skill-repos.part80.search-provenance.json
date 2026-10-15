@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "timezone": "Asia/Shanghai",
+  "notice": "Search results are leads only. Admission and existing-source overlap checks use fixed-commit repository evidence recorded in part80.audit.json. Case variants resolving to one repository ID are one candidate.",
+  "batches": [
+    {
+      "batch": 1,
+      "queries": [
+        "github \"SKILL.md\" \"education\" \"teaching\" skills",
+        "github \"SKILL.md\" \"library\" \"archive\" \"research\"",
+        "github \"SKILL.md\" \"scientific computing\" skills",
+        "github \"SKILL.md\" \"laboratory\" \"chemistry\""
+      ],
+      "urls": [
+        "https://github.com/scdenney/open-science-skills",
+        "https://github.com/opendataloader-project/opendataloader-pdf",
+        "https://github.com/scayver/marketing-skills",
+        "https://github.com/dtunai/agent-skills-for-compute",
+        "https://github.com/dtunai/agent-skills-for-compute.git",
+        "https://github.com/a-attia/scicomp-research-skills",
+        "https://github.com/BTHawake/Teacher_skill",
+        "https://github.com/SkillMedev/skills",
+        "https://github.com/tizzy916/scholar-wendao-skill",
+        "https://github.com/Axect/skills",
+        "https://github.com/k-dense-ai/scientific-agent-skills"
+      ]
+    },
+    {
+      "batch": 2,
+      "queries": [
+        "github \"SKILL.md\" \"teaching\" \"assessment\"",
+        "github \"SKILL.md\" \"astronomy\" OR \"ocean\" OR \"seismology\"",
+        "github \"SKILL.md\" \"chemistry\" \"simulation\"",
+        "github \"SKILL.md\" \"archive\" \"museum\" \"library\""
+      ],
+      "urls": [
+        "https://github.com/learning-commons-org/agent-skills",
+        "https://github.com/mprokopov/teaching-skills",
+        "https://github.com/BTHawake/Teacher_skill",
+        "https://github.com/garethmanning/education-agent-skills",
+        "https://github.com/polgarp/collage-design",
+        "https://github.com/GarethManning/education-agent-skills",
+        "https://github.com/tanghua-git/skill-instructional-design.git",
+        "https://github.com/nraford7/art-direct"
+      ]
+    },
+    {
+      "batch": 3,
+      "queries": [
+        "github \"SKILL.md\" \"quantum\" \"physics\" skills",
+        "github \"SKILL.md\" \"HPC\" OR \"Slurm\" skills",
+        "github \"SKILL.md\" \"chemistry\" \"laboratory\" skills",
+        "github \"SKILL.md\" \"mathematics\" \"scientific\" skills"
+      ],
+      "urls": [
+        "https://github.com/SciMate-AI/HPC-Skills",
+        "https://github.com/yale-som-hpc/claude-code-marketplace",
+        "https://github.com/tianyudu/slurm-hpc-agent-skill",
+        "https://github.com/roohe/agentic-super-skills",
+        "https://github.com/TianyuDu/SLURM-HPC-AGENT-SKILL",
+        "https://github.com/Genentech/openfe_skill",
+        "https://github.com/Genentech/openfe_skill.git",
+        "https://github.com/ImperialCollegeLondon/ese-borg-skills",
+        "https://github.com/settylab/fh-hpc-skills",
+        "https://github.com/settylab/fh-hpc-skills.git",
+        "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "https://github.com/k-dense-ai/scientific-agent-skills",
+        "https://github.com/dtunai/agent-skills-for-compute",
+        "https://github.com/dtunai/agent-skills-for-compute.git"
+      ]
+    },
+    {
+      "batch": 4,
+      "queries": [
+        "github \"SKILL.md\" \"FEniCS\" OR \"OpenMM\" OR \"GROMACS\"",
+        "github \"SKILL.md\" \"computational\" \"skills\" chemistry",
+        "github \"SKILL.md\" \"Jupyter\" \"skills\"",
+        "github \"SKILL.md\" \"library\" \"Zotero\" skills"
+      ],
+      "urls": [
+        "https://github.com/JayClock/.agents",
+        "https://github.com/ketthub/zotero-skill",
+        "https://github.com/YOUR_USERNAME/zotero-skill.git",
+        "https://github.com/c0mm4nd/zotero-skills",
+        "https://github.com/WenyuChiou/zotero-skills",
+        "https://github.com/dougwyu/claude-zotero-skills",
+        "https://github.com/dougwyu/claude-zotero-skills.git",
+        "https://github.com/Bubble-OoO/zotero-research-assistant-skill",
+        "https://github.com/SFETNI/Deep-Matter-Chem-Skills",
+        "https://github.com/SFETNI/Deep-Matter-Chem-Skills.git",
+        "https://github.com/AkaLiu/zotero-skill",
+        "https://github.com/majiayu000/claude-skill-registry",
+        "https://github.com/jinzhezenggroup/computational-chemistry-agent-skills"
+      ]
+    }
+  ]
+}
