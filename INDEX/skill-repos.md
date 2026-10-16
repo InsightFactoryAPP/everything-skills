@@ -6,12 +6,12 @@
 
 标注哪些已被 [findscripter/everything-skills](https://github.com/findscripter/everything-skills) 采编进技能正文（见 INDEX/sources.md）。
 
-- 编制日期：2026-10-15（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part80
+- 编制日期：2026-10-16（Asia/Shanghai）；分支整合至 part74，范围扩展增量至 part81
 - Stars：GitHub API / 仓库公开页面采集快照，非估算；各批次采集日期不同
-- 收录条数：2132 个独立仓库（另注明更名别名）
+- 收录条数：2182 个独立仓库（另注明更名别名）
 - 读取方式：GitHub API / 原始文件读取 README；part75 补充公开页面元数据及固定提交归档的内存读取，未 clone 任何第三方仓库
 
-范围扩展与本轮候选核验见 [part80 审核记录](../data/skill-repos.part80.audit.md)、[part79 审核记录](../data/skill-repos.part79.audit.md)、[part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
+范围扩展与本轮候选核验见 [part81 审核记录](../data/skill-repos.part81.audit.md)、[part80 审核记录](../data/skill-repos.part80.audit.md)、[part79 审核记录](../data/skill-repos.part79.audit.md)、[part78 审核记录](../data/skill-repos.part78.audit.md)、[part77 审核记录](../data/skill-repos.part77.audit.md)、[part76 审核记录](../data/skill-repos.part76.audit.md)、[part75 审核记录](../data/skill-repos.part75.audit.md)及[后续检索范围](../data/skill-repos.discovery-scope.json)；此前增量核验见 [part66 审核记录](../data/skill-repos.part66.audit.md)，分支历史增量整合见 [整合记录](../data/branch-integration-2026-10-08.audit.json)。Stars 保留各批次原始采集快照；合入历史索引不等于重新核验其全部许可。
 
 ## 检索与截断
 
@@ -800,6 +800,13 @@ part80 扩展：教学与课程诊断、科学计算与 HPC、计算化学、文
 | [TuringWorks/civstack](https://github.com/TuringWorks/civstack) | 1 | CivStack public-economy role and workflow library spanning governance, utilities, industry, environment, and human-accountability boundaries. | CC-BY-4.0 | 433 core (+30 views) | indexed-only |
 | [wentorai/research-plugins](https://github.com/wentorai/research-plugins) | 298 | Research-Claw academic workflow library with 433 task skills, 40 routing entries, and a separately counted database-tool integration. | MIT | 433 tasks + 40 routers | indexed-only |
 | [Axect/skills](https://github.com/Axect/skills) | 3 | Researcher-oriented skill collection for literature, paper review, academic opportunities, scientific figures, writing, and research operations. | MIT | 30 | indexed-only |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 101,359 | nexu-io/open-design publishes a public Agent Skills collection with 549 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 549 | indexed-only |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 98,217 | ruvnet/RuView publishes a public Agent Skills collection with 54 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 54 | indexed-only |
+| [android/skills](https://github.com/android/skills) | 7,842 | android/skills publishes a public Agent Skills collection with 30 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 30 | indexed-only |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 7,513 | mvschwarz/openrig publishes a public Agent Skills collection with 94 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 94 | indexed-only |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 5,693 | maziyarpanahi/openmed publishes a public Agent Skills collection with 74 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 74 | indexed-only |
+| [aipoch/open-science](https://github.com/aipoch/open-science) | 4,905 | aipoch/open-science publishes a public Agent Skills collection with 25 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 25 | indexed-only |
+| [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 3,576 | Ar9av/obsidian-wiki publishes a public Agent Skills collection with 40 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 40 | indexed-only |
 
 ## 3. Vertical
 
@@ -1848,6 +1855,30 @@ part80 扩展：教学与课程诊断、科学计算与 HPC、计算化学、文
 | [WenyuChiou/zotero-skills](https://github.com/WenyuChiou/zotero-skills) | 58 | Zotero skill for library operations and research workflows, with public installation through the author-maintained research marketplace. | MIT | 1 | indexed-only |
 | [AkaLiu/zotero-skill](https://github.com/AkaLiu/zotero-skill) | 5 | Bilingual local Zotero literature skill for paper/note retrieval, PDF reading, and context-grounded research assistance. | MIT | 1 | indexed-only |
 | [jinzhezenggroup/computational-chemistry-agent-skills](https://github.com/jinzhezenggroup/computational-chemistry-agent-skills) | 151 | Computational-chemistry workflows for quantum chemistry, atomistic simulation, molecular dynamics, data preparation, phonons, and ML potentials, with per-skill license notices. | LGPL-3.0 (root); per-skill MIT / LGPL-3.0-or-later | 67 public files (incl. routers) | indexed-only |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 86,488 | Egonex-AI/Understand-Anything publishes a public Agent Skills collection with 9 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 9 | indexed-only |
+| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 47,420 | zhayujie/CowAgent publishes a public Agent Skills collection with 3 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 3 | indexed-only |
+| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 36,842 | JCodesMore/ai-website-cloner-template publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 1 | indexed-only |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 24,894 | pascalorg/editor publishes a public Agent Skills collection with 4 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 4 | indexed-only |
+| [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 17,583 | tradecatlabs/vibe-coding-cn publishes a public Agent Skills collection with 24 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 24 | indexed-only |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 17,451 | citrolabs/ego-lite publishes a public Agent Skills collection with 2 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 2 | indexed-only |
+| [latent-spaces/brag](https://github.com/latent-spaces/brag) | 16,158 | latent-spaces/brag publishes a public Agent Skills collection with 2 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 2 | indexed-only |
+| [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) | 13,251 | krillinai/OpenCreator publishes a public Agent Skills collection with 15 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 15 | indexed-only |
+| [aden-hive/hive](https://github.com/aden-hive/hive) | 11,108 | aden-hive/hive publishes a public Agent Skills collection with 24 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 24 | indexed-only |
+| [pacifio/atlas](https://github.com/pacifio/atlas) | 9,606 | pacifio/atlas publishes a public Agent Skills collection with 6 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 6 | indexed-only |
+| [TokenRhythm/opensquilla](https://github.com/TokenRhythm/opensquilla) | 7,099 | TokenRhythm/opensquilla publishes a public Agent Skills collection with 12 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 12 | indexed-only |
+| [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) | 6,666 | SawyerHood/dev-browser publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 1 | indexed-only |
+| [anysearch-ai/anysearch-skill](https://github.com/anysearch-ai/anysearch-skill) | 6,525 | anysearch-ai/anysearch-skill publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 1 | indexed-only |
+| [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) | 6,485 | gosom/google-maps-scraper publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 1 | indexed-only |
+| [kucherenko/jscpd](https://github.com/kucherenko/jscpd) | 6,399 | kucherenko/jscpd publishes a public Agent Skills collection with 5 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 5 | indexed-only |
+| [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) | 5,670 | GargantuaX/gemini-watermark-remover publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 1 | indexed-only |
+| [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | 5,365 | metalbear-co/mirrord publishes a public Agent Skills collection with 12 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 12 | indexed-only |
+| [Observal/Observal](https://github.com/Observal/Observal) | 4,484 | Observal/Observal publishes a public Agent Skills collection with 11 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 11 | indexed-only |
+| [glitternetwork/pinme](https://github.com/glitternetwork/pinme) | 3,747 | glitternetwork/pinme publishes a public Agent Skills collection with 7 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 7 | indexed-only |
+| [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) | 3,492 | FireRedTeam/FireRed-OpenStoryline publishes a public Agent Skills collection with 7 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 7 | indexed-only |
+| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 3,454 | QingYunA/answer-me-with-html publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 1 | indexed-only |
+| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 2,756 | Jakeschincariol/replica-skill publishes a public Agent Skills collection with 11 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 11 | indexed-only |
+| [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) | 2,599 | oil-oil/oil-motion publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 1 | indexed-only |
+| [zanwei/design-dna](https://github.com/zanwei/design-dna) | 1,976 | zanwei/design-dna publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 1 | indexed-only |
 
 ## 4. Infra
 
@@ -2029,6 +2060,25 @@ part80 扩展：教学与课程诊断、科学计算与 HPC、计算化学、文
 | [rhiza-research/weather-skills-core](https://github.com/rhiza-research/weather-skills-core) | 1 | Developer infrastructure for composable weather skills, shared Zarr contracts, provenance, linting, and a skill-authoring guide. | MIT | 1 | indexed-only |
 | [lawrence3699/agent-skills-corpus](https://github.com/lawrence3699/agent-skills-corpus) | 3 | Reproducible CC0 metadata corpus of public Agent Skills across GitHub, GitLab, and Gitee for deduplication, classification, and license research; not an installable skill pack. | CC0-1.0 (metadata); MIT (scripts); upstream licenses retained | 55,698 dataset records | indexed-only |
 | [codejunkie99/agentic-stack](https://github.com/codejunkie99/agentic-stack) | 2,295 | Apache portable .agent layer with 16 skills for memory, data, debugging, deployment, and agent loops across Claude, Codex, Cursor, Windsurf, OpenCode, and OpenClaw. | Apache-2.0 | 16 | indexed-only |
+| [morluto/rea](https://github.com/morluto/rea) | 270,516 | morluto/rea publishes a public Agent Skills collection with 4 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 4 | indexed-only |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 102,732 | paperclipai/paperclip publishes a public Agent Skills collection with 79 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 79 | indexed-only |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 75,137 | ruvnet/ruflo publishes a public Agent Skills collection with 380 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 380 | indexed-only |
+| [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 75,057 | career-ops-hq/career-ops publishes a public Agent Skills collection with 12 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 12 | indexed-only |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 47,389 | alibaba/open-code-review publishes a public Agent Skills collection with 4 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 4 | indexed-only |
+| [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 35,727 | agentscope-ai/QwenPaw publishes a public Agent Skills collection with 49 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 49 | indexed-only |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 32,053 | iOfficeAI/OfficeCLI publishes a public Agent Skills collection with 12 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 12 | indexed-only |
+| [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 30,955 | nanocoai/nanoclaw publishes a public Agent Skills collection with 63 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 63 | indexed-only |
+| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 15,559 | eigent-ai/eigent publishes a public Agent Skills collection with 6 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 6 | indexed-only |
+| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 13,439 | EverMind-AI/EverOS publishes a public Agent Skills collection with 5 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 5 | indexed-only |
+| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | 13,213 | OrchestratorInc/agent-orchestrator publishes a public Agent Skills collection with 7 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 7 | indexed-only |
+| [tw93/Kami](https://github.com/tw93/Kami) | 11,973 | tw93/Kami publishes a public Agent Skills collection with 2 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 2 | indexed-only |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 11,880 | MemTensor/MemOS publishes a public Agent Skills collection with 7 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 7 | indexed-only |
+| [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 6,362 | ThinkInAIXYZ/deepchat publishes a public Agent Skills collection with 25 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 25 | indexed-only |
+| [Q00/ouroboros](https://github.com/Q00/ouroboros) | 6,229 | Q00/ouroboros publishes a public Agent Skills collection with 24 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 24 | indexed-only |
+| [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) | 4,450 | zgsm-ai/costrict publishes a public Agent Skills collection with 3 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 3 | indexed-only |
+| [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) | 3,944 | parcadei/Continuous-Claude-v3 publishes a public Agent Skills collection with 160 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 160 | indexed-only |
+| [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | 3,936 | evalstate/fast-agent publishes a public Agent Skills collection with 3 SKILL.md entries; the fixed tree and README provide an install or usage path. | Apache-2.0 | 3 | indexed-only |
+| [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 3,383 | rlaope/oh-my-hermes publishes a public Agent Skills collection with 260 SKILL.md entries; the fixed tree and README provide an install or usage path. | MIT | 260 | indexed-only |
 
 ## 5. Other
 

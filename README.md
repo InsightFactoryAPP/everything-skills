@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <picture><source media="(max-width: 600px)" srcset="assets/brand/stats-mobile.svg" /><img src="assets/brand/stats.svg" alt="1114 skills · 11 volumes · 6805 relation edges · 2132 indexed repositories" width="1200" /></picture>
+  <picture><source media="(max-width: 600px)" srcset="assets/brand/stats-mobile.svg" /><img src="assets/brand/stats.svg" alt="1113 skills · 11 volumes · 6800 relation edges · 2182 indexed repositories" width="1200" /></picture>
 </p>
 <!-- END GENERATED:brand -->
 
@@ -75,7 +75,7 @@ For provenance and license terms, see [Sources](INDEX/sources.md), [LICENSE](LIC
 <!-- BEGIN GENERATED:skill-repos -->
 ## Skill repos directory
 
-Currently indexing **2132** GitHub skill libraries / marketplaces / curated lists. README summaries only — we do not vendor their source or copy their SKILL.md bodies.
+Currently indexing **2182** GitHub skill libraries / marketplaces / curated lists. README summaries only — we do not vendor their source or copy their SKILL.md bodies.
 
 Full tables (stars / summary / license) are generated from `data/skill-repos.jsonl` (and part shards) into **[INDEX/skill-repos.md](INDEX/skill-repos.md)**. This page is the categorized link directory.
 
@@ -354,9 +354,11 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 </details>
 
 <details>
-<summary>2. Collections (481)</summary>
+<summary>2. Collections (488)</summary>
 
 - [`Shubhamsaboo/awesome-llm-apps`](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI agent, skill, and RAG projects; the main agent_skills directory contains seven installable skills, including draft-reader and scope-review workflows.
+- [`nexu-io/open-design`](https://github.com/nexu-io/open-design) — nexu-io/open-design publishes a public Agent Skills collection with 549 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`ruvnet/RuView`](https://github.com/ruvnet/RuView) — ruvnet/RuView publishes a public Agent Skills collection with 54 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`ComposioHQ/awesome-claude-skills`](https://github.com/ComposioHQ/awesome-claude-skills) — One of the largest community Claude Skills curated lists; README indexes 1000+ skill entries.
 - [`santifer/career-ops`](https://github.com/santifer/career-ops) — Job-search / career-ops Agent Skills workflows (high stars).
 - [`shanraisshan/claude-code-best-practice`](https://github.com/shanraisshan/claude-code-best-practice) — Claude Code best-practice guide/skills from vibe coding to agentic engineering.
@@ -378,17 +380,21 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 - [`BehiSecc/awesome-claude-skills`](https://github.com/BehiSecc/awesome-claude-skills) — Community Claude Skills awesome curated list.
 - [`ykdojo/claude-code-tips`](https://github.com/ykdojo/claude-code-tips) — Claude Code practical tips collection (dx plugin + installable Skills).
 - [`nexu-io/html-anything`](https://github.com/nexu-io/html-anything) — Agent-driven multi-surface HTML edit/generation skills (magazines/posters/Xiaohongshu, etc.).
+- [`android/skills`](https://github.com/android/skills) — android/skills publishes a public Agent Skills collection with 30 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`PleasePrompto/notebooklm-skill`](https://github.com/PleasePrompto/notebooklm-skill) — Skill letting Claude Code talk directly to NotebookLM.
+- [`mvschwarz/openrig`](https://github.com/mvschwarz/openrig) — mvschwarz/openrig publishes a public Agent Skills collection with 94 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`NomaDamas/k-skill`](https://github.com/NomaDamas/k-skill) — Agent Skills collection for Korean users.
 - [`zenstory-ai/oh-story-claudecode`](https://github.com/zenstory-ai/oh-story-claudecode) — Web-novel writing Skill pack (rankings/breakdown/writing/de-AI-tone/covers). npx skills add zenstory-ai/oh-story-claudecode.
 - [`heilcheng/awesome-agent-skills`](https://github.com/heilcheng/awesome-agent-skills) — Agent Skills directory with companion site agent-skill.co.
 - [`VoltAgent/awesome-codex-subagents`](https://github.com/VoltAgent/awesome-codex-subagents) — 175+ curated Codex subagents list (13 categories).
 - [`anbeime/skill`](https://github.com/anbeime/skill) — Chinese Skill store: auto-fetches official skills + 63 local Chinese skills (docs/shorts/e-commerce, etc.); claims 245 total, syncs every 24h.
 - [`alchaincyf/darwin-skill`](https://github.com/alchaincyf/darwin-skill) — Darwin: evaluate→improve→test→ratchet-keep Skill self-evolution system.
+- [`maziyarpanahi/openmed`](https://github.com/maziyarpanahi/openmed) — maziyarpanahi/openmed publishes a public Agent Skills collection with 74 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`browser-act/skills`](https://github.com/browser-act/skills) — BrowserAct browser automation and scraping Skills (Skill Forge/solutions catalog).
 - [`0xNyk/awesome-hermes-agent`](https://github.com/0xNyk/awesome-hermes-agent) — Independent Nous Hermes Agent directory: skills, plugins, memory, tools, and guides.
 - [`epoko77-ai/im-not-ai`](https://github.com/epoko77-ai/im-not-ai) — Korean de-AI-tone polish Claude Skill (Humanize KR).
 - [`libukai/awesome-agent-skills`](https://github.com/libukai/awesome-agent-skills) — Chinese ultimate guide to Agent Skills: specs, install, official project tables, and curated skills.
+- [`aipoch/open-science`](https://github.com/aipoch/open-science) — aipoch/open-science publishes a public Agent Skills collection with 25 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`jakubkrehel/skills`](https://github.com/jakubkrehel/skills) — Interfaces.dev UI skills pack (typography/colors/a11y, etc.); npx skills add + Claude marketplace.
 - [`zebbern/claude-code-guide`](https://github.com/zebbern/claude-code-guide) — Claude Code community guide: install/commands/workflows/agents/skills and tips.
 - [`BuilderIO/skills`](https://github.com/BuilderIO/skills) — Builder.io Agent-Native skills pack (visual-plan/recap/webmcp, etc.); npx @agent-native/skills + marketplace.
@@ -401,6 +407,7 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 - [`liustack/modlens`](https://github.com/liustack/modlens) — Skill/plugin that adds vision/OCR to text-only coding agents.
 - [`tmstack/awesome-persona-skills`](https://github.com/tmstack/awesome-persona-skills) — Curated Chinese persona/distillation skills: colleague/boss/ex/self/Nuwa, etc., linking titanwings/distilly and related repos.
 - [`brycewang-stanford/Auto-Empirical-Research-Skills`](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) — Stanford REAP social-science empirical-research Agent Skills mega-library.
+- [`Ar9av/obsidian-wiki`](https://github.com/Ar9av/obsidian-wiki) — Ar9av/obsidian-wiki publishes a public Agent Skills collection with 40 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`nowork-studio/NotFair`](https://github.com/nowork-studio/NotFair) — Open-source SEO/GEO/marketing Agent Skills (NotFair).
 - [`Hisn00w/ASu-skills`](https://github.com/Hisn00w/ASu-skills) — Chinese job-search workflow plugin: 9 entry points (resume/interview/OSS contrib/apply); Claude/Codex/Trae plugins.
 - [`foryourhealth111-pixel/Vibe-Skills`](https://github.com/foryourhealth111-pixel/Vibe-Skills) — Vibe Skills installable skills collection.
@@ -841,18 +848,21 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 </details>
 
 <details>
-<summary>3. Vertical (1043)</summary>
+<summary>3. Vertical (1067)</summary>
 
 - [`obra/superpowers`](https://github.com/obra/superpowers) — Methodology skills pack: TDD, brainstorming, subagent-driven development, and other composable engineering disciplines.
 - [`affaan-m/ECC`](https://github.com/affaan-m/ECC) — ECC, successor to Everything Claude Code: skills/agents/commands/hooks plugin marketplace. Formerly everything-claude-code.
 - [`mattpocock/skills`](https://github.com/mattpocock/skills) — Matt Pocock composable skills for real engineers: grill-me, TDD, architecture deepening, triage, and specification.
 - [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) — Addy Osmani production-engineering skills (25) + 9 slash commands.
+- [`Egonex-AI/Understand-Anything`](https://github.com/Egonex-AI/Understand-Anything) — Egonex-AI/Understand-Anything publishes a public Agent Skills collection with 9 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`calesthio/OpenMontage`](https://github.com/calesthio/OpenMontage) — Open-source video production workflows with agent skills, tools, and production references for research, scripting, assets, editing, and rendering.
 - [`hugohe3/ppt-master`](https://github.com/hugohe3/ppt-master) — AI PPT Agent Skills: one-click native PowerPoint from docs/topics.
 - [`kepano/obsidian-skills`](https://github.com/kepano/obsidian-skills) — Maintained by Obsidian’s founder: Markdown, Bases, JSON Canvas, CLI, Defuddle.
+- [`zhayujie/CowAgent`](https://github.com/zhayujie/CowAgent) — zhayujie/CowAgent publishes a public Agent Skills collection with 3 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`coreyhaines31/marketingskills`](https://github.com/coreyhaines31/marketingskills) — Marketing Agent Skills (content, SEO, growth, etc.); README lists ~50.
 - [`K-Dense-AI/scientific-agent-skills`](https://github.com/K-Dense-AI/scientific-agent-skills) — Scientific computing skills library v2.65.0: 163 skills + 100+ DB/tool connectors.
 - [`wshobson/agents`](https://github.com/wshobson/agents) — Claude Code plugin superset: 94 plugins, 202 agents, 183 skills, 105 commands.
+- [`JCodesMore/ai-website-cloner-template`](https://github.com/JCodesMore/ai-website-cloner-template) — JCodesMore/ai-website-cloner-template publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`emilkowalski/skills`](https://github.com/emilkowalski/skills) — Design/motion skills by animations.dev author: emil-design-eng, animate, review-animations, apple-design, etc.
 - [`zarazhangrui/frontend-slides`](https://github.com/zarazhangrui/frontend-slides) — Skill for coding agents to generate polished HTML slide decks.
 - [`virgiliojr94/book-to-skill`](https://github.com/virgiliojr94/book-to-skill) — Technical-book PDF→Claude Code Skill; learnable/citable knowledge packs. npx skills add virgiliojr94/book-to-skill.
@@ -860,20 +870,27 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 - [`phuryn/pm-skills`](https://github.com/phuryn/pm-skills) — PM skills marketplace: 9 plugins, 68 skills, and 42 chained workflows.
 - [`JimLiu/baoyu-skills`](https://github.com/JimLiu/baoyu-skills) — Baoyu personal content-creation skills (WeChat OA, Markdown, Xiaohongshu posts, PPT, etc.) with .claude-plugin and skills/.
 - [`alirezarezvani/claude-skills`](https://github.com/alirezarezvani/claude-skills) — Enterprise Claude skills/agents/toolkit; README claims 388 skills, 118 agents, 13 tools.
+- [`pascalorg/editor`](https://github.com/pascalorg/editor) — pascalorg/editor publishes a public Agent Skills collection with 4 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`EveryInc/compound-engineering-plugin`](https://github.com/EveryInc/compound-engineering-plugin) — Compound Engineering: brainstorm→plan→work→review→compound loop with 33 skills across 14 hosts (Claude Code, Cursor, Codex, Copilot, OpenCode, etc.).
 - [`titanwings/distilly`](https://github.com/titanwings/distilly) — Distilly (formerly Colleague Skill): distill human experience into installable Person Profile skills across colleague/relationship/celebrity families.
 - [`alchaincyf/huashu-design`](https://github.com/alchaincyf/huashu-design) — Huashu Design: HTML-native high-fidelity prototypes/slides/animation Skill in Claude Code.
 - [`KKKKhazix/khazix-skills`](https://github.com/KKKKhazix/khazix-skills) — Digital-life Kazike personal 6 skills: leader/storage-analyzer/aihot/neat-freak/hv-analysis/khazix-writer.
 - [`teng-lin/notebooklm-py`](https://github.com/teng-lin/notebooklm-py) — Unofficial NotebookLM Python API + installable agentic Skill.
+- [`tradecatlabs/vibe-coding-cn`](https://github.com/tradecatlabs/vibe-coding-cn) — tradecatlabs/vibe-coding-cn publishes a public Agent Skills collection with 24 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`citrolabs/ego-lite`](https://github.com/citrolabs/ego-lite) — citrolabs/ego-lite publishes a public Agent Skills collection with 2 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`op7418/Humanizer-zh`](https://github.com/op7418/Humanizer-zh) — Chinese de-AI-tone Humanizer skill.
 - [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) — Open-source SEO analysis Claude plugin/skills pack.
+- [`latent-spaces/brag`](https://github.com/latent-spaces/brag) — latent-spaces/brag publishes a public Agent Skills collection with 2 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`wanshuiyin/Auto-claude-code-research-in-sleep`](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) — ARIS: lightweight Markdown Skills for sleep/background auto-research.
 - [`AgriciDaniel/claude-obsidian`](https://github.com/AgriciDaniel/claude-obsidian) — Obsidian + Claude self-organizing second-brain skills pack.
+- [`krillinai/OpenCreator`](https://github.com/krillinai/OpenCreator) — krillinai/OpenCreator publishes a public Agent Skills collection with 15 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`Orchestra-Research/AI-Research-SKILLs`](https://github.com/Orchestra-Research/AI-Research-SKILLs) — Open-source AI research skills from topic to paper; README claims 98 skills across 23 categories.
 - [`Jeffallan/claude-skills`](https://github.com/Jeffallan/claude-skills) — Full-stack engineering skills and workflows (README: 67 skills, 9 workflows).
+- [`aden-hive/hive`](https://github.com/aden-hive/hive) — aden-hive/hive publishes a public Agent Skills collection with 24 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`zubair-trabzada/geo-seo-claude`](https://github.com/zubair-trabzada/geo-seo-claude) — GEO/AI-search-optimization Claude SEO skills pack.
 - [`Imbad0202/academic-research-skills-codex`](https://github.com/Imbad0202/academic-research-skills-codex) — Codex-native academic-research Skills suite (human–AI research workflows).
 - [`nicobailon/visual-explainer`](https://github.com/nicobailon/visual-explainer) — Agent Skill generating explainer/slides/diff-review rich HTML.
+- [`pacifio/atlas`](https://github.com/pacifio/atlas) — pacifio/atlas publishes a public Agent Skills collection with 6 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`Agents365-ai/drawio-skill`](https://github.com/Agents365-ai/drawio-skill) — Natural-language/docs→maintainable .drawio architecture diagrams (Diagram IR); install via 365 marketplace.
 - [`eze-is/web-access`](https://github.com/eze-is/web-access) — Skill giving Claude Code web retrieval and browser capabilities.
 - [`AgriciDaniel/claude-ads`](https://github.com/AgriciDaniel/claude-ads) — Paid-media ops Claude Skill across 12 ad platforms.
@@ -882,17 +899,24 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 - [`jnMetaCode/superpowers-zh`](https://github.com/jnMetaCode/superpowers-zh) — Chinese-enhanced obra/superpowers: 14 translations + 6 China-specific skills; npx superpowers-zh for 23 coding agents.
 - [`chuspeeism/dashi-ppt-skill`](https://github.com/chuspeeism/dashi-ppt-skill) — Multi-theme, browser-editable presentation Agent Skill (master PPT).
 - [`ParthJadhav/app-store-screenshots`](https://github.com/ParthJadhav/app-store-screenshots) — End-to-end App Store screenshot creation skill; npx skills add.
+- [`TokenRhythm/opensquilla`](https://github.com/TokenRhythm/opensquilla) — TokenRhythm/opensquilla publishes a public Agent Skills collection with 12 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`Vincentwei1021/video-shotcraft`](https://github.com/Vincentwei1021/video-shotcraft) — Cinematic product-video Agent Skill: 157 shot recipe cards + Remotion templates for Claude Code/Codex.
 - [`htdt/godogen`](https://github.com/htdt/godogen) — Autonomous game-dev skills for Godot, Bevy and Babylon.js with Claude Code/Codex; publish.sh installs .claude/skills.
 - [`trailofbits/skills`](https://github.com/trailofbits/skills) — Trail of Bits security-engineering skills (code audit, threat modeling, etc.).
 - [`op7418/guizang-social-card-skill`](https://github.com/op7418/guizang-social-card-skill) — Xiaohongshu carousels / WeChat cover-image generation Claude/Codex Skill. npx skills add op7418/guizang-social-card-skill.
 - [`deanpeters/Product-Manager-Skills`](https://github.com/deanpeters/Product-Manager-Skills) — 77 teaching-oriented PM framework skills + 6 command workflows; non-commercial sharealike license.
 - [`HKUSTDial/Supervisor-Skills`](https://github.com/HKUSTDial/Supervisor-Skills) — Distill PhD-advisor research experience into executable AI Skills (idea eval, writing, review, figures, etc.).
+- [`SawyerHood/dev-browser`](https://github.com/SawyerHood/dev-browser) — SawyerHood/dev-browser publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`Master-cai/Research-Paper-Writing-Skills`](https://github.com/Master-cai/Research-Paper-Writing-Skills) — ML/CV/NLP paper-writing skills pack (Codex/Claude/Gemini).
+- [`anysearch-ai/anysearch-skill`](https://github.com/anysearch-ai/anysearch-skill) — anysearch-ai/anysearch-skill publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`gosom/google-maps-scraper`](https://github.com/gosom/google-maps-scraper) — gosom/google-maps-scraper publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`kucherenko/jscpd`](https://github.com/kucherenko/jscpd) — kucherenko/jscpd publishes a public Agent Skills collection with 5 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`uditgoenka/autoresearch`](https://github.com/uditgoenka/autoresearch) — Claude Autoresearch: autonomous iterative research/optimization skill.
 - [`antfu/skills`](https://github.com/antfu/skills) — Anthony Fu’s opinionated Vite/Nuxt/Vue skills: hand-maintained + docs-generated + upstream vendored.
 - [`MengTo/Skills`](https://github.com/MengTo/Skills) — Meng To design/game/web skill library: 123 SKILL.md files (Codex workflows, Three.js games, landing-page motion).
+- [`GargantuaX/gemini-watermark-remover`](https://github.com/GargantuaX/gemini-watermark-remover) — GargantuaX/gemini-watermark-remover publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`ningzimu/codex-ppt-skill`](https://github.com/ningzimu/codex-ppt-skill) — GPT-Image-2 image-style PPT generation Skill for Codex/Claude etc.
+- [`metalbear-co/mirrord`](https://github.com/metalbear-co/mirrord) — metalbear-co/mirrord publishes a public Agent Skills collection with 12 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`internet-court/internet-court-skill`](https://github.com/internet-court/internet-court-skill) — Inter-agent commerce trust-layer umbrella skill: routing + 91 vendored protocol skills; plugin marketplace / npx skills add.
 - [`wuyoscar/GPT-Image2-Skill`](https://github.com/wuyoscar/GPT-Image2-Skill) — GPT Image 2 prompt library + Agent Skill/CLI; install via plugin marketplace.
 - [`tech-leads-club/agent-skills`](https://github.com/tech-leads-club/agent-skills) — Validated skills registry + CLI; engine MIT, TLC skills CC-BY-4.0.
@@ -900,6 +924,7 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 - [`s1dashu/ip-as-logo-skill`](https://github.com/s1dashu/ip-as-logo-skill) — Minimal IP mascot logo Agent Skill; npx skills add s1dashu/ip-as-logo-skill.
 - [`coleam00/excalidraw-diagram-skill`](https://github.com/coleam00/excalidraw-diagram-skill) — Skill to make Claude Code etc. generate useful, attractive Excalidraw diagrams.
 - [`twostraws/SwiftUI-Agent-Skill`](https://github.com/twostraws/SwiftUI-Agent-Skill) — SwiftUI expert-guidance Agent Skill (Claude/Codex etc.). npx skills add.
+- [`Observal/Observal`](https://github.com/Observal/Observal) — Observal/Observal publishes a public Agent Skills collection with 11 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`eugeniughelbur/obsidian-second-brain`](https://github.com/eugeniughelbur/obsidian-second-brain) — Obsidian plaintext second brain: persistent-memory skills pack across CLI agents.
 - [`SamurAIGPT/Generative-Media-Skills`](https://github.com/SamurAIGPT/Generative-Media-Skills) — Generative-media Agent Skills: MuAPI CLI + 41 image/video/social recipes; npx skills add SamurAIGPT/Generative-Media-Skills.
 - [`0x0funky/agent-sprite-forge`](https://github.com/0x0funky/agent-sprite-forge) — 2D spritesheet/map transparent PNG frame generation Agent Skill.
@@ -908,12 +933,15 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 - [`JimLiu/baoyu-design`](https://github.com/JimLiu/baoyu-design) — Wraps Claude Design as a local Agent Skill: high-fidelity UI/prototypes/PPT as standalone HTML for Cursor/Claude/Codex.
 - [`HughYau/qiushi-skill`](https://github.com/HughYau/qiushi-skill) — Seek-truth research Agent Skill: investigate first, grasp the main contradiction, verify in practice. Plugin marketplace install.
 - [`larashero3-dotcom/lieflat-charts`](https://github.com/larashero3-dotcom/lieflat-charts) — Editorial data-viz Agent Skill (Lupi/Glance + 12 report templates); npx skills add.
+- [`glitternetwork/pinme`](https://github.com/glitternetwork/pinme) — glitternetwork/pinme publishes a public Agent Skills collection with 7 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`geekjourneyx/md2wechat-skill`](https://github.com/geekjourneyx/md2wechat-skill) — WeChat Official Account Markdown→layout/draft CLI + Agent Skill (skills/md2wechat); md2wechat skills discovery; Claude/Codex/OpenClaw.
 - [`zLanqing/codex-claude-academic-skills`](https://github.com/zLanqing/codex-claude-academic-skills) — Chinese research Skills: literature/paper writing/scientific computing (Claude+Codex).
 - [`axtonliu/axton-obsidian-visual-skills`](https://github.com/axtonliu/axton-obsidian-visual-skills) — Axton Obsidian visualization Skills.
+- [`FireRedTeam/FireRed-OpenStoryline`](https://github.com/FireRedTeam/FireRed-OpenStoryline) — FireRedTeam/FireRed-OpenStoryline publishes a public Agent Skills collection with 7 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`AvdLee/SwiftUI-Agent-Skill`](https://github.com/AvdLee/SwiftUI-Agent-Skill) — SwiftUI expert Agent Skill (marketplace/npx).
 - [`isjiamu/gzh-design-skill`](https://github.com/isjiamu/gzh-design-skill) — WeChat Official Account Markdown→inline HTML layout skill; 6 themes + validation script; npx skills add.
 - [`white0dew/XiaohongshuSkills`](https://github.com/white0dew/XiaohongshuSkills) — Xiaohongshu auto-post/comment/search skill for OpenClaw, Codex and Claude Code; copy into .claude/skills.
+- [`QingYunA/answer-me-with-html`](https://github.com/QingYunA/answer-me-with-html) — QingYunA/answer-me-with-html publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`nowork-studio/notfair-plugin`](https://github.com/nowork-studio/notfair-plugin) — Open-source SEO/GEO/marketing Agent Skills plugin.
 - [`KKKKhazix/human-writing`](https://github.com/KKKKhazix/human-writing) — Kazike “human-feel writing” Chinese writing skill: material gates + de-AI tone; MIT; install SKILL.md under ~/.agents/skills.
 - [`jakubkrehel/make-interfaces-feel-better`](https://github.com/jakubkrehel/make-interfaces-feel-better) — UI detail-polish Skill: motion/type/touch targets/optical alignment, etc.
@@ -929,7 +957,9 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 - [`RKiding/Awesome-finance-skills`](https://github.com/RKiding/Awesome-finance-skills) — AlphaEar finance skills: news, quotes, sentiment, Kronos forecasts, logic-chain viz, research reports; npx skills add.
 - [`vuejs-ai/skills`](https://github.com/vuejs-ai/skills) — Vue 3 development Agent Skills collection.
 - [`tradermonty/claude-trading-skills`](https://github.com/tradermonty/claude-trading-skills) — Trading/quant workflow Claude skills pack.
+- [`Jakeschincariol/replica-skill`](https://github.com/Jakeschincariol/replica-skill) — Jakeschincariol/replica-skill publishes a public Agent Skills collection with 11 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`aaron-he-zhu/aaron-marketing-skills`](https://github.com/aaron-he-zhu/aaron-marketing-skills) — 120 marketing-skills umbrella repo (narrative/SEO-GEO/social/email/paid/influencer/launch).
+- [`oil-oil/oil-motion`](https://github.com/oil-oil/oil-motion) — oil-oil/oil-motion publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`NarratorAI-Studio/narrator-ai-cli-skill`](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) — AI Narrator Master: Skill wrapping narrator-ai-cli for Claude/Codex.
 - [`eternityspring/shuohao-skills`](https://github.com/eternityspring/shuohao-skills) — AI short-drama production five-stage skills: outline, characters, art, script, storyboard; symlink to Claude Code and Codex.
 - [`yanliudesign/mono-color-skill`](https://github.com/yanliudesign/mono-color-skill) — Mono/duo-tone editorial print-style image Skill (posters/magazines/portraits).
@@ -940,6 +970,7 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 - [`HUANGCHIHHUNGLeo/claude-real-video`](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) — Scene Skills that let agents truly “understand” video.
 - [`wondelai/skills`](https://github.com/wondelai/skills) — Bestseller frameworks distilled into business/marketing/UX/coding skills; README claims 50 skills + 12 guided journeys.
 - [`AgriciDaniel/claude-blog`](https://github.com/AgriciDaniel/claude-blog) — Blog-writing Claude plugin/skills suite (multi sub-skills + agents).
+- [`zanwei/design-dna`](https://github.com/zanwei/design-dna) — zanwei/design-dna publishes a public Agent Skills collection with 1 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`ScrapeCreators/social-media-research-skills`](https://github.com/ScrapeCreators/social-media-research-skills) — Social research skills (13): outlier/transcript/comments/ads/trends/influencer, etc.; npx skills add.
 - [`YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill`](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) — Nano Banana Pro prompt recommendation Skill.
 - [`aiwithremy/claude-skills-llm-council`](https://github.com/aiwithremy/claude-skills-llm-council) — Multi-model advisory-council decision skill (LLM Council).
@@ -1890,26 +1921,45 @@ Full tables (stars / summary / license) are generated from `data/skill-repos.jso
 </details>
 
 <details>
-<summary>4. Infra (176)</summary>
+<summary>4. Infra (195)</summary>
 
+- [`morluto/rea`](https://github.com/morluto/rea) — morluto/rea publishes a public Agent Skills collection with 4 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`paperclipai/paperclip`](https://github.com/paperclipai/paperclip) — paperclipai/paperclip publishes a public Agent Skills collection with 79 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) — claude-mem: persistent cross-session context memory (captures full agent activity).
+- [`ruvnet/ruflo`](https://github.com/ruvnet/ruflo) — ruvnet/ruflo publishes a public Agent Skills collection with 380 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) — career-ops-hq/career-ops publishes a public Agent Skills collection with 12 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) — Spec-driven development OpenSpec (with agent skills).
 - [`bmad-code-org/BMAD-METHOD`](https://github.com/bmad-code-org/BMAD-METHOD) — BMAD method: multi-agent spec-driven development skills system.
+- [`alibaba/open-code-review`](https://github.com/alibaba/open-code-review) — alibaba/open-code-review publishes a public Agent Skills collection with 4 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`agentscope-ai/QwenPaw`](https://github.com/agentscope-ai/QwenPaw) — agentscope-ai/QwenPaw publishes a public Agent Skills collection with 49 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`iOfficeAI/OfficeCLI`](https://github.com/iOfficeAI/OfficeCLI) — iOfficeAI/OfficeCLI publishes a public Agent Skills collection with 12 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`nanocoai/nanoclaw`](https://github.com/nanocoai/nanoclaw) — nanocoai/nanoclaw publishes a public Agent Skills collection with 63 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`mksglu/context-mode`](https://github.com/mksglu/context-mode) — Context-window optimization plugin across 17+ platforms: sandboxed tool output, session memory and routing, with ctx-* Agent Skills.
 - [`NVIDIA/SkillSpector`](https://github.com/NVIDIA/SkillSpector) — Agent Skills security scanner: detects vulnerabilities, malicious patterns, prompt injection, and supply-chain risk before install.
+- [`eigent-ai/eigent`](https://github.com/eigent-ai/eigent) — eigent-ai/eigent publishes a public Agent Skills collection with 6 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`yusufkaraaslan/Skill_Seekers`](https://github.com/yusufkaraaslan/Skill_Seekers) — CLI and MCP that turn 18 source types (docs sites, GitHub, PDF, video, etc.) into SKILL.md.
 - [`millionco/react-doctor`](https://github.com/millionco/react-doctor) — React Doctor: agent-installable React review/fix skills (with CLI).
+- [`EverMind-AI/EverOS`](https://github.com/EverMind-AI/EverOS) — EverMind-AI/EverOS publishes a public Agent Skills collection with 5 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`OrchestratorInc/agent-orchestrator`](https://github.com/OrchestratorInc/agent-orchestrator) — OrchestratorInc/agent-orchestrator publishes a public Agent Skills collection with 7 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`tw93/Kami`](https://github.com/tw93/Kami) — tw93/Kami publishes a public Agent Skills collection with 2 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`MemTensor/MemOS`](https://github.com/MemTensor/MemOS) — MemTensor/MemOS publishes a public Agent Skills collection with 7 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`numman-ali/openskills`](https://github.com/numman-ali/openskills) — Universal SKILL.md installer: install GitHub skill repos into multiple agent directories.
 - [`openclaw/clawhub`](https://github.com/openclaw/clawhub) — OpenClaw official public skills registry: publish/search/version/scan SKILL.md; clawhub CLI and clawhub.ai.
 - [`refly-ai/refly`](https://github.com/refly-ai/refly) — Refly: open builder defining/running Agent Skills via vibe workflows.
 - [`modelcontextprotocol/registry`](https://github.com/modelcontextprotocol/registry) — Official MCP server registry—not a SKILL.md library; indexed as adjacent infra.
 - [`tw93/Waza`](https://github.com/tw93/Waza) — Waza: Claude Code design/engineering skills pack.
 - [`Gentleman-Programming/gentle-ai`](https://github.com/Gentleman-Programming/gentle-ai) — Cross-agent engineering environment configurator: persistent memory/Spec-DD/curated skills/MCP/personas.
+- [`ThinkInAIXYZ/deepchat`](https://github.com/ThinkInAIXYZ/deepchat) — ThinkInAIXYZ/deepchat publishes a public Agent Skills collection with 25 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`Q00/ouroboros`](https://github.com/Q00/ouroboros) — Q00/ouroboros publishes a public Agent Skills collection with 24 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`jacob-bd/gemini-notebook-mcp-cli`](https://github.com/jacob-bd/gemini-notebook-mcp-cli) — Gemini Notebook CLI + MCP server with installable skills for Claude/Codex/Cursor/Gemini CLI and other agents.
 - [`iflytek/skillhub`](https://github.com/iflytek/skillhub) — iFlytek open-source self-hosted skills registry and marketplace.
 - [`xingkongliang/skills-manager`](https://github.com/xingkongliang/skills-manager) — Lightweight desktop app managing/syncing Agent Skills across 50+ coding tools (Claude/Codex/Cursor/Copilot, etc.).
+- [`zgsm-ai/costrict`](https://github.com/zgsm-ai/costrict) — zgsm-ai/costrict publishes a public Agent Skills collection with 3 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`parcadei/Continuous-Claude-v3`](https://github.com/parcadei/Continuous-Claude-v3) — parcadei/Continuous-Claude-v3 publishes a public Agent Skills collection with 160 SKILL.md entries; the fixed tree and README provide an install or usage path.
+- [`evalstate/fast-agent`](https://github.com/evalstate/fast-agent) — evalstate/fast-agent publishes a public Agent Skills collection with 3 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`microsoft/skill-recorder`](https://github.com/microsoft/skill-recorder) — Microsoft desktop screen-recorder: turns a real session into reusable skill docs or scheduled automation.
 - [`davepoon/buildwithclaude`](https://github.com/davepoon/buildwithclaude) — Discovery hub for Claude Skills/Agents/Commands/Hooks/Plugins/Marketplace. Repo name lacks “skill”.
+- [`rlaope/oh-my-hermes`](https://github.com/rlaope/oh-my-hermes) — rlaope/oh-my-hermes publishes a public Agent Skills collection with 260 SKILL.md entries; the fixed tree and README provide an install or usage path.
 - [`runkids/skillshare`](https://github.com/runkids/skillshare) — One command to sync/share Skills across 60+ AI CLIs (with audit).
 - [`yaojingang/yao-meta-skill`](https://github.com/yaojingang/yao-meta-skill) — YAO meta-skill: engineered/evaluated/governed/portable skill workflows.
 - [`rebelytics/one-skill-to-rule-them-all`](https://github.com/rebelytics/one-skill-to-rule-them-all) — Self-improving meta-skill: build and improve all your skills (including itself).
